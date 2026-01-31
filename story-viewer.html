@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html lang="ur" dir="rtl">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Interactive Urdu short stories for children ages 3-13. Learn Urdu reading with adjustable fonts and beautiful themes.">
+    <meta name="description"
+        content="Interactive Urdu short stories for children ages 3-13. Learn Urdu reading with adjustable fonts and beautiful themes.">
     <meta name="keywords" content="Urdu stories, children, learning, education, reading">
     <meta name="author" content="Urdu Stories Project">
     <title>بچوں کی اردو کہانیاں - Urdu Stories for Children</title>
@@ -87,25 +89,25 @@
         .header h1 {
             font-size: 2.5em;
             margin-bottom: 10px;
-            text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
         }
-var(--controls-bg);
-            padding: 20px;
-            border-bottom: 3px solid var(--border-color);
-            display: flex;
-            flex-wrap: wrap;
-            gap: 15px;
-            align-items: center;
-            justify-content: space-between;
-            transition: all 0.3s ease
-            padding: 8px 16px;
-            cursor: pointer;
-            color: white;
-            font-size: 1.2em;
-            transition: all 0.3s;
-            display: flex;
-            align-items: center;
-            gap: 8px;
+
+        var(--controls-bg);
+        padding: 20px;
+        border-bottom: 3px solid var(--border-color);
+        display: flex;
+        flex-wrap: wrap;
+        gap: 15px;
+        align-items: center;
+        justify-content: space-between;
+        transition: all 0.3s ease padding: 8px 16px;
+        cursor: pointer;
+        color: white;
+        font-size: 1.2em;
+        transition: all 0.3s;
+        display: flex;
+        align-items: center;
+        gap: 8px;
         }
 
         .theme-toggle:hover {
@@ -195,8 +197,7 @@ var(--controls-bg);
             border-radius: 8px;
             font-weight: bold;
             color: var(--btn-primary);
-            border: 2px solid var(--border-color)
-            border: 2px solid #667eea;
+            border: 2px solid var(--border-color) border: 2px solid #667eea;
         }
 
         .story-selector {
@@ -266,24 +267,27 @@ var(--controls-bg);
 
         .content table tr:hover {
             background: var(--table-row-hover) {
-            background: #e9ecef;
-        }
+                background: #e9ecef;
+            }
 
-        .content ul, .content ol {
-            margin-right: 30px;
-            margin-bottom: 20px;
-        }
+            .content ul,
+            .content ol {
+                margin-right: 30px;
+                margin-bottom: 20px;
+            }
 
-        .content li {
-            margin-bottom: 10px;
-        }
+            .content li {
+                margin-bottom: 10px;
+            }
 
-        .content code, .var(--code-bg);
+            .content code,
+            .var(--code-bg);
             padding: 10px;
             border-radius: 8px;
             display: block;
             margin: 15px 0;
-            font-family: 'Courier New', monospace;
+            font-family: 'Courier New',
+            monospace;
             border: 1px solid var(--border-color);
         }
 
@@ -334,31 +338,9 @@ var(--controls-bg);
 
             .content {
                 padding: 20px;
-            }button class="theme-toggle" onclick="toggleTheme()" title="Toggle Theme">
-                <i class="fas fa-moon" id="themeIcon"></i>
-                <span id="themeText">Dark</span>
-            </button>
-            <a href="https://github.com/neoisda1/Urdu-project" class="github-link" target="_blank" title="View on GitHub">
-                <i class="fab fa-github"></i>
-                <span>GitHub</span>
-            </a>
-            <h1>📚 بچوں کی اردو کہانیاں 📖</h1>
-            <p>Urdu Short Stories for Young Children</p>
-            <div class="stats">
-                <div class="stat-box">
-                    <div class="stat-number">33</div>
-                    <div class="stat-label">کہانیاں / Stories</div>
-                </div>
-                <div class="stat-box">
-                    <div class="stat-number">300+</div>
-                    <div class="stat-label">الفاظ / Words</div>
-                </div>
-                <div class="stat-box">
-                    <div class="stat-number">3-13</div>
-                    <div class="stat-label">عمر / Age</div>
-                </div>
-            </div
-            .header h1 {
+            }
+
+            button class="theme-toggle" onclick="toggleTheme()" title="Toggle Theme"><i class="fas fa-moon" id="themeIcon"></i><span id="themeText">Dark</span></button><a href="https://github.com/neoisda1/Urdu-project" class="github-link" target="_blank" title="View on GitHub"><i class="fab fa-github"></i><span>GitHub</span></a><h1>📚 بچوں کی اردو کہانیاں 📖</h1><p>Urdu Short Stories for Young Children</p><div class="stats"><div class="stat-box"><div class="stat-number">33</div><div class="stat-label">کہانیاں / Stories</div></div><div class="stat-box"><div class="stat-number">300+</div><div class="stat-label">الفاظ / Words</div></div><div class="stat-box"><div class="stat-number">3-13</div><div class="stat-label">عمر / Age</div></div></div .header h1 {
                 font-size: 1.8em;
             }
         }
@@ -369,7 +351,9 @@ var(--controls-bg);
                 background: white;
             }
 
-            .controls, .footer, .header {
+            .controls,
+            .footer,
+            .header {
                 display: none;
             }
 
@@ -379,6 +363,7 @@ var(--controls-bg);
         }
     </style>
 </head>
+
 <body>
     <div class="container">
         <div class="header">
@@ -416,42 +401,43 @@ var(--controls-bg);
                         <option value="کہانیاں/12-مہربان-نانبائی.md">12 - مہربان نانبائی (Kind Baker)</option>
                         <option value="کہانیاں/13-منو-اور-گاجر.md">13 - منو اور گاجر (Mano & Carrot)</option>
                         <option value="کہانیاں/14-چھوٹی-بلی-منی.md">14 - چھوٹی بلی مِنی (Little Cat Mini)</option>
-                        <option value="کہانیاں/15-سچ-بولنے-والا-احمد.md">15 - سچ بولنے والا احمد (Truth-telling Ahmad)</option>
+                        <option value="کہانیاں/15-سچ-بولنے-والا-احمد.md">15 - سچ بولنے والا احمد (Truth-telling Ahmad)
+                        </option>
                         <option value="کہانیاں/16-ننھا-پودا.md">16 - ننھا پودا (Little Plant)</option>
                     </optgroup>
                     <optgroup label="🧸 چھوٹے بچوں کی کہانیاں / Stories for Younger Children (Age 3-5)">
                         <option value="کہانیاں/17-ننھا-بلی-کا-بچہ.md">17 - ننھا بلی کا بچہ (Tiny Kitten)</option>
                         <option value="کہانیاں/18-پیاری-تتلی.md">18 - پیاری تتلی (Sweet Butterfly)</option>
                         <option value="کہانیاں/19-میرا-دوست-کتا.md">19 - میرا دوست کتا (My Friend Dog)</option>
-           Theme Management
-        function toggleTheme() {
-            const html = document.documentElement;
-            const currentTheme = html.getAttribute('data-theme');
-            const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
-            const icon = document.getElementById('themeIcon');
-            const text = document.getElementById('themeText');
-            
-            html.setAttribute('data-theme', newTheme);
-            localStorage.setItem('theme', newTheme);
-            
-            if (newTheme === 'dark') {
-                icon.className = 'fas fa-sun';
-                text.textContent = 'Light';
-            } else {
-                icon.className = 'fas fa-moon';
-                text.textContent = 'Dark';
-            }
-        }
+                        Theme Management
+                        function toggleTheme() {
+                        const html = document.documentElement;
+                        const currentTheme = html.getAttribute('data-theme');
+                        const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+                        const icon = document.getElementById('themeIcon');
+                        const text = document.getElementById('themeText');
 
-        // Load saved theme
-        const savedTheme = localStorage.getItem('theme') || 'light';
-        document.documentElement.setAttribute('data-theme', savedTheme);
-        if (savedTheme === 'dark') {
-            document.getElementById('themeIcon').className = 'fas fa-sun';
-            document.getElementById('themeText').textContent = 'Light';
-        }
+                        html.setAttribute('data-theme', newTheme);
+                        localStorage.setItem('theme', newTheme);
 
-        //              <option value="کہانیاں/20-چھوٹی-مچھلی.md">20 - چھوٹی مچھلی (Little Fish)</option>
+                        if (newTheme === 'dark') {
+                        icon.className = 'fas fa-sun';
+                        text.textContent = 'Light';
+                        } else {
+                        icon.className = 'fas fa-moon';
+                        text.textContent = 'Dark';
+                        }
+                        }
+
+                        // Load saved theme
+                        const savedTheme = localStorage.getItem('theme') || 'light';
+                        document.documentElement.setAttribute('data-theme', savedTheme);
+                        if (savedTheme === 'dark') {
+                        document.getElementById('themeIcon').className = 'fas fa-sun';
+                        document.getElementById('themeText').textContent = 'Light';
+                        }
+
+                        // <option value="کہانیاں/20-چھوٹی-مچھلی.md">20 - چھوٹی مچھلی (Little Fish)</option>
                         <option value="کہانیاں/21-پیارا-سورج.md">21 - پیارا سورج (Dear Sun)</option>
                         <option value="کہانیاں/22-ننھا-بچہ.md">22 - ننھا بچہ (Tiny Baby)</option>
                     </optgroup>
@@ -468,7 +454,8 @@ var(--controls-bg);
                         <option value="کہانیاں/30-بھوت-کا-ڈر.md">30 - بھوت کا ڈر (Fear of Ghost)</option>
                         <option value="کہانیاں/31-ذہین-طوطا.md">31 - ذہین طوطا (Clever Parrot)</option>
                         <option value="کہانیاں/32-امتحان-میں-دھوکہ.md">32 - امتحان میں دھوکہ (Cheating in Exam)</option>
-                        <option value="کہانیاں/33-رات-کی-سیر-کا-راز.md">33 - رات کی سیر کا راز (Mystery Night Walk)</option>
+                        <option value="کہانیاں/33-رات-کی-سیر-کا-راز.md">33 - رات کی سیر کا راز (Mystery Night Walk)
+                        </option>
                     </optgroup>
                 </select>
             </div>
@@ -554,7 +541,7 @@ var(--controls-bg);
             try {
                 const response = await fetch(filePath);
                 if (!response.ok) throw new Error('Story not found');
-                
+
                 const markdown = await response.text();
                 const html = marked.parse(markdown);
                 contentDiv.innerHTML = html;
@@ -571,7 +558,7 @@ var(--controls-bg);
         }
 
         // Keyboard shortcuts
-        document.addEventListener('keydown', function(e) {
+        document.addEventListener('keydown', function (e) {
             if (e.ctrlKey || e.metaKey) {
                 if (e.key === '+' || e.key === '=') {
                     e.preventDefault();
@@ -587,4 +574,5 @@ var(--controls-bg);
         });
     </script>
 </body>
+
 </html>
