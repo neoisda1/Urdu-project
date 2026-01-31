@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Interactive Urdu short stories for children ages 3-13. Learn Urdu reading with adjustable fonts and beautiful themes.">
+    <title>Urdu Stories for Children - بچوں کی اردو کہانیاں</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 800px;
+            background: white;
+            border-radius: 20px;
+            padding: 50px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 3em;
+            margin-bottom: 20px;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .urdu-title {
+            font-size: 2.5em;
+            margin-bottom: 30px;
+            color: #333;
+            font-family: 'Jameel Noori Nastaleeq', Arial, sans-serif;
+        }
+
+        .description {
+            font-size: 1.2em;
+            color: #666;
+            margin-bottom: 40px;
+            line-height: 1.8;
+        }
+
+        .features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin: 40px 0;
+        }
+
+        .feature {
+            padding: 20px;
+            background: #f8f9fa;
+            border-radius: 10px;
+            border: 2px solid #667eea;
+        }
+
+        .feature-icon {
+            font-size: 2em;
+            margin-bottom: 10px;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 15px 40px;
+            margin: 10px;
+            font-size: 1.2em;
+            font-weight: bold;
+            color: white;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            border: none;
+            border-radius: 50px;
+            text-decoration: none;
+            transition: all 0.3s;
+            cursor: pointer;
+        }
+
+        .btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 10px 20px rgba(102, 126, 234, 0.4);
+        }
+
+        .github-btn {
+            background: linear-gradient(135deg, #24292e 0%, #000 100%);
+        }
+
+        .stats {
+            display: flex;
+            justify-content: space-around;
+            margin: 40px 0;
+            flex-wrap: wrap;
+        }
+
+        .stat {
+            padding: 20px;
+        }
+
+        .stat-number {
+            font-size: 3em;
+            font-weight: bold;
+            color: #667eea;
+        }
+
+        .stat-label {
+            color: #666;
+            margin-top: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>📚 Urdu Stories for Children 📖</h1>
+        <div class="urdu-title">بچوں کی اردو کہانیاں</div>
+        
+        <p class="description">
+            An interactive collection of Urdu short stories designed to help children 
+            ages 3-13 learn reading, expand vocabulary, and enjoy beautiful stories.
+        </p>
+
+        <div class="stats">
+            <div class="stat">
+                <div class="stat-number">33</div>
+                <div class="stat-label">Stories</div>
+            </div>
+            <div class="stat">
+                <div class="stat-number">300+</div>
+                <div class="stat-label">Words</div>
+            </div>
+            <div class="stat">
+                <div class="stat-number">5</div>
+                <div class="stat-label">Categories</div>
+            </div>
+        </div>
+
+        <div class="features">
+            <div class="feature">
+                <div class="feature-icon">🎨</div>
+                <strong>Dark/Light Themes</strong>
+                <p>Choose your preferred reading mode</p>
+            </div>
+            <div class="feature">
+                <div class="feature-icon">🔤</div>
+                <strong>Adjustable Fonts</strong>
+                <p>Perfect size for every reader</p>
+            </div>
+            <div class="feature">
+                <div class="feature-icon">📖</div>
+                <strong>Bilingual</strong>
+                <p>Urdu with English translations</p>
+            </div>
+            <div class="feature">
+                <div class="feature-icon">🎯</div>
+                <strong>Age Appropriate</strong>
+                <p>Stories for ages 3-13</p>
+            </div>
+        </div>
+
+        <a href="story-viewer.html" class="btn">🚀 Start Reading</a>
+        <a href="https://github.com" target="_blank" class="btn github-btn">💻 View on GitHub</a>
+
+        <div style="margin-top: 40px; color: #999; font-size: 0.9em;">
+            <p>✨ Features: Reading lessons, vocabulary lists, activities, and moral lessons</p>
+            <p>🎭 Categories: Regular, Simple, Funny, and Mystery stories</p>
+        </div>
+    </div>
+</body>
+</html>
