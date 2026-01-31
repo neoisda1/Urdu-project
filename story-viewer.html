@@ -205,7 +205,8 @@
         .font-size-display {
             background: var(--container-bg);
             padding: 8px 15px;
-            border-radius: 8px;;
+            border-radius: 8px;
+            ;
         }
 
         .story-selector {
@@ -234,8 +235,7 @@
             color: var(--text-color);
             transition: font-size 0.3s ease;
             max-width: 100%;
-            overflow-x: hidden
-            outline: none;
+            overflow-x: hidden outline: none;
             border-color: var(--btn-primary-end);
             box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.2)herit;
             background: var(--container-bg);
@@ -304,21 +304,21 @@
             font-family: 'Courier New', monospace;
             border: 1px solid var(--border-color);
             overflow-x: auto
-            }
+        }
 
-            .content li {
-                margin-bottom: 10px;
-            }
+        .content li {
+            margin-bottom: 10px;
+        }
 
-            .content code,
-            .var(--code-bg);
-            padding: 10px;
-            border-radius: 8px;
-            display: block;
-            margin: 15px 0;
-            font-family: 'Courier New',
-            monospace;
-            border: 1px solid var(--border-color);
+        .content code,
+        .var(--code-bg);
+        padding: 10px;
+        border-radius: 8px;
+        display: block;
+        margin: 15px 0;
+        font-family: 'Courier New',
+        monospace;
+        border: 1px solid var(--border-color);
         }
 
         .footer {
@@ -354,6 +354,7 @@
             font-size: 2em;
             font-weight: bold;
         }
+
         .home-link {
             background: linear-gradient(135deg, var(--btn-info) 0%, var(--btn-info-end) 100%);
             color: white;
@@ -393,55 +394,32 @@
                 width: 100%;
                 justify-content: center;
             }
-button class="theme-toggle" onclick="toggleTheme()" title="Toggle Theme">
-                <i class="fas fa-moon" id="themeIcon"></i>
-                <span id="themeText">Dark</span>
-            </button>
-            <a href="https://github.com/neoisda1/Urdu-project" class="github-link" target="_blank" title="View on GitHub">
-                <i class="fab fa-github"></i>
-                <span>GitHub</span>
-            </a>
-            <h1>📚 بچوں کی اردو کہانیاں 📖</h1>
-            <p>Urdu Short Stories for Young Children</p>
-            <div class="stats">
-                <div class="stat-box">
-                    <div class="stat-number">33</div>
-                    <div class="stat-label">کہانیاں / Stories</div>
-                </div>
-                <div class="stat-box">
-                    <div class="stat-number">300+</div>
-                    <div class="stat-label">الفاظ / Words</div>
-                </div>
-                <div class="stat-box">
-                    <div class="stat-number">3-13</div>
-                    <div class="stat-label">عمر / Age</div>
-                </div>
-            </div
-                max-width: 100%;
-            }
 
-            .content {
-                padding: 15px;
-                font-size: 16px !important;
-            }
+            button class="theme-toggle" onclick="toggleTheme()" title="Toggle Theme"><i class="fas fa-moon" id="themeIcon"></i><span id="themeText">Dark</span></button><a href="https://github.com/neoisda1/Urdu-project" class="github-link" target="_blank" title="View on GitHub"><i class="fab fa-github"></i><span>GitHub</span></a><h1>📚 بچوں کی اردو کہانیاں 📖</h1><p>Urdu Short Stories for Young Children</p><div class="stats"><div class="stat-box"><div class="stat-number">33</div><div class="stat-label">کہانیاں / Stories</div></div><div class="stat-box"><div class="stat-number">300+</div><div class="stat-label">الفاظ / Words</div></div><div class="stat-box"><div class="stat-number">3-13</div><div class="stat-label">عمر / Age</div></div></div max-width: 100%;
+        }
 
-            .content table {
-                font-size: 0.85em;
-            }
+        .content {
+            padding: 15px;
+            font-size: 16px !important;
+        }
 
-            .content table th,
-            .content table td {
-                padding: 8px 5px;
-            }
+        .content table {
+            font-size: 0.85em;
+        }
 
-            .header {
-                padding:1.5em;
-            }
+        .content table th,
+        .content table td {
+            padding: 8px 5px;
+        }
 
-            .btn {
-                padding: 8px 12px;
-                font-size: 0.95
-            .content {
+        .header {
+            padding: 1.5em;
+        }
+
+        .btn {
+            padding: 8px 12px;
+
+            font-size: 0.95 .content {
                 padding: 20px;
             }
 
@@ -472,8 +450,8 @@ button class="theme-toggle" onclick="toggleTheme()" title="Toggle Theme">
 <body>
     <div class="container">
         <div a href="index.html" class="home-link">
-                <i class="fas fa-home"></i>
-                <span>🏠 واپس / Home</span>
+            <i class="fas fa-home"></i>
+            <span>🏠 واپس / Home</span>
             </a>
             <p>بچوں کی تعلیم کے لیے | For Children's Education</p>
             <p>عمر: ۳ سے ۱۳ سال | Age: 3 to 13h1>
@@ -506,35 +484,35 @@ button class="theme-toggle" onclick="toggleTheme()" title="Toggle Theme">
                         <option value="کہانیاں/08-بارش-کا-دن.md">08 - بارش کا دن (Rainy Day)</option>
                         <option value="کہانیاں/09-نیک-ہاتھی.md">09 - نیک ہاتھی (Kind Elephant)</option>
                         <option value="کہانیاں/10-سمجھدار-کچھوا.md">10 - سمجھدار کچھوا (Wise Tortoise)</option>
-        // Theme Management
-        function toggleTheme() {
-            const html = document.documentElement;
-            const currentTheme = html.getAttribute('data-theme');
-            const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
-            const icon = document.getElementById('themeIcon');
-            const text = document.getElementById('themeText');
+                        // Theme Management
+                        function toggleTheme() {
+                        const html = document.documentElement;
+                        const currentTheme = html.getAttribute('data-theme');
+                        const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+                        const icon = document.getElementById('themeIcon');
+                        const text = document.getElementById('themeText');
 
-            html.setAttribute('data-theme', newTheme);
-            localStorage.setItem('theme', newTheme);
+                        html.setAttribute('data-theme', newTheme);
+                        localStorage.setItem('theme', newTheme);
 
-            if (newTheme === 'dark') {
-                icon.className = 'fas fa-sun';
-                text.textContent = 'Light';
-            } else {
-                icon.className = 'fas fa-moon';
-                text.textContent = 'Dark';
-            }
-        }
+                        if (newTheme === 'dark') {
+                        icon.className = 'fas fa-sun';
+                        text.textContent = 'Light';
+                        } else {
+                        icon.className = 'fas fa-moon';
+                        text.textContent = 'Dark';
+                        }
+                        }
 
-        // Load saved theme on page load
-        const savedTheme = localStorage.getItem('theme') || 'light';
-        document.documentElement.setAttribute('data-theme', savedTheme);
-        if (savedTheme === 'dark') {
-            document.getElementById('themeIcon').className = 'fas fa-sun';
-            document.getElementById('themeText').textContent = 'Light';
-        }
+                        // Load saved theme on page load
+                        const savedTheme = localStorage.getItem('theme') || 'light';
+                        document.documentElement.setAttribute('data-theme', savedTheme);
+                        if (savedTheme === 'dark') {
+                        document.getElementById('themeIcon').className = 'fas fa-sun';
+                        document.getElementById('themeText').textContent = 'Light';
+                        }
 
-        // Font size management
+                        // Font size management
                         <option value="کہانیاں/11-رنگین-تتلیاں.md">11 - رنگین تتلیاں (Colorful Butterflies)</option>
                         <option value="کہانیاں/12-مہربان-نانبائی.md">12 - مہربان نانبائی (Kind Baker)</option>
                         <option value="کہانیاں/13-منو-اور-گاجر.md">13 - منو اور گاجر (Mano & Carrot)</option>
