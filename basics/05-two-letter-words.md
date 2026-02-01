@@ -16,11 +16,11 @@ Now it's time to **build words** and start reading real Urdu! In this chapter, y
 
 ---
 
-## 🎯 What are Vowel Marks (اعراب)?
+## <span dir="ltr">🎯 What are Vowel Marks (اعراب)?</span>
 
-Vowel marks are **small symbols** written above or below letters to show how to pronounce them. They're like pronunciation guides!
+<span dir="ltr">Vowel marks are **small symbols** written above or below letters to show how to pronounce them. They're like pronunciation guides!</span>
 
-### The 3 Main Vowel Marks:
+### <span dir="ltr">The 3 Main Vowel Marks:</span>
 
 | Mark | Name | Sound | Example |
 |------|------|-------|---------|
@@ -30,18 +30,18 @@ Vowel marks are **small symbols** written above or below letters to show how to 
 
 ---
 
-## 📖 Understanding Vowel Marks
+## <span dir="ltr">📖 Understanding Vowel Marks</span>
 
-### Example with letter **ب** (Bay):
+### <span dir="ltr">Example with letter **ب** (Bay):</span>
 
-Without vowel mark: **ب** (just "b" sound)
+<span dir="ltr">Without vowel mark: **ب** (just "b" sound)</span>
 
-With vowel marks:
+<span dir="ltr">With vowel marks:</span>
 - **بَ** (with zabar) = "ba" (like "bat")
 - **بِ** (with zer) = "bi" (like "bit")
 - **بُ** (with pesh) = "bu" (like "book")
 
-### Practice with different letters:
+### <span dir="ltr">Practice with different letters:</span>
 
 | Letter | + Zabar | + Zer | + Pesh |
 |--------|---------|-------|--------|
@@ -52,9 +52,9 @@ With vowel marks:
 
 ---
 
-## 📚 30 Essential 2-Letter Words
+## <span dir="ltr">📚 30 Essential 2-Letter Words</span>
 
-### Group 1: Very Common Words (10 words)
+### <span dir="ltr">Group 1: Very Common Words (10 words)</span>
 
 | Word | With Aerab | Pronunciation | Meaning |
 |------|------------|---------------|---------|
@@ -69,7 +69,7 @@ With vowel marks:
 | **سب** | **سَب** | sab | all |
 | **کب** | **کَب** | kab | when |
 
-### Group 2: Body & Nature (10 words)
+### <span dir="ltr">Group 2: Body & Nature (10 words)</span>
 
 | Word | With Aerab | Pronunciation | Meaning |
 |------|------------|---------------|---------|
@@ -84,7 +84,7 @@ With vowel marks:
 | **گھر** | **گھَر** | ghar | house |
 | **کل** | **کَل** | kal | yesterday/tomorrow |
 
-### Group 3: Actions & More (10 words)
+### <span dir="ltr">Group 3: Actions & More (10 words)</span>
 
 | Word | With Aerab | Pronunciation | Meaning |
 |------|------------|---------------|---------|
@@ -103,9 +103,9 @@ With vowel marks:
 
 ## 🎯 Practice Exercises
 
-### Exercise 1: Add the Correct Vowel Mark
+### <span dir="ltr">Exercise 1: Add the Correct Vowel Mark</span>
 
-**Add zabar (َ) to these letters:**
+**<span dir="ltr">Add zabar (َ) to these letters:</span>**
 
 1. ب + زبر = **بَ** (ba)
 2. ک + زبر = **کَ** (ka)
@@ -113,9 +113,9 @@ With vowel marks:
 4. د + زبر = **دَ** (da)
 5. م + زبر = **مَ** (ma)
 
-### Exercise 2: Read These Words
+### <span dir="ltr">Exercise 2: Read These Words</span>
 
-**Try to read these words with vowel marks:**
+**<span dir="ltr">Try to read these words with vowel marks:</span>**
 
 ```
 دِل    کَم    بَس    سَب    گُل
@@ -123,7 +123,7 @@ With vowel marks:
 
 **Answers:** dil (heart), kam (less), bas (enough), sab (all), gul (flower)
 
-### Exercise 3: Match Words to Meanings
+### <span dir="ltr">Exercise 3: Match Words to Meanings</span>
 
 ```
 ہم → ?        (we, you, all)
@@ -133,9 +133,9 @@ With vowel marks:
 
 **Answers:** ہم = we, تم = you, سب = all
 
-### Exercise 4: Build Words
+### <span dir="ltr">Exercise 4: Build Words</span>
 
-**Can you form these words using letters?**
+**<span dir="ltr">Can you form these words using letters?</span>**
 
 1. "heart" = د + ل = **دل**
 2. "house" = گ + ھ + ر = **گھر**
@@ -146,30 +146,30 @@ With vowel marks:
 
 ## 💡 Pronunciation Tips
 
-### Zabar (َ) - "a" sound:
+### <span dir="ltr">Zabar (َ) - "a" sound:</span>
 - **بَس** (bas) = enough
 - **سَب** (sab) = all
 - **کَم** (kam) = less
 
-**Tip:** Keep it short and crisp, like "a" in "cat"
+**<span dir="ltr">Tip:</span>** <span dir="ltr">Keep it short and crisp, like "a" in "cat"</span>
 
-### Zer (ِ) - "i" sound:
+### <span dir="ltr">Zer (ِ) - "i" sound:</span>
 - **دِل** (dil) = heart
 - **سِر** (sir) = head
 
-**Tip:** Like "i" in "sit"
+**<span dir="ltr">Tip:</span>** <span dir="ltr">Like "i" in "sit"</span>
 
-### Pesh (ُ) - "u" sound:
+### <span dir="ltr">Pesh (ُ) - "u" sound:</span>
 - **تُم** (tum) = you
 - **گُل** (gul) = flower
 
-**Tip:** Like "u" in "put"
+**<span dir="ltr">Tip:</span>** <span dir="ltr">Like "u" in "put"</span>
 
 ---
 
-## 🏆 Common Phrases with 2-Letter Words
+## <span dir="ltr">🏆 Common Phrases with 2-Letter Words</span>
 
-### Using these words in context:
+### <span dir="ltr">Using these words in context:</span>
 
 1. **ہم سب** (hum sab) = all of us
 2. **تم کب** (tum kab) = when are you
@@ -181,27 +181,27 @@ With vowel marks:
 
 ## 📝 Daily Practice Schedule
 
-### Day 1:
+### <span dir="ltr">Day 1:</span>
 - Learn vowel marks (zabar, zer, pesh)
 - Practice writing them on 10 letters
 - Learn first 10 words (Group 1)
 
-### Day 2:
+### <span dir="ltr">Day 2:</span>
 - Review vowel marks
 - Learn next 10 words (Group 2)
 - Practice reading Group 1 words
 
-### Day 3:
+### <span dir="ltr">Day 3:</span>
 - Learn final 10 words (Group 3)
 - Practice all 30 words
 - Do Exercises 1-4
 
-### Day 4:
+### <span dir="ltr">Day 4:</span>
 - Speed reading drill: All 30 words
 - Practice writing words from memory
 - Learn simple phrases
 
-### Day 5:
+### <span dir="ltr">Day 5:</span>
 - Review everything
 - Test yourself without looking!
 - Prepare for Chapter 6 (3-letter words!)
@@ -221,24 +221,24 @@ By the end of this chapter, you will:
 
 ---
 
-## ➡️ Next Chapter Preview
+## <span dir="ltr">➡️ Next Chapter Preview</span>
 
-In **Chapter 6**, you will learn:
-- 50 common 3-letter words
-- Family words: ماں، باپ، بیٹا
-- Body parts: سر، آنکھ، ہاتھ
-- Nature words: پانی، آگ، ہوا
-- Special combinations: لا، ال، کی، می
+<span dir="ltr">In **Chapter 6**, you will learn:</span>
+- <span dir="ltr">50 common 3-letter words</span>
+- <span dir="ltr">Family words: ماں، باپ، بیٹا</span>
+- <span dir="ltr">Body parts: سر، آنکھ، ہاتھ</span>
+- <span dir="ltr">Nature words: پانی، آگ، ہوا</span>
+- <span dir="ltr">Special combinations: لا، ال، کی، می</span>
 
 ---
 
-## 🎯 Challenge: Create Your Own Words!
+## <span dir="ltr">🎯 Challenge: Create Your Own Words!</span>
 
-**Try combining these letters with vowel marks:**
+**<span dir="ltr">Try combining these letters with vowel marks:</span>**
 
-Using: ب، ت، د، ل، م، س، ک
+<span dir="ltr">Using: ب، ت، د، ل، م، س، ک</span>
 
-Can you create 5 two-letter words? ✍️
+<span dir="ltr">Can you create 5 two-letter words?</span> ✍️
 
 ---
 

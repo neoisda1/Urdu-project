@@ -11,17 +11,17 @@ You've learned letters, words, and sentences. Now let's put it all together and 
 
 ---
 
-## 🎯 Reading Strategy
+## <span dir="ltr">🎯 Reading Strategy</span>
 
-### The 3-Step Method:
+### <span dir="ltr">The 3-Step Method:</span>
 
-1. **پہلی بار** (First Read): Read slowly, identify all words
-2. **دوسری بار** (Second Read): Read faster, understand meaning
-3. **تیسری بار** (Third Read): Read fluently, enjoy the content
+1. **پہلی بار** <span dir="ltr">(First Read): Read slowly, identify all words</span>
+2. **دوسری بار** <span dir="ltr">(Second Read): Read faster, understand meaning</span>
+3. **تیسری بار** <span dir="ltr">(Third Read): Read fluently, enjoy the content</span>
 
 ---
 
-## 📖 Passage 1: میرا خاندان (My Family)
+## <span dir="ltr">📖 Passage 1: میرا خاندان (My Family)</span>
 
 <div class="practice-box">
 
@@ -40,25 +40,25 @@ You've learned letters, words, and sentences. Now let's put it all together and 
 <div class="practice-box">
 
 1. **احمد کتنے سال کا ہے؟**  
-   **Answer:** دس سال کا
+   **<span dir="ltr">Answer:</span>** دس سال کا
 
 2. **احمد کے ابو کیا کام کرتے ہیں؟**  
-   **Answer:** ڈاکٹر ہیں / ہسپتال میں کام کرتے ہیں
+   **<span dir="ltr">Answer:</span>** <span dir="ltr">ڈاکٹر ہیں / ہسپتال میں کام کرتے ہیں</span>
 
 3. **احمد کے خاندان میں کتنے لوگ ہیں؟**  
-   **Answer:** پانچ لوگ
+   **<span dir="ltr">Answer:</span>** پانچ لوگ
 
 4. **فاطمہ کہاں پڑھتی ہے؟**  
-   **Answer:** یونیورسٹی میں
+   **<span dir="ltr">Answer:</span>** یونیورسٹی میں
 
 5. **علی کتنے سال کا ہے؟**  
-   **Answer:** پانچ سال کا
+   **<span dir="ltr">Answer:</span>** پانچ سال کا
 
 </div>
 
 ---
 
-## 📖 Passage 2: میرا دن (My Day)
+## <span dir="ltr">📖 Passage 2: میرا دن (My Day)</span>
 
 <div class="practice-box">
 
@@ -95,7 +95,7 @@ You've learned letters, words, and sentences. Now let's put it all together and 
 
 ---
 
-## 📖 Passage 3: موسم (Weather & Seasons)
+## <span dir="ltr">📖 Passage 3: موسم (Weather & Seasons)</span>
 
 <div class="practice-box">
 
@@ -134,7 +134,7 @@ You've learned letters, words, and sentences. Now let's put it all together and 
 
 ---
 
-## 📖 Passage 4: جانوروں کی کہانی (Animal Story)
+## <span dir="ltr">📖 Passage 4: جانوروں کی کہانی (Animal Story)</span>
 
 <div class="practice-box">
 
@@ -142,15 +142,15 @@ You've learned letters, words, and sentences. Now let's put it all together and 
 
 **"میں تمہیں کھا جاؤں گا!" شیر نے کہا۔**
 
-**چوہے نے کہا، "مہربانی کر کے مجھے چھوڑ دو۔ ایک دن میں تمہاری مدد کروں گا۔"**
+**چوہے نے کہا، <span dir="ltr">"مہربانی کر کے مجھے چھوڑ دو۔ ایک دن میں تمہاری مدد کروں گا۔"</span>**
 
 **شیر ہنسا اور چوہے کو چھوڑ دیا۔**
 
 **کچھ دن بعد شیر شکاری کے جال میں پھنس گیا۔ وہ چیخ رہا تھا۔ چوہا دوڑتا ہوا آیا۔ اُس نے اپنے دانتوں سے جال کاٹ دیا۔ شیر آزاد ہو گیا۔**
 
-**"شکریہ، میرے چھوٹے دوست!" شیر نے کہا۔**
+**<span dir="ltr">"شکریہ، میرے چھوٹے دوست!"</span>** شیر نے کہا۔
 
-**سبق:** چھوٹا ہونا برا نہیں۔ ہر کوئی مدد کر سکتا ہے۔
+**<span dir="ltr">سبق:</span>** <span dir="ltr">چھوٹا ہونا برا نہیں۔ ہر کوئی مدد کر سکتا ہے۔</span>
 
 </div>
 
@@ -182,8 +182,8 @@ You've learned letters, words, and sentences. Now let's put it all together and 
 
 ## 💪 Practice Exercises
 
-### Exercise 1: Main Idea (مرکزی خیال)
-What is each passage mainly about?
+### <span dir="ltr">Exercise 1: Main Idea (مرکزی خیال)</span>
+<span dir="ltr">What is each passage mainly about?</span>
 
 <div class="practice-box">
 
@@ -194,19 +194,19 @@ What is each passage mainly about?
 
 </div>
 
-### Exercise 2: True or False
+### <span dir="ltr">Exercise 2: True or False</span>
 
 <div class="practice-box">
 
-Based on Passage 1:
+<span dir="ltr">Based on Passage 1:</span>
 1. احمد کے ابو ڈاکٹر ہیں۔ **True**
 2. احمد کے دو بھائی ہیں۔ **False** (ایک بھائی)
 3. فاطمہ سکول میں پڑھتی ہے۔ **False** (یونیورسٹی میں)
 
 </div>
 
-### Exercise 3: Sequence (ترتیب)
-Put these events from Passage 2 in order:
+### <span dir="ltr">Exercise 3: Sequence (ترتیب)</span>
+<span dir="ltr">Put these events from Passage 2 in order:</span>
 
 <div class="practice-box">
 
@@ -216,13 +216,13 @@ Put these events from Passage 2 in order:
 - [ ] ناشتہ کرتا ہوں
 - [ ] سو جاتا ہوں
 
-**Correct Order:** 2, 4, 3, 1, 5
+**<span dir="ltr">Correct Order:</span>** <span dir="ltr">2, 4, 3, 1, 5</span>
 
 </div>
 
 ---
 
-## 📚 New Vocabulary from Passages
+## <span dir="ltr">📚 New Vocabulary from Passages</span>
 
 <div class="practice-box">
 
@@ -294,10 +294,10 @@ By the end of this chapter, you should be able to:
 
 ---
 
-## 🎉 Outstanding Achievement!
+## <span dir="ltr">🎉 Outstanding Achievement!</span>
 
-You can now read and understand real Urdu text!
+<span dir="ltr">You can now read and understand real Urdu text!</span>
 
-**Next:** Chapter 12 - Final chapter with advanced reading and complete mastery!
+**<span dir="ltr">Next:</span>** <span dir="ltr">Chapter 12 - Final chapter with advanced reading and complete mastery!</span>
 
 **ماشاءاللہ!** (God has willed it - expression of joy/praise!)

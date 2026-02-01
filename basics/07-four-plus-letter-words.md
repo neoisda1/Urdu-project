@@ -11,13 +11,13 @@ Excellent! You can now read simple 2 and 3-letter words. Time to tackle **longer
 
 ---
 
-## 🎯 Building Longer Words
+## <span dir="ltr">🎯 Building Longer Words</span>
 
-Longer words are just combinations of the letters and patterns you already know. Don't be intimidated - break them down letter by letter!
+<span dir="ltr">Longer words are just combinations of the letters and patterns you already know. Don't be intimidated - break them down letter by letter!</span>
 
 ---
 
-## 📖 Group 1: Family & Relationships
+## <span dir="ltr">📖 Group 1: Family & Relationships</span>
 
 <div class="practice-box">
 
@@ -38,7 +38,7 @@ Longer words are just combinations of the letters and patterns you already know.
 
 ---
 
-## 📖 Group 2: Places & Buildings
+## <span dir="ltr">📖 Group 2: Places & Buildings</span>
 
 <div class="practice-box">
 
@@ -61,7 +61,7 @@ Longer words are just combinations of the letters and patterns you already know.
 
 ---
 
-## 📖 Group 3: Daily Life Objects
+## <span dir="ltr">📖 Group 3: Daily Life Objects</span>
 
 <div class="practice-box">
 
@@ -84,7 +84,7 @@ Longer words are just combinations of the letters and patterns you already know.
 
 ---
 
-## 📖 Group 4: Time & Days
+## <span dir="ltr">📖 Group 4: Time & Days</span>
 
 <div class="practice-box">
 
@@ -110,7 +110,7 @@ Longer words are just combinations of the letters and patterns you already know.
 
 ---
 
-## 📖 Group 5: Weather & Seasons
+## <span dir="ltr">📖 Group 5: Weather & Seasons</span>
 
 <div class="practice-box">
 
@@ -131,7 +131,7 @@ Longer words are just combinations of the letters and patterns you already know.
 
 ---
 
-## 📖 Group 6: Food & Meals
+## <span dir="ltr">📖 Group 6: Food & Meals</span>
 
 <div class="practice-box">
 
@@ -152,7 +152,7 @@ Longer words are just combinations of the letters and patterns you already know.
 
 ---
 
-## 📖 Group 7: Clothing (کپڑے)
+## <span dir="ltr">📖 Group 7: Clothing (کپڑے)</span>
 
 <div class="practice-box">
 
@@ -173,7 +173,7 @@ Longer words are just combinations of the letters and patterns you already know.
 
 ---
 
-## 📖 Group 8: Numbers (گنتی)
+## <span dir="ltr">📖 Group 8: Numbers (گنتی)</span>
 
 <div class="practice-box">
 
@@ -198,8 +198,8 @@ Longer words are just combinations of the letters and patterns you already know.
 
 ## 💪 Practice Exercises
 
-### Exercise 1: Break It Down
-Break these words into individual letters:
+### <span dir="ltr">Exercise 1: Break It Down</span>
+<span dir="ltr">Break these words into individual letters:</span>
 
 <div class="practice-box">
 
@@ -210,8 +210,8 @@ Break these words into individual letters:
 
 </div>
 
-### Exercise 2: Match the Categories
-Which category do these words belong to?
+### <span dir="ltr">Exercise 2: Match the Categories</span>
+<span dir="ltr">Which category do these words belong to?</span>
 
 <div class="practice-box">
 
@@ -223,18 +223,18 @@ Which category do these words belong to?
 
 </div>
 
-### Exercise 3: Fill in the Missing Word
+### <span dir="ltr">Exercise 3: Fill in the Missing Word</span>
 
 <div class="practice-box">
 
-1. میں _____ جاتا ہوں۔ (I go to school)
-   **Answer:** سکول
+1. میں _____ جاتا ہوں۔ <span dir="ltr">(I go to school)</span>
+   **<span dir="ltr">Answer:</span>** سکول
 
-2. آج _____ ہے۔ (Today is Monday)
-   **Answer:** پیر
+2. آج _____ ہے۔ <span dir="ltr">(Today is Monday)</span>
+   **<span dir="ltr">Answer:</span>** پیر
 
-3. یہ میری _____ ہے۔ (This is my book)
-   **Answer:** کتاب
+3. یہ میری _____ ہے۔ <span dir="ltr">(This is my book)</span>
+   **<span dir="ltr">Answer:</span>** کتاب
 
 </div>
 
@@ -256,42 +256,42 @@ Use these words to make sentences:
 
 ---
 
-## 🎯 Speed Reading Practice
+## <span dir="ltr">🎯 Speed Reading Practice</span>
 
-### Set 1: Places (1 minute)
+### <span dir="ltr">Set 1: Places (1 minute)</span>
 **گھر، مکان، سکول، مسجد، ہسپتال، دکان، بازار، باغ، پارک**
 
-### Set 2: Time Words (1 minute)
+### <span dir="ltr">Set 2: Time Words (1 minute)</span>
 **صبح، دوپہر، شام، رات، پیر، منگل، بدھ، جمعرات، جمعہ، اتوار**
 
-### Set 3: Daily Objects (1 minute)
+### <span dir="ltr">Set 3: Daily Objects (1 minute)</span>
 **کتاب، قلم، میز، کرسی، دروازہ، کھڑکی، چابی، تالا**
 
 ---
 
 ## 📅 5-Day Practice Schedule
 
-### Day 1: Family + Places
+### <span dir="ltr">Day 1: Family + Places</span>
 - Learn Groups 1 & 2 (20 words)
 - Write each word 3 times
 - Practice Exercise 1
 
-### Day 2: Objects + Time
+### <span dir="ltr">Day 2: Objects + Time</span>
 - Learn Groups 3 & 4 (25 words)
 - Write each word 3 times
 - Practice Exercise 2
 
-### Day 3: Weather + Food
+### <span dir="ltr">Day 3: Weather + Food</span>
 - Learn Groups 5 & 6 (20 words)
 - Write each word 3 times
 - Practice Exercise 3
 
-### Day 4: Clothing + Numbers
+### <span dir="ltr">Day 4: Clothing + Numbers</span>
 - Learn Groups 7 & 8 (20 words)
 - Review all 85 words
 - Practice Exercise 4
 
-### Day 5: Master Practice
+### <span dir="ltr">Day 5: Master Practice</span>
 - Read all vocabulary (Sets 1-3)
 - Write 20 words from memory
 - Make 10 sentences
@@ -310,10 +310,10 @@ By the end of this chapter, you should be able to:
 
 ---
 
-## 🎉 Fantastic Work!
+## <span dir="ltr">🎉 Fantastic Work!</span>
 
-You've built a strong vocabulary! Over 100 words total now!
+<span dir="ltr">You've built a strong vocabulary! Over 100 words total now!</span>
 
-**Next:** Chapter 8 - Learn word families and patterns to expand vocabulary even faster!
+**<span dir="ltr">Next:</span>** <span dir="ltr">Chapter 8 - Learn word families and patterns to expand vocabulary even faster!</span>
 
 **بہت اچھا!** (Very good!)

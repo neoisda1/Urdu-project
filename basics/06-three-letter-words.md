@@ -11,13 +11,13 @@ Great job with 2-letter words! Now let's move to **3-letter words** - the founda
 
 ---
 
-## 🎯 Why 3-Letter Words Matter
+## <span dir="ltr">🎯 Why 3-Letter Words Matter</span>
 
-Most basic Urdu words have 3 letters. Once you master these, you can read 60-70% of simple Urdu text!
+<span dir="ltr">Most basic Urdu words have 3 letters. Once you master these, you can read 60-70% of simple Urdu text!</span>
 
 ---
 
-## 📖 Group 1: Family Words
+## <span dir="ltr">📖 Group 1: Family Words</span>
 
 <div class="practice-box">
 
@@ -38,7 +38,7 @@ Most basic Urdu words have 3 letters. Once you master these, you can read 60-70%
 
 ---
 
-## 📖 Group 2: Animals (جانور)
+## <span dir="ltr">📖 Group 2: Animals (جانور)</span>
 
 <div class="practice-box">
 
@@ -59,7 +59,7 @@ Most basic Urdu words have 3 letters. Once you master these, you can read 60-70%
 
 ---
 
-## 📖 Group 3: Body Parts (جسم کے حصے)
+## <span dir="ltr">📖 Group 3: Body Parts (جسم کے حصے)</span>
 
 <div class="practice-box">
 
@@ -80,7 +80,7 @@ Most basic Urdu words have 3 letters. Once you master these, you can read 60-70%
 
 ---
 
-## 📖 Group 4: Nature (قدرت)
+## <span dir="ltr">📖 Group 4: Nature (قدرت)</span>
 
 <div class="practice-box">
 
@@ -101,7 +101,7 @@ Most basic Urdu words have 3 letters. Once you master these, you can read 60-70%
 
 ---
 
-## 📖 Group 5: Food Items (کھانے کی چیزیں)
+## <span dir="ltr">📖 Group 5: Food Items (کھانے کی چیزیں)</span>
 
 <div class="practice-box">
 
@@ -122,7 +122,7 @@ Most basic Urdu words have 3 letters. Once you master these, you can read 60-70%
 
 ---
 
-## 📖 Group 6: Colors (رنگ)
+## <span dir="ltr">📖 Group 6: Colors (رنگ)</span>
 
 <div class="practice-box">
 
@@ -143,7 +143,7 @@ Most basic Urdu words have 3 letters. Once you master these, you can read 60-70%
 
 ---
 
-## 📖 Group 7: Common Actions (عام فعل)
+## <span dir="ltr">📖 Group 7: Common Actions (عام فعل)</span>
 
 <div class="practice-box">
 
@@ -166,8 +166,8 @@ Most basic Urdu words have 3 letters. Once you master these, you can read 60-70%
 
 ## 💪 Practice Exercises
 
-### Exercise 1: Word Recognition
-Read these words quickly (30 seconds):
+### <span dir="ltr">Exercise 1: Word Recognition</span>
+<span dir="ltr">Read these words quickly (30 seconds):</span>
 
 <div class="practice-box">
 
@@ -175,8 +175,8 @@ Read these words quickly (30 seconds):
 
 </div>
 
-### Exercise 2: Category Sorting
-Which category do these words belong to?
+### <span dir="ltr">Exercise 2: Category Sorting</span>
+<span dir="ltr">Which category do these words belong to?</span>
 
 <div class="practice-box">
 
@@ -186,35 +186,35 @@ Which category do these words belong to?
 4. **آنکھ** → ?
 5. **لال** → ?
 
-**Answers:** 1. Animals, 2. Food, 3. Nature, 4. Body, 5. Colors
+**<span dir="ltr">Answers:</span>** <span dir="ltr">1. Animals, 2. Food, 3. Nature, 4. Body, 5. Colors</span>
 
 </div>
 
-### Exercise 3: Fill in the Blanks
-Complete with the right word:
+### <span dir="ltr">Exercise 3: Fill in the Blanks</span>
+<span dir="ltr">Complete with the right word:</span>
 
 <div class="practice-box">
 
-1. آسمان میں _____ چمکتا ہے۔ (The sun shines in the sky)
-   - **Answer:** سورج
+1. آسمان میں _____ چمکتا ہے۔ <span dir="ltr">(The sun shines in the sky)</span>
+   - **<span dir="ltr">Answer:</span>** سورج
 
-2. میں _____ پیتا ہوں۔ (I drink water)
-   - **Answer:** پانی
+2. میں _____ پیتا ہوں۔ <span dir="ltr">(I drink water)</span>
+   - **<span dir="ltr">Answer:</span>** پانی
 
-3. میری _____ بہت پیاری ہے۔ (My mother is very lovely)
-   - **Answer:** ماں
+3. میری _____ بہت پیاری ہے۔ <span dir="ltr">(My mother is very lovely)</span>
+   - **<span dir="ltr">Answer:</span>** ماں
 
 </div>
 
-### Exercise 4: Build Sentences
-Use these words to make simple sentences:
+### <span dir="ltr">Exercise 4: Build Sentences</span>
+<span dir="ltr">Use these words to make simple sentences:</span>
 
 <div class="practice-box">
 
-**Example:** میں + روٹی + کھاتا ہوں  
-= **میں روٹی کھاتا ہوں۔** (I eat bread)
+**<span dir="ltr">Example:</span>** <span dir="ltr">میں + روٹی + کھاتا ہوں</span>  
+= **میں روٹی کھاتا ہوں۔** <span dir="ltr">(I eat bread)</span>
 
-**Your turn:**
+**<span dir="ltr">Your turn:</span>**
 1. بلی + دودھ + پیتی ہے
 2. شیر + جنگل + میں + رہتا ہے
 3. پانی + ٹھنڈا + ہے
@@ -223,11 +223,11 @@ Use these words to make simple sentences:
 
 ---
 
-## 📚 Vowel Combinations
+## <span dir="ltr">📚 Vowel Combinations</span>
 
-### Remember: اعراب matter!
+### <span dir="ltr">Remember: اعراب matter!</span>
 
-Same letters, different vowels = different words:
+<span dir="ltr">Same letters, different vowels = different words:</span>
 
 | Word | Vowels | Meaning |
 |------|--------|---------|
@@ -238,43 +238,43 @@ Same letters, different vowels = different words:
 
 ---
 
-## 🎯 Speed Reading Practice
+## <span dir="ltr">🎯 Speed Reading Practice</span>
 
-### Set 1: Read in 1 minute
+### <span dir="ltr">Set 1: Read in 1 minute</span>
 **ماں، باپ، بیٹا، بیٹی، بہن، بھائی، دادا، دادی، نانا، نانی، چچا، پھوپھی، ماموں، خالہ**
 
-### Set 2: Read in 1 minute
+### <span dir="ltr">Set 2: Read in 1 minute</span>
 **بلی، کتا، گھوڑا، شیر، ہاتھی، مرغی، بندر، چوہا، بکری، بھیڑ**
 
-### Set 3: Read in 1 minute
+### <span dir="ltr">Set 3: Read in 1 minute</span>
 **سر، منہ، آنکھ، کان، ناک، ہاتھ، پاؤں، دل، پیٹ، دانت**
 
 ---
 
 ## 📅 5-Day Practice Schedule
 
-### Day 1: Family + Animals
+### <span dir="ltr">Day 1: Family + Animals</span>
 - Learn Groups 1 & 2 (20 words)
 - Write each word 5 times
 - Practice Exercise 1
 
-### Day 2: Body + Nature
+### <span dir="ltr">Day 2: Body + Nature</span>
 - Learn Groups 3 & 4 (20 words)
 - Write each word 5 times
 - Practice Exercise 2
 
-### Day 3: Food + Colors
+### <span dir="ltr">Day 3: Food + Colors</span>
 - Learn Groups 5 & 6 (20 words)
 - Write each word 5 times
 - Practice Exercise 3
 
-### Day 4: Actions + Review
+### <span dir="ltr">Day 4: Actions + Review</span>
 - Learn Group 7 (10 words)
 - Review all 50+ words
 - Practice Exercise 4
 - Speed reading Sets 1-3
 
-### Day 5: Master Test
+### <span dir="ltr">Day 5: Master Test</span>
 - Write 20 words from memory
 - Read all vocabulary lists
 - Make 10 simple sentences

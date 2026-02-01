@@ -11,8 +11,6 @@ Excellent progress! You've learned 20 essential letters. Now let's complete your
 
 ---
 
-## ✨ The Final 18 Letters
-
 ## ✨ The Remaining 18 Letters
 
 | Letter | Name | Sound | Example |
@@ -54,7 +52,7 @@ Congratulations! You now know ALL 38 Urdu letters:
 ## 💪 Practice Exercises
 
 ### Exercise 1: Letter Recognition (نئے حروف)
-Identify these NEW letters from Chapter 3:
+<span dir="ltr">Identify these NEW letters from Chapter 3:</span>
 
 <div class="practice-box">
 
@@ -63,7 +61,7 @@ Identify these NEW letters from Chapter 3:
 </div>
 
 ### Exercise 2: Mixed Review (سارے حروف)
-Can you name ALL these letters?
+<span dir="ltr">Can you name ALL these letters?</span>
 
 <div class="practice-box">
 
@@ -72,7 +70,7 @@ Can you name ALL these letters?
 </div>
 
 ### Exercise 3: Similar Letters
-Group these similar-looking letters:
+<span dir="ltr">Group these similar-looking letters:</span>
 
 | Group | Letters |
 |-------|---------|
@@ -82,7 +80,7 @@ Group these similar-looking letters:
 | **Tail letters** | ر، ڑ، ز، ژ، د، ڈ، ذ |
 
 ### Exercise 4: Common Words (آسان الفاظ)
-Read these words using ALL three chapters:
+<span dir="ltr">Read these words using ALL three chapters:</span>
 
 <div class="practice-box">
 
@@ -129,43 +127,43 @@ Read these words using ALL three chapters:
 
 ## 🎯 Speed Recognition Drill
 
-### Set 1: Quick Read (30 seconds)
+### <span dir="ltr">Set 1: Quick Read (30 seconds)</span>
 **ا، ب، ت، ج، د، ر، س، ک، ل، م**
 
-### Set 2: Quick Read (30 seconds)
+### <span dir="ltr">Set 2: Quick Read (30 seconds)</span>
 **ن، و، ہ، ی، چ، خ، ش، ف، ق، گ**
 
-### Set 3: Quick Read (45 seconds)
+### <span dir="ltr">Set 3: Quick Read (45 seconds)</span>
 **ٹ، ڈ، ڑ، ز، ژ، ص، ض، ط، ظ، ع، غ**
 
-### Set 4: Mixed Challenge (1 minute)
+### <span dir="ltr">Set 4: Mixed Challenge (1 minute)</span>
 **ا، ٹ، ب، ڈ، پ، ت، ث، ج، چ، ح، خ، د، ذ، ر، ڑ، ز، ژ، س، ش، ص، ض، ط، ظ، ع، غ، ف، ق، ک، گ، ل، م، ن، و، ہ، ی**
 
 ---
 
 ## 📅 5-Day Practice Schedule
 
-### Day 1: First 9 Letters
-- Learn: ٹ، ڈ، ڑ، ث، ح، ذ، ز، ژ، ش
+### <span dir="ltr">Day 1: First 9 Letters</span>
+- <span dir="ltr">Learn: ٹ، ڈ، ڑ، ث، ح، ذ، ز، ژ، ش</span>
 - Write each 10 times
 - Practice Exercise 1
 
-### Day 2: Next 9 Letters
-- Learn: ص، ض، ط، ظ، ع، غ، ف، گ، ے
+### <span dir="ltr">Day 2: Next 9 Letters</span>
+- <span dir="ltr">Learn: ص، ض، ط، ظ، ع، غ، ف، گ، ے</span>
 - Write each 10 times
 - Practice Exercise 2
 
-### Day 3: Review Day
+### <span dir="ltr">Day 3: Review Day</span>
 - Review ALL 38 letters
 - Speed recognition drills (Sets 1-4)
 - Practice Exercise 3
 
-### Day 4: Word Practice
+### <span dir="ltr">Day 4: Word Practice</span>
 - Read vocabulary list 3 times
 - Practice Exercise 4
 - Write 5 words from each category
 
-### Day 5: Master Test
+### <span dir="ltr">Day 5: Master Test</span>
 - Write all 38 letters from memory
 - Read all words in vocabulary section
 - Complete all exercises without help

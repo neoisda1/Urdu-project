@@ -14,21 +14,21 @@ In Urdu, most letters connect to each other when forming words. Each letter can 
 
 ## 🔗 The 4 Forms of Letters
 
-### 1. **Isolated Form** (اکیلا)
+### <span dir="ltr">1. **Isolated Form** (اکیلا)</span>
 When the letter stands alone.
 
-### 2. **Initial Form** (شروع میں)
+### <span dir="ltr">2. **Initial Form** (شروع میں)</span>
 When the letter is at the START of a word.
 
-### 3. **Medial Form** (درمیان میں)
+### <span dir="ltr">3. **Medial Form** (درمیان میں)</span>
 When the letter is in the MIDDLE of a word.
 
-### 4. **Final Form** (آخر میں)
+### <span dir="ltr">4. **Final Form** (آخر میں)</span>
 When the letter is at the END of a word.
 
 ---
 
-## 📖 Examples: Letter ب (Bay)
+## <span dir="ltr">📖 Examples: Letter ب (Bay)</span>
 
 | Form | Urdu | Name | Used When |
 |------|------|------|-----------|
@@ -37,36 +37,36 @@ When the letter is at the END of a word.
 | **Medial** | ــبــ | middle | Middle of word |
 | **Final** | ــب | end | End of word |
 
-### Real Word Examples:
+### <span dir="ltr">Real Word Examples:</span>
 - **بَت** = ب (initial) + ت (final) = bat (idol)
 - **سبز** = س (initial) + ب (medial) + ز (final) = sabz (green)
 - **شراب** = ش (initial) + ر + ا + ب (final) = sharaab (wine)
 
 ---
 
-## 🎯 Important: Non-Connecting Letters
+## <span dir="ltr">🎯 Important: Non-Connecting Letters</span>
 
-**6 letters** do NOT connect to the letter AFTER them:
+**<span dir="ltr">6 letters</span>** do NOT connect to the letter AFTER them:
 
 <div class="practice-box">
 
-### The 6 Non-Connectors:
+### <span dir="ltr">The 6 Non-Connectors:</span>
 **ا، د، ڈ، ذ، ر، ڑ، ز، ژ، و**
 
-These letters only have **2 forms**: isolated and final!
+<span dir="ltr">These letters only have **2 forms**: isolated and final!</span>
 
 </div>
 
-### Example with **د** (Daal):
-- **Isolated:** د
-- **Final:** ـد
-- **No initial or medial forms!**
+### <span dir="ltr">Example with **د** (Daal):</span>
+- <span dir="ltr">**Isolated:** د</span>
+- <span dir="ltr">**Final:** ـد</span>
+- **<span dir="ltr">No initial or medial forms!</span>**
 
 ---
 
 ## 📚 Connecting Letter Forms
 
-### Group 1: Basic Connectors (ب family)
+### <span dir="ltr">Group 1: Basic Connectors (ب family)</span>
 
 | Letter | Isolated | Initial | Medial | Final |
 |--------|----------|---------|--------|-------|
@@ -78,7 +78,7 @@ These letters only have **2 forms**: isolated and final!
 | **ن** | ن | نــ | ــنــ | ــن |
 | **ی** | ی | یــ | ــیــ | ــی |
 
-### Group 2: س family
+### <span dir="ltr">Group 2: س family</span>
 
 | Letter | Isolated | Initial | Medial | Final |
 |--------|----------|---------|--------|-------|
@@ -87,7 +87,7 @@ These letters only have **2 forms**: isolated and final!
 | **ص** | ص | صــ | ــصــ | ــص |
 | **ض** | ض | ضــ | ــضــ | ــض |
 
-### Group 3: ج family
+### <span dir="ltr">Group 3: ج family</span>
 
 | Letter | Isolated | Initial | Medial | Final |
 |--------|----------|---------|--------|-------|
@@ -96,14 +96,14 @@ These letters only have **2 forms**: isolated and final!
 | **ح** | ح | حــ | ــحــ | ــح |
 | **خ** | خ | خــ | ــخــ | ــخ |
 
-### Group 4: ع family
+### <span dir="ltr">Group 4: ع family</span>
 
 | Letter | Isolated | Initial | Medial | Final |
 |--------|----------|---------|--------|-------|
 | **ع** | ع | عــ | ــعــ | ــع |
 | **غ** | غ | غــ | ــغــ | ــغ |
 
-### Group 5: ف، ق، ک، گ، ل، م، ہ
+### <span dir="ltr">Group 5: ف، ق، ک، گ، ل، م، ہ</span>
 
 | Letter | Isolated | Initial | Medial | Final |
 |--------|----------|---------|--------|-------|
@@ -117,11 +117,11 @@ These letters only have **2 forms**: isolated and final!
 
 ---
 
-## 💪 Practice: Building Words
+## <span dir="ltr">💪 Practice: Building Words</span>
 
-### Exercise 1: Two-Letter Words
+### <span dir="ltr">Exercise 1: Two-Letter Words</span>
 
-**Combine these letters:**
+**<span dir="ltr">Combine these letters:</span>**
 
 <div class="practice-box">
 
@@ -132,7 +132,7 @@ These letters only have **2 forms**: isolated and final!
 
 </div>
 
-### Exercise 2: Three-Letter Words
+### <span dir="ltr">Exercise 2: Three-Letter Words</span>
 
 <div class="practice-box">
 
@@ -143,9 +143,9 @@ These letters only have **2 forms**: isolated and final!
 
 </div>
 
-### Exercise 3: Identify Forms
+### <span dir="ltr">Exercise 3: Identify Forms</span>
 
-Look at these words and identify which form each letter uses:
+<span dir="ltr">Look at these words and identify which form each letter uses:</span>
 
 <div class="practice-box">
 
@@ -166,13 +166,13 @@ Look at these words and identify which form each letter uses:
 
 ## 🎨 Special Combinations
 
-### The Laam-Alif Ligature (لا)
+### <span dir="ltr">The Laam-Alif Ligature (لا)</span>
 
-When **ل** (Laam) and **ا** (Alif) come together, they form a special combined shape:
+<span dir="ltr">When **ل** (Laam) and **ا** (Alif) come together, they form a special combined shape:</span>
 
-**ل + ا = لا**
+**<span dir="ltr">ل + ا = لا</span>**
 
-**Examples:**
+**<span dir="ltr">Examples:</span>**
 - **لال** (laal) = red
 - **لاہور** (laahore) = Lahore (city)
 - **بلا** (bilaa) = without
@@ -181,17 +181,17 @@ When **ل** (Laam) and **ا** (Alif) come together, they form a special combined
 
 ## 📚 Common Word Patterns
 
-### Pattern 1: بــ ـ ـ (B family start)
+### <span dir="ltr">Pattern 1: بــ ـ ـ (B family start)</span>
 - **بچہ** (bacha) = child
 - **بہن** (behan) = sister
 - **بات** (baat) = talk
 
-### Pattern 2: ســ ـ ـ (S family start)
+### <span dir="ltr">Pattern 2: ســ ـ ـ (S family start)</span>
 - **سات** (saat) = seven
 - **سونا** (sona) = to sleep/gold
 - **سبق** (sabaq) = lesson
 
-### Pattern 3: کــ ـ ـ (K family start)
+### <span dir="ltr">Pattern 3: کــ ـ ـ (K family start)</span>
 - **کام** (kaam) = work
 - **کھانا** (khana) = food
 - **کتاب** (kitaab) = book
@@ -200,24 +200,24 @@ When **ل** (Laam) and **ا** (Alif) come together, they form a special combined
 
 ## 📅 4-Day Practice Schedule
 
-### Day 1: Forms Study
+### <span dir="ltr">Day 1: Forms Study</span>
 - Learn the 4 forms concept
 - Study connecting vs non-connecting letters
 - Memorize the 6 non-connectors
 - Practice Exercise 1
 
-### Day 2: Letter Family Practice
+### <span dir="ltr">Day 2: Letter Family Practice</span>
 - Study all letter family tables
 - Write each letter in all 4 forms
 - Practice Exercise 2
 
-### Day 3: Word Building
+### <span dir="ltr">Day 3: Word Building</span>
 - Build 2-letter words
 - Build 3-letter words
 - Practice Exercise 3
 - Learn Laam-Alif ligature
 
-### Day 4: Master Practice
+### <span dir="ltr">Day 4: Master Practice</span>
 - Read all word patterns
 - Write 10 words showing different forms
 - Identify forms in any word
@@ -237,14 +237,14 @@ By the end of this chapter, you should be able to:
 
 ---
 
-## 🎉 Phase 1 Complete!
+## <span dir="ltr">🎉 Phase 1 Complete!</span>
 
-Congratulations! You've finished **PHASE 1: LETTERS**!
+<span dir="ltr">Congratulations! You've finished **PHASE 1: LETTERS**!</span>
 
-You now know:
+<span dir="ltr">You now know:</span>
 - ✅ All 38 Urdu letters
 - ✅ How letters sound
 - ✅ How letters connect
 - ✅ How to build words
 
-**Next:** Phase 2 - Word Building! Let's start making real words!
+**<span dir="ltr">Next:</span>** <span dir="ltr">Phase 2 - Word Building! Let's start making real words!</span>

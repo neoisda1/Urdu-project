@@ -13,8 +13,6 @@ Great job completing Chapter 1! You now know 10 essential Urdu letters. In this 
 
 ## ✨ The Next 10 Important Letters
 
-## ✨ The Next 10 Important Letters
-
 | Letter | Name | Sound | Example |
 |--------|------|-------|---------|
 | **ن** | نون (Noon) | "n" as in "nest" | **نانی** (naani) = grandmother |
@@ -55,7 +53,7 @@ Before we practice new letters, let's quickly review Chapter 1:
 ا    ب    پ    ت    د    ر    س    ک    ل    م
 ```
 
-**Quick Quiz:** Can you name 5 of these letters? Try now! ✍️
+**Quick Quiz:** <span dir="ltr">Can you name 5 of these letters? Try now!</span> ✍️
 
 ---
 
@@ -83,16 +81,16 @@ Before we practice new letters, let's quickly review Chapter 1:
 10. **ق** → q, q, q, q, q
 
 ### Exercise 3: Mix Old + New
-**Identify these letters (mix of Chapter 1 & 2):**
+**<span dir="ltr">Identify these letters (mix of Chapter 1 & 2):</span>**
 
 ```
 م    ن    ب    و    س    ہ    ک    ی    ل    چ
 ```
 
-**How many did you recognize?** 🎯
+**<span dir="ltr">How many did you recognize?</span>** 🎯
 
 ### Exercise 4: Build Simple Words
-**Combine letters from Chapters 1 & 2:**
+**<span dir="ltr">Combine letters from Chapters 1 & 2:</span>**
 
 1. **م + ا + ں** = **ماں** (mother)
 2. **ن + ا + ن + ی** = **نانی** (grandmother)
@@ -140,7 +138,7 @@ These two letters are **very special** because they have **multiple sounds**:
 2. **ی** = "ee" as in **سیب** (seb) = apple
 3. **ی** = "i" as in **دل** (dil) = heart
 
-**Don't worry!** You'll learn when to use which sound as you practice more. 😊
+**<span dir="ltr">Don't worry!</span>** You'll learn when to use which sound as you practice more. 😊
 
 ---
 
@@ -192,7 +190,7 @@ In **Chapter 3**, you will learn:
 
 ## 🎯 Challenge Yourself!
 
-**Can you write these words from memory?**
+**<span dir="ltr">Can you write these words from memory?</span>**
 
 1. Mother = _____ (ماں)
 2. Pen = _____ (قلم)

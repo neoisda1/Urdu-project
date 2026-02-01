@@ -12,8 +12,6 @@ In this chapter, you will learn the **10 most common Urdu letters**. These lette
 
 ## ✨ The 10 Core Letters
 
-## ✨ The 10 Core Letters
-
 | Letter | Name | Sound | Example |
 |--------|------|-------|---------|
 | **ا** | الف (Alif) | "a" as in "apple" | **اَم** (aam) = mango |
@@ -73,16 +71,16 @@ In this chapter, you will learn the **10 most common Urdu letters**. These lette
 **Match the letter with its sound:**
 
 ```
-ا → ?    (a, b, p, t)
-ب → ?    (a, b, p, t)
-پ → ?    (a, b, p, t)
-ت → ?    (a, b, p, t)
+ا → ?    <span dir="ltr">(a, b, p, t)</span>
+ب → ?    <span dir="ltr">(a, b, p, t)</span>
+پ → ?    <span dir="ltr">(a, b, p, t)</span>
+ت → ?    <span dir="ltr">(a, b, p, t)</span>
 ```
 
 **Answers:** ا→a, ب→b, پ→p, ت→t
 
 ### Exercise 4: Find the Letter
-**Which letter makes these sounds?**
+**<span dir="ltr">Which letter makes these sounds?</span>**
 
 1. "m" sound → **م**
 2. "s" sound → **س**
