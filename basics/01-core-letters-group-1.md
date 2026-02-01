@@ -12,59 +12,20 @@ In this chapter, you will learn the **10 most common Urdu letters**. These lette
 
 ## ✨ The 10 Core Letters
 
-<div class="letter-grid">
+## ✨ The 10 Core Letters
 
-### ا - Alif
-**Name:** الف (Alif)  
-**Sound:** "a" as in "apple"  
-**Example:** **اَم** (aam) = mango
-
-### ب - Bay
-**Name:** بے (Bay)  
-**Sound:** "b" as in "ball"  
-**Example:** **بَچہ** (bacha) = child
-
-### پ - Pay
-**Name:** پے (Pay)  
-**Sound:** "p" as in "pen"  
-**Example:** **پانی** (paani) = water
-
-### ت - Tay
-**Name:** تے (Tay)  
-**Sound:** "t" as in "tea"  
-**Example:** **تارا** (taara) = star
-
-### د - Daal
-**Name:** دال (Daal)  
-**Sound:** "d" as in "door"  
-**Example:** **دل** (dil) = heart
-
-### ر - Ray
-**Name:** رے (Ray)  
-**Sound:** "r" as in "run"  
-**Example:** **رات** (raat) = night
-
-### س - Seen
-**Name:** سین (Seen)  
-**Sound:** "s" as in "sun"  
-**Example:** **سیب** (seb) = apple
-
-### ک - Kaaf
-**Name:** کاف (Kaaf)  
-**Sound:** "k" as in "kite"  
-**Example:** **کتاب** (kitaab) = book
-
-### ل - Laam
-**Name:** لام (Laam)  
-**Sound:** "l" as in "lamp"  
-**Example:** **لڑکا** (larka) = boy
-
-### م - Meem
-**Name:** میم (Meem)  
-**Sound:** "m" as in "moon"  
-**Example:** **ماں** (maa) = mother
-
-</div>
+| Letter | Name | Sound | Example |
+|--------|------|-------|---------|
+| **ا** | الف (Alif) | "a" as in "apple" | **اَم** (aam) = mango |
+| **ب** | بے (Bay) | "b" as in "ball" | **بَچہ** (bacha) = child |
+| **پ** | پے (Pay) | "p" as in "pen" | **پانی** (paani) = water |
+| **ت** | تے (Tay) | "t" as in "tea" | **تارا** (taara) = star |
+| **د** | دال (Daal) | "d" as in "door" | **دل** (dil) = heart |
+| **ر** | رے (Ray) | "r" as in "run" | **رات** (raat) = night |
+| **س** | سین (Seen) | "s" as in "sun" | **سیب** (seb) = apple |
+| **ک** | کاف (Kaaf) | "k" as in "kite" | **کتاب** (kitaab) = book |
+| **ل** | لام (Laam) | "l" as in "lamp" | **لڑکا** (larka) = boy |
+| **م** | میم (Meem) | "m" as in "moon" | **ماں** (maa) = mother |
 
 ---
 

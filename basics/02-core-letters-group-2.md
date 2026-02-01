@@ -13,59 +13,20 @@ Great job completing Chapter 1! You now know 10 essential Urdu letters. In this 
 
 ## ✨ The Next 10 Important Letters
 
-<div class="letter-grid">
+## ✨ The Next 10 Important Letters
 
-### ن - Noon
-**Name:** نون (Noon)  
-**Sound:** "n" as in "nest"  
-**Example:** **نانی** (naani) = grandmother
-
-### و - Waao
-**Name:** واؤ (Waao)  
-**Sound:** "w/o/u" (three sounds!)  
-**Example:** **وہ** (woh) = that/he/she
-
-### ہ - Haa
-**Name:** ہے (Haa)  
-**Sound:** "h" as in "house"  
-**Example:** **ہاتھ** (haath) = hand
-
-### ی - Yaa
-**Name:** یے (Yaa)  
-**Sound:** "y/ee/i" (three sounds!)  
-**Example:** **یہ** (yeh) = this
-
-### ج - Jeem
-**Name:** جیم (Jeem)  
-**Sound:** "j" as in "jump"  
-**Example:** **جگ** (jug) = jug/world
-
-### چ - Chay
-**Name:** چے (Chay)  
-**Sound:** "ch" as in "chair"  
-**Example:** **چاند** (chaand) = moon
-
-### خ - Khay
-**Name:** خے (Khay)  
-**Sound:** "kh" (throat sound, like German "ch")  
-**Example:** **خوش** (khush) = happy
-
-### ش - Sheen
-**Name:** شین (Sheen)  
-**Sound:** "sh" as in "ship"  
-**Example:** **شیر** (sher) = lion
-
-### ف - Fay
-**Name:** فے (Fay)  
-**Sound:** "f" as in "fish"  
-**Example:** **فل** (phool) = flower
-
-### ق - Qaaf
-**Name:** قاف (Qaaf)  
-**Sound:** "q" (deep throat "k")  
-**Example:** **قلم** (qalam) = pen
-
-</div>
+| Letter | Name | Sound | Example |
+|--------|------|-------|---------|
+| **ن** | نون (Noon) | "n" as in "nest" | **نانی** (naani) = grandmother |
+| **و** | واؤ (Waao) | "w/o/u" (three sounds!) | **وہ** (woh) = that/he/she |
+| **ہ** | ہے (Haa) | "h" as in "house" | **ہاتھ** (haath) = hand |
+| **ی** | یے (Yaa) | "y/ee/i" (three sounds!) | **یہ** (yeh) = this |
+| **ج** | جیم (Jeem) | "j" as in "jump" | **جگ** (jug) = jug/world |
+| **چ** | چے (Chay) | "ch" as in "chair" | **چاند** (chaand) = moon |
+| **خ** | خے (Khay) | "kh" (throat sound) | **خوش** (khush) = happy |
+| **ش** | شین (Sheen) | "sh" as in "ship" | **شیر** (sher) = lion |
+| **ف** | فے (Fay) | "f" as in "fish" | **فل** (phool) = flower |
+| **ق** | قاف (Qaaf) | "q" (deep throat "k") | **قلم** (qalam) = pen |
 
 ---
 

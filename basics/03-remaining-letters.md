@@ -13,99 +13,28 @@ Excellent progress! You've learned 20 essential letters. Now let's complete your
 
 ## ✨ The Final 18 Letters
 
-<div class="letter-grid">
+## ✨ The Remaining 18 Letters
 
-### ٹ - Ttay
-**Name:** ٹے (Ttay)  
-**Sound:** "t" (hard T, like "top")  
-**Example:** **ٹماٹر** (tamatar) = tomato
-
-### ڈ - Ddaal
-**Name:** ڈال (Ddaal)  
-**Sound:** "d" (hard D, like "dog")  
-**Example:** **ڈاک** (daak) = mail
-
-### ڑ - Rray
-**Name:** ڑے (Rray)  
-**Sound:** "r" (rolled R)  
-**Example:** **پڑھنا** (parhna) = to read
-
-### ث - Say
-**Name:** ثے (Say)  
-**Sound:** "s" as in "sit"  
-**Example:** **ثواب** (sawaab) = virtue
-
-### ح - Haa (heavy)
-**Name:** حے (Haa)  
-**Sound:** "h" (from throat)  
-**Example:** **حال** (haal) = condition
-
-### ذ - Zaal
-**Name:** ذال (Zaal)  
-**Sound:** "z" as in "zoo"  
-**Example:** **ذہن** (zehan) = mind
-
-### ز - Zay
-**Name:** زے (Zay)  
-**Sound:** "z" as in "zebra"  
-**Example:** **زمین** (zameen) = earth
-
-### ژ - Zhay
-**Name:** ژے (Zhay)  
-**Sound:** "zh" (like "s" in "measure")  
-**Example:** **ژالہ** (zhaala) = dew
-
-### ش - Sheen
-**Name:** شین (Sheen)  
-**Sound:** "sh" as in "ship"  
-**Example:** **شیر** (sher) = lion
-
-### ص - Suaad
-**Name:** صواد (Suaad)  
-**Sound:** "s" (heavy S)  
-**Example:** **صبح** (subah) = morning
-
-### ض - Zuaad
-**Name:** ضواد (Zuaad)  
-**Sound:** "z" (heavy Z)  
-**Example:** **ضرورت** (zaroorat) = need
-
-### ط - Tway
-**Name:** طوے (Tway)  
-**Sound:** "t" (heavy T)  
-**Example:** **طوطا** (tota) = parrot
-
-### ظ - Zway
-**Name:** ظوے (Zway)  
-**Sound:** "z" (heavy Z)  
-**Example:** **ظالم** (zaalim) = tyrant
-
-### ع - Ain
-**Name:** عین (Ain)  
-**Sound:** "a" (throat sound)  
-**Example:** **عمر** (umar) = age
-
-### غ - Ghain
-**Name:** غین (Ghain)  
-**Sound:** "gh" (gargling sound)  
-**Example:** **غم** (gham) = sorrow
-
-### ف - Fay
-**Name:** فے (Fay)  
-**Sound:** "f" as in "fan"  
-**Example:** **پھل** (phul) = flower
-
-### گ - Gaaf
-**Name:** گاف (Gaaf)  
-**Sound:** "g" as in "go"  
-**Example:** **گاڑی** (gaari) = car
-
-### ے - Yay Baree
-**Name:** یے بڑی (Yay Baree)  
-**Sound:** "ay" as in "say"  
-**Example:** **آئے** (aaye) = came
-
-</div>
+| Letter | Name | Sound | Example |
+|--------|------|-------|---------|
+| **ٹ** | ٹے (Ttay) | "t" (hard T, like "top") | **ٹماٹر** (tamatar) = tomato |
+| **ڈ** | ڈال (Ddaal) | "d" (hard D, like "dog") | **ڈاک** (daak) = mail |
+| **ڑ** | ڑے (Rray) | "r" (rolled R) | **پڑھنا** (parhna) = to read |
+| **ث** | ثے (Say) | "s" as in "sit" | **ثواب** (sawaab) = virtue |
+| **ح** | حے (Haa) | "h" (from throat) | **حال** (haal) = condition |
+| **ذ** | ذال (Zaal) | "z" as in "zoo" | **ذہن** (zehan) = mind |
+| **ز** | زے (Zay) | "z" as in "zebra" | **زمین** (zameen) = earth |
+| **ژ** | ژے (Zhay) | "zh" (like "s" in "measure") | **ژالہ** (zhaala) = dew |
+| **ش** | شین (Sheen) | "sh" as in "ship" | **شیر** (sher) = lion |
+| **ص** | صواد (Suaad) | "s" (heavy S) | **صبح** (subah) = morning |
+| **ض** | ضواد (Zuaad) | "z" (heavy Z) | **ضرورت** (zaroorat) = need |
+| **ط** | طوے (Tway) | "t" (heavy T) | **طوطا** (tota) = parrot |
+| **ظ** | ظوے (Zway) | "z" (heavy Z) | **ظالم** (zaalim) = tyrant |
+| **ع** | عین (Ain) | "a" (throat sound) | **عمر** (umar) = age |
+| **غ** | غین (Ghain) | "gh" (gargling sound) | **غم** (gham) = sorrow |
+| **ف** | فے (Fay) | "f" as in "fan" | **پھل** (phul) = flower |
+| **گ** | گاف (Gaaf) | "g" as in "go" | **گاڑی** (gaari) = car |
+| **ے** | یے بڑی (Yay Baree) | "ay" as in "say" | **آئے** (aaye) = came |
 
 ---
 
