@@ -1,0 +1,693 @@
+<!DOCTYPE html>
+<html lang="ur" dir="rtl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="Learn Urdu from scratch - Complete beginner's course with 12 progressive chapters from letters to sentences.">
+    <title>اردو بنیادیات - Urdu Basics for Beginners</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Nastaliq+Urdu:wght@400;500;600;700&display=swap"
+        rel="stylesheet">
+    <style>
+        :root {
+            --bg-gradient-start: #4facfe;
+            --bg-gradient-end: #00f2fe;
+            --container-bg: #ffffff;
+            --text-color: #333333;
+            --header-gradient-start: #43e97b;
+            --header-gradient-end: #38f9d7;
+            --controls-bg: #f8f9fa;
+            --border-color: #4facfe;
+            --btn-primary: #4facfe;
+            --btn-primary-end: #00f2fe;
+            --btn-success: #56ab2f;
+            --btn-success-end: #a8e063;
+            --btn-danger: #eb3349;
+            --btn-danger-end: #f45c43;
+            --btn-info: #667eea;
+            --btn-info-end: #764ba2;
+            --table-header-bg: #4facfe;
+            --table-row-hover: #e9ecef;
+            --code-bg: #f8f9fa;
+            --shadow-color: rgba(0, 0, 0, 0.3);
+            --footer-bg: #4facfe;
+            --phase-color: #43e97b;
+        }
+
+        [data-theme="dark"] {
+            --bg-gradient-start: #0f2027;
+            --bg-gradient-end: #203a43;
+            --container-bg: #1a2332;
+            --text-color: #e9ecef;
+            --header-gradient-start: #2c5364;
+            --header-gradient-end: #0f2027;
+            --controls-bg: #0f2027;
+            --border-color: #4facfe;
+            --btn-primary: #4facfe;
+            --btn-primary-end: #00f2fe;
+            --table-header-bg: #4facfe;
+            --table-row-hover: #2c3e50;
+            --code-bg: #0f2027;
+            --shadow-color: rgba(0, 0, 0, 0.6);
+            --footer-bg: #0f2027;
+            --phase-color: #43e97b;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Noto Nastaliq Urdu', 'Jameel Noori Nastaleeq', Arial, sans-serif;
+            background: linear-gradient(135deg, var(--bg-gradient-start) 0%, var(--bg-gradient-end) 100%);
+            min-height: 100vh;
+            padding: 20px;
+            color: var(--text-color);
+            transition: all 0.3s ease;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            background: var(--container-bg);
+            border-radius: 20px;
+            box-shadow: 0 20px 60px var(--shadow-color);
+            overflow: hidden;
+            transition: all 0.3s ease;
+        }
+
+        .header {
+            background: linear-gradient(135deg, var(--header-gradient-start) 0%, var(--header-gradient-end) 100%);
+            color: white;
+            padding: 25px 20px;
+            text-align: center;
+            position: relative;
+        }
+
+        .header-title-urdu {
+            font-size: 2.5em;
+            margin: 10px 0;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+            font-weight: 700;
+        }
+
+        .header-title-english {
+            font-size: 1.3em;
+            margin: 10px 0;
+            opacity: 0.95;
+            font-family: 'Segoe UI', Arial, sans-serif;
+            font-weight: 600;
+        }
+
+        .theme-toggle {
+            position: absolute;
+            top: 15px;
+            left: 15px;
+            background: rgba(255, 255, 255, 0.2);
+            border: 2px solid rgba(255, 255, 255, 0.3);
+            border-radius: 50px;
+            padding: 8px 16px;
+            cursor: pointer;
+            color: white;
+            font-size: 1.1em;
+            transition: all 0.3s;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .theme-toggle:hover {
+            background: rgba(255, 255, 255, 0.3);
+            transform: scale(1.05);
+        }
+
+        .progress-bar {
+            background: rgba(255, 255, 255, 0.3);
+            height: 8px;
+            border-radius: 10px;
+            margin-top: 20px;
+            overflow: hidden;
+        }
+
+        .progress-fill {
+            background: white;
+            height: 100%;
+            width: 0%;
+            transition: width 0.5s ease;
+            border-radius: 10px;
+        }
+
+        .controls {
+            background: var(--controls-bg);
+            padding: 20px;
+            border-bottom: 3px solid var(--border-color);
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            align-items: center;
+            justify-content: space-between;
+            transition: all 0.3s ease;
+        }
+
+        .font-controls {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        .font-controls label {
+            font-weight: bold;
+            color: var(--text-color);
+        }
+
+        .btn {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+            font-size: 1.1em;
+            font-weight: bold;
+            transition: all 0.3s;
+            color: white;
+        }
+
+        .btn-success {
+            background: linear-gradient(135deg, var(--btn-success) 0%, var(--btn-success-end) 100%);
+        }
+
+        .btn-danger {
+            background: linear-gradient(135deg, var(--btn-danger) 0%, var(--btn-danger-end) 100%);
+        }
+
+        .btn-info {
+            background: linear-gradient(135deg, var(--btn-info) 0%, var(--btn-info-end) 100%);
+        }
+
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+        }
+
+        .font-size-display {
+            background: var(--container-bg);
+            padding: 8px 15px;
+            border-radius: 8px;
+            font-weight: bold;
+            color: var(--btn-primary);
+            border: 2px solid var(--border-color);
+        }
+
+        .chapter-selector {
+            width: 100%;
+            max-width: 600px;
+        }
+
+        .chapter-selector select {
+            width: 100%;
+            padding: 15px;
+            border: 3px solid var(--border-color);
+            border-radius: 12px;
+            font-size: 1.15em;
+            font-family: inherit;
+            background: var(--container-bg);
+            color: var(--text-color);
+            cursor: pointer;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+
+        .chapter-selector select:hover {
+            border-color: var(--btn-primary);
+            box-shadow: 0 2px 8px rgba(79, 172, 254, 0.3);
+        }
+
+        .chapter-selector select:focus {
+            outline: none;
+            border-color: var(--btn-primary-end);
+            box-shadow: 0 0 0 3px rgba(79, 172, 254, 0.2);
+        }
+
+        .content {
+            padding: 30px 25px;
+            line-height: 2.2;
+            color: var(--text-color);
+            transition: font-size 0.3s ease;
+            max-width: 100%;
+            overflow-x: hidden;
+        }
+
+        .content h1 {
+            color: var(--btn-primary);
+            margin-bottom: 20px;
+            border-bottom: 3px solid var(--header-gradient-end);
+            padding-bottom: 10px;
+        }
+
+        .content h2 {
+            color: var(--phase-color);
+            margin: 30px 0 15px;
+            padding: 10px;
+            background: var(--code-bg);
+            border-radius: 8px;
+            border-left: 5px solid var(--phase-color);
+        }
+
+        .content h3 {
+            color: var(--btn-primary-end);
+            margin: 25px 0 10px;
+        }
+
+        .content p {
+            margin-bottom: 15px;
+        }
+
+        .content table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            background: var(--code-bg);
+            border-radius: 10px;
+            overflow-x: auto;
+            display: block;
+        }
+
+        .content table th {
+            background: var(--table-header-bg);
+            color: white;
+            padding: 12px 10px;
+            text-align: right;
+            font-size: 0.95em;
+        }
+
+        .content table td {
+            padding: 10px 8px;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        .content table tr:hover {
+            background: var(--table-row-hover);
+        }
+
+        .content ul,
+        .content ol {
+            margin-right: 30px;
+            margin-bottom: 20px;
+        }
+
+        .content li {
+            margin-bottom: 10px;
+        }
+
+        .content code,
+        .content pre {
+            background: var(--code-bg);
+            padding: 10px;
+            border-radius: 8px;
+            display: block;
+            margin: 15px 0;
+            font-family: 'Courier New', monospace;
+            border: 1px solid var(--border-color);
+            overflow-x: auto;
+        }
+
+        .practice-box {
+            background: var(--code-bg);
+            border: 3px solid var(--phase-color);
+            border-radius: 12px;
+            padding: 20px;
+            margin: 20px 0;
+        }
+
+        .practice-box h3 {
+            color: var(--phase-color);
+            margin-top: 0;
+        }
+
+        .letter-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
+            gap: 15px;
+            margin: 20px 0;
+        }
+
+        .letter-card {
+            background: var(--code-bg);
+            border: 2px solid var(--border-color);
+            border-radius: 10px;
+            padding: 20px;
+            text-align: center;
+            font-size: 2em;
+            font-weight: bold;
+            color: var(--btn-primary);
+            transition: all 0.3s;
+        }
+
+        .letter-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 5px 15px rgba(79, 172, 254, 0.3);
+            border-color: var(--phase-color);
+        }
+
+        .footer {
+            background: var(--footer-bg);
+            color: white;
+            padding: 25px 20px;
+            text-align: center;
+        }
+
+        .home-link {
+            background: linear-gradient(135deg, var(--btn-info) 0%, var(--btn-info-end) 100%);
+            color: white;
+            padding: 12px 24px;
+            border-radius: 10px;
+            text-decoration: none;
+            font-weight: bold;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            transition: all 0.3s ease;
+            margin-bottom: 15px;
+        }
+
+        .home-link:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+        }
+
+        .footer-selector {
+            margin-top: 20px;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 50px 20px;
+            font-size: 1.3em;
+            color: var(--btn-primary);
+        }
+
+        @media (max-width: 768px) {
+            body {
+                padding: 10px;
+            }
+
+            .container {
+                border-radius: 15px;
+            }
+
+            .header-title-urdu {
+                font-size: 1.8em;
+            }
+
+            .header-title-english {
+                font-size: 1em;
+            }
+
+            .controls {
+                flex-direction: column;
+                padding: 15px;
+                gap: 10px;
+            }
+
+            .font-controls {
+                width: 100%;
+                justify-content: center;
+            }
+
+            .chapter-selector {
+                max-width: 100%;
+            }
+
+            .content {
+                padding: 20px 15px;
+            }
+
+            .letter-grid {
+                grid-template-columns: repeat(auto-fit, minmax(60px, 1fr));
+                gap: 10px;
+            }
+
+            .letter-card {
+                padding: 15px;
+                font-size: 1.5em;
+            }
+
+            .btn {
+                padding: 8px 12px;
+                font-size: 0.95em;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="header">
+            <button class="theme-toggle" onclick="toggleTheme()" title="Toggle Theme">
+                <i class="fas fa-moon" id="themeIcon"></i>
+                <span id="themeText">Dark</span>
+            </button>
+            <div class="header-title-urdu">📚 اردو بنیادیات 🎓</div>
+            <div class="header-title-english">Complete Urdu Learning Course for Beginners</div>
+            <div class="progress-bar">
+                <div class="progress-fill" id="progressFill"></div>
+            </div>
+        </div>
+
+        <div class="controls">
+            <div class="font-controls">
+                <label>خط کا سائز:</label>
+                <button class="btn btn-danger" onclick="decreaseFont()">➖ چھوٹا</button>
+                <span class="font-size-display" id="fontSizeDisplay">20px</span>
+                <button class="btn btn-success" onclick="increaseFont()">➕ بڑا</button>
+                <button class="btn btn-info" onclick="resetFont()">↺ دوبارہ</button>
+            </div>
+
+            <div class="chapter-selector">
+                <select id="chapterSelector" onchange="loadChapter()">
+                    <option value="">-- باب منتخب کریں / Select Chapter --</option>
+                    <optgroup label="📖 PHASE 1: LETTERS (حروف)">
+                        <option value="basics/01-core-letters-group-1.md">Chapter 1 - Core Letters Group 1 (10 Letters)</option>
+                        <option value="basics/02-core-letters-group-2.md">Chapter 2 - Core Letters Group 2 (10 Letters)</option>
+                        <option value="basics/03-remaining-letters.md">Chapter 3 - Remaining Letters (18 Letters)</option>
+                        <option value="basics/04-letter-joining.md">Chapter 4 - Complete Letter Mastery + Joining</option>
+                    </optgroup>
+                    <optgroup label="🔤 PHASE 2: WORD BUILDING (الفاظ)">
+                        <option value="basics/05-two-letter-words.md">Chapter 5 - 2-Letter Words + Vowel Marks</option>
+                        <option value="basics/06-three-letter-words.md">Chapter 6 - 3-Letter Words (Basic Vocabulary)</option>
+                        <option value="basics/07-four-plus-letter-words.md">Chapter 7 - 4+ Letter Words (Extended Vocabulary)</option>
+                        <option value="basics/08-word-families.md">Chapter 8 - Word Families & Patterns</option>
+                    </optgroup>
+                    <optgroup label="💬 PHASE 3: SENTENCES & READING (جملے)">
+                        <option value="basics/09-simple-sentences.md">Chapter 9 - Simple 2-3 Word Phrases</option>
+                        <option value="basics/10-past-future-tenses.md">Chapter 10 - Basic Sentences (3-5 Words)</option>
+                        <option value="basics/11-reading-comprehension.md">Chapter 11 - Questions & Answers + Numbers</option>
+                        <option value="basics/12-final-mastery.md">Chapter 12 - Reading Practice & Comprehension</option>
+                    </optgroup>
+                </select>
+            </div>
+        </div>
+
+        <div class="content" id="content">
+            <div class="loading">
+                <h2>🎉 خوش آمدید! Welcome to Urdu Basics!</h2>
+                <p style="font-size: 1.2em; margin: 20px 0;">
+                    <strong>اردو سیکھنے کا سفر شروع کریں</strong><br>
+                    Start your journey to learn Urdu from scratch!
+                </p>
+                <div style="text-align: left; max-width: 600px; margin: 30px auto; background: var(--code-bg); padding: 20px; border-radius: 10px;">
+                    <h3 style="color: var(--phase-color); margin-bottom: 15px;">📋 Course Overview:</h3>
+                    <ul style="line-height: 2;">
+                        <li><strong>Phase 1:</strong> Master all 38 Urdu letters (4 chapters)</li>
+                        <li><strong>Phase 2:</strong> Build vocabulary from 2 to 4+ letter words (4 chapters)</li>
+                        <li><strong>Phase 3:</strong> Learn sentences and reading comprehension (4 chapters)</li>
+                    </ul>
+                    <p style="margin-top: 20px; color: var(--btn-primary); font-weight: bold;">
+                        ⏱️ Complete in 3-6 months • 📚 12 Progressive Chapters • 🎯 200+ Words
+                    </p>
+                </div>
+                <p><strong>اوپر سے باب منتخب کریں</strong> • Select a chapter from above to begin!</p>
+            </div>
+        </div>
+
+        <div class="footer">
+            <a href="index.html" class="home-link">
+                <i class="fas fa-home"></i>
+                <span>🏠 واپس / Home</span>
+            </a>
+            
+            <div class="footer-selector chapter-selector">
+                <select id="chapterSelector2" onchange="loadChapter2()">
+                    <option value="">-- اگلا باب / Next Chapter --</option>
+                    <optgroup label="📖 PHASE 1: LETTERS">
+                        <option value="basics/01-core-letters-group-1.md">Chapter 1 - Core Letters Group 1</option>
+                        <option value="basics/02-core-letters-group-2.md">Chapter 2 - Core Letters Group 2</option>
+                        <option value="basics/03-remaining-letters.md">Chapter 3 - Remaining Letters</option>
+                        <option value="basics/04-placeholder.md">Chapter 4 - Letter Mastery + Joining</option>
+                    </optgroup>
+                    <optgroup label="🔤 PHASE 2: WORD BUILDING">
+                        <option value="basics/05-two-letter-words.md">Chapter 5 - 2-Letter Words</option>
+                        <option value="basics/06-placeholder.md">Chapter 6 - 3-Letter Words</option>
+                        <option value="basics/07-placeholder.md">Chapter 7 - 4+ Letter Words</option>
+                        <option value="basics/08-placeholder.md">Chapter 8 - Word Families</option>
+                    </optgroup>
+                    <optgroup label="💬 PHASE 3: SENTENCES">
+                        <option value="basics/09-placeholder.md">Chapter 9 - Simple Phrases</option>
+                        <option value="basics/10-placeholder.md">Chapter 10 - Basic Sentences</option>
+                        <option value="basics/11-placeholder.md">Chapter 11 - Questions & Numbers</option>
+                        <option value="basics/12-placeholder.md">Chapter 12 - Reading Practice</option>
+                    </optgroup>
+                </select>
+            </div>
+
+            <p style="margin-top: 20px;">ابتدائی سیکھنے والوں کے لیے | For Absolute Beginners</p>
+            <p>صفر سے اردو سیکھیں | Learn Urdu from Scratch</p>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script>
+        // Theme Management
+        function toggleTheme() {
+            const html = document.documentElement;
+            const currentTheme = html.getAttribute('data-theme');
+            const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+            const icon = document.getElementById('themeIcon');
+            const text = document.getElementById('themeText');
+
+            html.setAttribute('data-theme', newTheme);
+            localStorage.setItem('urdu-basics-theme', newTheme);
+
+            if (newTheme === 'dark') {
+                icon.className = 'fas fa-sun';
+                text.textContent = 'Light';
+            } else {
+                icon.className = 'fas fa-moon';
+                text.textContent = 'Dark';
+            }
+        }
+
+        // Load saved theme
+        const savedTheme = localStorage.getItem('urdu-basics-theme') || 'light';
+        document.documentElement.setAttribute('data-theme', savedTheme);
+        if (savedTheme === 'dark') {
+            document.getElementById('themeIcon').className = 'fas fa-sun';
+            document.getElementById('themeText').textContent = 'Light';
+        }
+
+        // Font size management
+        let currentFontSize = 20;
+        const minFontSize = 14;
+        const maxFontSize = 40;
+        const contentDiv = document.getElementById('content');
+        const fontSizeDisplay = document.getElementById('fontSizeDisplay');
+
+        const savedFontSize = localStorage.getItem('urduBasicsFontSize');
+        if (savedFontSize) {
+            currentFontSize = parseInt(savedFontSize);
+        }
+        updateFontSize();
+
+        function increaseFont() {
+            if (currentFontSize < maxFontSize) {
+                currentFontSize += 2;
+                updateFontSize();
+            }
+        }
+
+        function decreaseFont() {
+            if (currentFontSize > minFontSize) {
+                currentFontSize -= 2;
+                updateFontSize();
+            }
+        }
+
+        function resetFont() {
+            currentFontSize = 20;
+            updateFontSize();
+        }
+
+        function updateFontSize() {
+            contentDiv.style.fontSize = currentFontSize + 'px';
+            fontSizeDisplay.textContent = currentFontSize + 'px';
+            localStorage.setItem('urduBasicsFontSize', currentFontSize);
+        }
+
+        // Progress tracking
+        function updateProgress() {
+            const completed = JSON.parse(localStorage.getItem('urduBasicsProgress') || '[]');
+            const total = 12;
+            const percentage = (completed.length / total) * 100;
+            document.getElementById('progressFill').style.width = percentage + '%';
+        }
+        updateProgress();
+
+        // Chapter loading
+        async function loadChapter() {
+            const selector = document.getElementById('chapterSelector');
+            const selector2 = document.getElementById('chapterSelector2');
+            const filePath = selector.value;
+
+            selector2.value = filePath;
+
+            if (!filePath) {
+                return;
+            }
+
+            contentDiv.innerHTML = '<div class="loading">لوڈ ہو رہا ہے... / Loading...</div>';
+            contentDiv.scrollIntoView({ behavior: 'smooth' });
+
+            try {
+                const response = await fetch(filePath);
+                if (!response.ok) throw new Error('Chapter not found');
+
+                const markdown = await response.text();
+                const html = marked.parse(markdown);
+                contentDiv.innerHTML = html;
+
+                updateFontSize();
+            } catch (error) {
+                contentDiv.innerHTML = `
+                    <div class="loading" style="color: red;">
+                        <h2>❌ خرابی / Error</h2>
+                        <p>باب لوڈ نہیں ہو سکا</p>
+                        <p>Could not load the chapter</p>
+                        <p><small>${error.message}</small></p>
+                    </div>
+                `;
+            }
+        }
+
+        function loadChapter2() {
+            const selector = document.getElementById('chapterSelector');
+            const selector2 = document.getElementById('chapterSelector2');
+            selector.value = selector2.value;
+            loadChapter();
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+
+        // Keyboard shortcuts
+        document.addEventListener('keydown', function (e) {
+            if (e.ctrlKey || e.metaKey) {
+                if (e.key === '+' || e.key === '=') {
+                    e.preventDefault();
+                    increaseFont();
+                } else if (e.key === '-') {
+                    e.preventDefault();
+                    decreaseFont();
+                } else if (e.key === '0') {
+                    e.preventDefault();
+                    resetFont();
+                }
+            }
+        });
+    </script>
+</body>
+
+</html>
