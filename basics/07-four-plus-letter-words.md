@@ -1,4 +1,8 @@
-# <span dir="ltr">Chapter 7:</span> 4+ Letter Words  
+<div dir="ltr">
+
+# Chapter 7:4+ Letter Words  
+
+</div>
 ## باب ۷: چار یا زیادہ حرفی الفاظ
 
 ### 📚 Welcome to Chapter 7!
@@ -11,15 +15,19 @@
 
 ---
 
-## <span dir="ltr">🎯 Building Longer Words</span>
+<div dir="ltr">
 
-<span dir="ltr">Longer words are just combinations of the letters and patterns you already know. Don't be intimidated - break them down letter by letter!</span>
+## 🎯 Building Longer Words<span dir="ltr">Longer words are just combinations of the letters and patterns you already know. Don't be intimidated - break them down letter by letter!</span>
+
+</div>
 
 ---
 
-## <span dir="ltr">📖 Group 1: Family & Relationships</span>
+<div dir="ltr">
 
-<div class="practice-box">
+## 📖 Group 1: Family & Relationships<div class="practice-box">
+
+</div>
 
 | Urdu | Pronunciation | English |
 |------|---------------|---------|
@@ -38,9 +46,11 @@
 
 ---
 
-## <span dir="ltr">📖 Group 2: Places & Buildings</span>
+<div dir="ltr">
 
-<div class="practice-box">
+## 📖 Group 2: Places & Buildings<div class="practice-box">
+
+</div>
 
 | Urdu | Pronunciation | English |
 |------|---------------|---------|
@@ -61,9 +71,11 @@
 
 ---
 
-## <span dir="ltr">📖 Group 3: Daily Life Objects</span>
+<div dir="ltr">
 
-<div class="practice-box">
+## 📖 Group 3: Daily Life Objects<div class="practice-box">
+
+</div>
 
 | Urdu | Pronunciation | English |
 |------|---------------|---------|
@@ -84,9 +96,11 @@
 
 ---
 
-## <span dir="ltr">📖 Group 4: Time & Days</span>
+<div dir="ltr">
 
-<div class="practice-box">
+## 📖 Group 4: Time & Days<div class="practice-box">
+
+</div>
 
 | Urdu | Pronunciation | English |
 |------|---------------|---------|
@@ -110,9 +124,11 @@
 
 ---
 
-## <span dir="ltr">📖 Group 5: Weather & Seasons</span>
+<div dir="ltr">
 
-<div class="practice-box">
+## 📖 Group 5: Weather & Seasons<div class="practice-box">
+
+</div>
 
 | Urdu | Pronunciation | English |
 |------|---------------|---------|
@@ -131,9 +147,11 @@
 
 ---
 
-## <span dir="ltr">📖 Group 6: Food & Meals</span>
+<div dir="ltr">
 
-<div class="practice-box">
+## 📖 Group 6: Food & Meals<div class="practice-box">
+
+</div>
 
 | Urdu | Pronunciation | English |
 |------|---------------|---------|
@@ -152,9 +170,11 @@
 
 ---
 
-## <span dir="ltr">📖 Group 7: Clothing (کپڑے)</span>
+<div dir="ltr">
 
-<div class="practice-box">
+## 📖 Group 7: Clothing (کپڑے)<div class="practice-box">
+
+</div>
 
 | Urdu | Pronunciation | English |
 |------|---------------|---------|
@@ -173,9 +193,11 @@
 
 ---
 
-## <span dir="ltr">📖 Group 8: Numbers (گنتی)</span>
+<div dir="ltr">
 
-<div class="practice-box">
+## 📖 Group 8: Numbers (گنتی)<div class="practice-box">
+
+</div>
 
 | Urdu | Pronunciation | English |
 |------|---------------|---------|
@@ -198,8 +220,11 @@
 
 ## 💪 Practice Exercises
 
-### <span dir="ltr">Exercise 1: Break It Down</span>
-<span dir="ltr">Break these words into individual letters:</span>
+<div dir="ltr">
+
+### Exercise 1: Break It Down<span dir="ltr">Break these words into individual letters:</span>
+
+</div>
 
 <div class="practice-box">
 
@@ -208,10 +233,9 @@
 3. **مہینہ** = م + ہ + ی + ن + ہ
 4. **استاد** = ا + س + ت + ا + د
 
-</div>
+### Exercise 2: Match the Categories<span dir="ltr">Which category do these words belong to?</span>
 
-### <span dir="ltr">Exercise 2: Match the Categories</span>
-<span dir="ltr">Which category do these words belong to?</span>
+</div>
 
 <div class="practice-box">
 
@@ -221,11 +245,9 @@
 4. **ناشتہ** → Food
 5. **جمعہ** → Days
 
+### Exercise 3: Fill in the Missing Word<div class="practice-box">
+
 </div>
-
-### <span dir="ltr">Exercise 3: Fill in the Missing Word</span>
-
-<div class="practice-box">
 
 1. میں _____ جاتا ہوں۔ <span dir="ltr">(I go to school)</span>
    **<span dir="ltr">Answer:</span>** سکول
@@ -241,9 +263,11 @@
 ### Exercise 4: Build Sentences
 
 <div class="practice-box">
+<div dir="ltr">
 
-<span dir="ltr">Use these words to make sentences:</span>
+Use these words to make sentences:
 
+</div>
 **Example:** میں + صبح + ناشتہ + کرتا ہوں  
 = میں صبح ناشتہ کرتا ہوں۔ (I have breakfast in the morning)
 
@@ -256,43 +280,62 @@
 
 ---
 
-## <span dir="ltr">🎯 Speed Reading Practice</span>
+<div dir="ltr">
 
-### <span dir="ltr">Set 1: Places (1 minute)</span>
+## 🎯 Speed Reading Practice### <span dir="ltr">Set 1: Places (1 minute)</span>
+
+</div>
 **گھر، مکان، سکول، مسجد، ہسپتال، دکان، بازار، باغ، پارک**
 
-### <span dir="ltr">Set 2: Time Words (1 minute)</span>
-**صبح، دوپہر، شام، رات، پیر، منگل، بدھ، جمعرات، جمعہ، اتوار**
+<div dir="ltr">
 
-### <span dir="ltr">Set 3: Daily Objects (1 minute)</span>
-**کتاب، قلم، میز، کرسی، دروازہ، کھڑکی، چابی، تالا**
+### Set 2: Time Words (1 minute)**صبح، دوپہر، شام، رات، پیر، منگل، بدھ، جمعرات، جمعہ، اتوار**
+
+### Set 3: Daily Objects (1 minute)**کتاب، قلم، میز، کرسی، دروازہ، کھڑکی، چابی، تالا**
+
+</div>
 
 ---
 
 ## 📅 5-Day Practice Schedule
 
-### <span dir="ltr">Day 1: Family + Places</span>
-- Learn Groups 1 & 2 (20 words)
+<div dir="ltr">
+
+### Day 1: Family + Places- Learn Groups 1 & 2 (20 words)
+
+</div>
 - Write each word 3 times
 - Practice Exercise 1
 
-### <span dir="ltr">Day 2: Objects + Time</span>
-- Learn Groups 3 & 4 (25 words)
+<div dir="ltr">
+
+### Day 2: Objects + Time- Learn Groups 3 & 4 (25 words)
+
+</div>
 - Write each word 3 times
 - Practice Exercise 2
 
-### <span dir="ltr">Day 3: Weather + Food</span>
-- Learn Groups 5 & 6 (20 words)
+<div dir="ltr">
+
+### Day 3: Weather + Food- Learn Groups 5 & 6 (20 words)
+
+</div>
 - Write each word 3 times
 - Practice Exercise 3
 
-### <span dir="ltr">Day 4: Clothing + Numbers</span>
-- Learn Groups 7 & 8 (20 words)
+<div dir="ltr">
+
+### Day 4: Clothing + Numbers- Learn Groups 7 & 8 (20 words)
+
+</div>
 - Review all 85 words
 - Practice Exercise 4
 
-### <span dir="ltr">Day 5: Master Practice</span>
-- Read all vocabulary (Sets 1-3)
+<div dir="ltr">
+
+### Day 5: Master Practice- Read all vocabulary (Sets 1-3)
+
+</div>
 - Write 20 words from memory
 - Make 10 sentences
 - Complete all exercises
@@ -300,8 +343,11 @@
 ---
 
 ## ✅ Learning Outcomes
+<div dir="ltr">
 
-<span dir="ltr">By the end of this chapter, you should be able to:</span>
+By the end of this chapter, you should be able to:
+
+</div>
 - ✅ Read 60+ complex words (4+ letters)
 - ✅ Break down long words into letters
 - ✅ Recognize vocabulary for daily life
@@ -310,9 +356,11 @@
 
 ---
 
-## <span dir="ltr">🎉 Fantastic Work!</span>
+<div dir="ltr">
 
-<span dir="ltr">You've built a strong vocabulary! Over 100 words total now!</span>
+## 🎉 Fantastic Work!<span dir="ltr">You've built a strong vocabulary! Over 100 words total now!</span>
+
+</div>
 
 **<span dir="ltr">Next:</span>** <span dir="ltr">Chapter 8 - Learn word families and patterns to expand vocabulary even faster!</span>
 

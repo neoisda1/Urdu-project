@@ -1,4 +1,8 @@
-# <span dir="ltr">Chapter 8:</span> Word Families & Patterns  
+<div dir="ltr">
+
+# Chapter 8:Word Families & Patterns  
+
+</div>
 ## باب ۸: الفاظ کے خاندان اور نمونے
 
 ### 📚 Welcome to Chapter 8!
@@ -11,34 +15,41 @@
 
 ---
 
-## <span dir="ltr">🎯 What Are Word Families?</span>
+<div dir="ltr">
 
-<span dir="ltr">Words that share the same **root letters** form a family. Once you know the root, you can guess related words!</span>
+## 🎯 What Are Word Families?<span dir="ltr">Words that share the same **root letters** form a family. Once you know the root, you can guess related words!</span>
+
+</div>
 
 **<span dir="ltr">Example Root:</span>** <span dir="ltr">ک - ت - ب (k-t-b) = related to "writing"</span>
+<div dir="ltr">
 
-<span dir="ltr">From this root:</span>
+From this root:
+
+</div>
 - **کتاب** (kitaab) = book
 - **کاتب** (kaatib) = writer
 - **مکتوب** (maktoob) = letter/written
 
 ---
 
-## <span dir="ltr">📖 Pattern 1: Three-Letter Roots (فعل - fa'al)</span>
+<div dir="ltr">
 
-<span dir="ltr">Most Urdu words come from **3-letter roots**. The pattern shows how to arrange them:</span>
+## 📖 Pattern 1: Three-Letter Roots (فعل - fa'al)<span dir="ltr">Most Urdu words come from **3-letter roots**. The pattern shows how to arrange them:</span>
 
-### <span dir="ltr">Root: س - ن - ن (s-n-n) = "to hear"</span>
+### Root: س - ن - ن (s-n-n) = "to hear"| Pattern | Word | Meaning |
 
-| Pattern | Word | Meaning |
+</div>
 |---------|------|---------|
 | Basic | **سننا** (sunna) | to hear |
 | Agent | **سامع** (saami) | listener |
 | Noun | **سماعت** (samaat) | hearing |
 
-### <span dir="ltr">Root: پ - ڑ - ھ (p-r-h) = "to read"</span>
+<div dir="ltr">
 
-| Pattern | Word | Meaning |
+### Root: پ - ڑ - ھ (p-r-h) = "to read"| Pattern | Word | Meaning |
+
+</div>
 |---------|------|---------|
 | Basic | **پڑھنا** (parhna) | to read |
 | Agent | **پڑھنے والا** (parhne wala) | reader |
@@ -46,9 +57,11 @@
 
 ---
 
-## <span dir="ltr">📖 Pattern 2: The ـنا Ending (Infinitive Verbs)</span>
+<div dir="ltr">
 
-<span dir="ltr">Almost ALL action words end in **ـنا** (na):</span>
+## 📖 Pattern 2: The ـنا Ending (Infinitive Verbs)<span dir="ltr">Almost ALL action words end in **ـنا** (na):</span>
+
+</div>
 
 <div class="practice-box">
 
@@ -71,9 +84,11 @@
 
 ---
 
-## <span dir="ltr">📖 Pattern 3: Agent/Doer ـنے والا Pattern</span>
+<div dir="ltr">
 
-<span dir="ltr">To say "the person who does X", add **نے والا** (ne wala):</span>
+## 📖 Pattern 3: Agent/Doer ـنے والا Pattern<span dir="ltr">To say "the person who does X", add **نے والا** (ne wala):</span>
+
+</div>
 
 <div class="practice-box">
 
@@ -89,9 +104,11 @@
 
 ---
 
-## <span dir="ltr">📖 Pattern 4: Place Names ـستان Pattern</span>
+<div dir="ltr">
 
-<span dir="ltr">To name a place/land, add **ستان** (staan):</span>
+## 📖 Pattern 4: Place Names ـستان Pattern<span dir="ltr">To name a place/land, add **ستان** (staan):</span>
+
+</div>
 
 <div class="practice-box">
 
@@ -106,9 +123,11 @@
 
 ---
 
-## <span dir="ltr">📖 Pattern 5: Plural Forms</span>
+<div dir="ltr">
 
-### <span dir="ltr">Method 1: Add **ں** (noon ghunna)</span>
+## 📖 Pattern 5: Plural Forms### <span dir="ltr">Method 1: Add **ں** (noon ghunna)</span>
+
+</div>
 
 <div class="practice-box">
 
@@ -119,11 +138,9 @@
 | **کتاب** | **کتابوں** | books |
 | **آم** | **آموں** | mangoes |
 
+### Method 2: Add **یں** or **ئیں**<div class="practice-box">
+
 </div>
-
-### <span dir="ltr">Method 2: Add **یں** or **ئیں**</span>
-
-<div class="practice-box">
 
 | Singular | Plural | English |
 |----------|--------|---------|
@@ -132,11 +149,9 @@
 | **رات** | **راتیں** | nights |
 | **کتاب** | **کتابیں** | books |
 
+### Method 3: Completely Different (Irregular)<div class="practice-box">
+
 </div>
-
-### <span dir="ltr">Method 3: Completely Different (Irregular)</span>
-
-<div class="practice-box">
 
 | Singular | Plural | English |
 |----------|--------|---------|
@@ -148,9 +163,11 @@
 
 ---
 
-## <span dir="ltr">📖 Pattern 6: Adjective Endings</span>
+<div dir="ltr">
 
-### <span dir="ltr">ـی Ending (Creates Adjectives)</span>
+## 📖 Pattern 6: Adjective Endings### <span dir="ltr">ـی Ending (Creates Adjectives)</span>
+
+</div>
 
 <div class="practice-box">
 
@@ -166,9 +183,11 @@
 
 ---
 
-## <span dir="ltr">📖 Pattern 7: Opposite Words (متضاد)</span>
+<div dir="ltr">
 
-<span dir="ltr">Many opposites follow similar patterns:</span>
+## 📖 Pattern 7: Opposite Words (متضاد)<span dir="ltr">Many opposites follow similar patterns:</span>
+
+</div>
 
 <div class="practice-box">
 
@@ -187,9 +206,11 @@
 
 ---
 
-## <span dir="ltr">📖 Pattern 8: Compound Words (مرکب الفاظ)</span>
+<div dir="ltr">
 
-<span dir="ltr">Two words join to make a new meaning:</span>
+## 📖 Pattern 8: Compound Words (مرکب الفاظ)<span dir="ltr">Two words join to make a new meaning:</span>
+
+</div>
 
 <div class="practice-box">
 
@@ -208,8 +229,11 @@
 
 ## 💪 Practice Exercises
 
-### <span dir="ltr">Exercise 1: Identify the Root</span>
-<span dir="ltr">Find the 3-letter root in these words:</span>
+<div dir="ltr">
+
+### Exercise 1: Identify the Root<span dir="ltr">Find the 3-letter root in these words:</span>
+
+</div>
 
 <div class="practice-box">
 
@@ -218,10 +242,9 @@
 3. **کھانا** → <span dir="ltr">Root:</span> ک - ھ - ا (eat)
 4. **سننا** → <span dir="ltr">Root:</span> س - ن - ن (hear)
 
-</div>
+### Exercise 2: Make Plurals<span dir="ltr">Convert these to plural form:</span>
 
-### <span dir="ltr">Exercise 2: Make Plurals</span>
-<span dir="ltr">Convert these to plural form:</span>
+</div>
 
 <div class="practice-box">
 
@@ -230,10 +253,9 @@
 3. **کتاب** → **کتابیں**
 4. **آم** → **آموں**
 
-</div>
+### Exercise 3: Find Opposites<span dir="ltr">Match the opposites:</span>
 
-### <span dir="ltr">Exercise 3: Find Opposites</span>
-<span dir="ltr">Match the opposites:</span>
+</div>
 
 <div class="practice-box">
 
@@ -245,10 +267,9 @@
 | **نیا** | **پرانا** |
 | **اوپر** | **نیچے** |
 
-</div>
+### Exercise 4: Build Agent Words<span dir="ltr">Add "نے والا" to make "doer" words:</span>
 
-### <span dir="ltr">Exercise 4: Build Agent Words</span>
-<span dir="ltr">Add "نے والا" to make "doer" words:</span>
+</div>
 
 <div class="practice-box">
 
@@ -262,24 +283,36 @@
 
 ## 📅 4-Day Practice Schedule
 
-### <span dir="ltr">Day 1: Roots & Verbs</span>
-- Study 3-letter roots concept
+<div dir="ltr">
+
+### Day 1: Roots & Verbs- Study 3-letter roots concept
+
+</div>
 - Learn ـنا ending pattern
 - Practice 20 verbs
 - Exercise 1
 
-### <span dir="ltr">Day 2: Plurals & Agents</span>
-- Learn plural formation (3 methods)
+<div dir="ltr">
+
+### Day 2: Plurals & Agents- Learn plural formation (3 methods)
+
+</div>
 - Study agent pattern (ـنے والا)
 - Practice Exercise 2 & 4
 
-### <span dir="ltr">Day 3: Adjectives & Opposites</span>
-- Learn adjective endings
+<div dir="ltr">
+
+### Day 3: Adjectives & Opposites- Learn adjective endings
+
+</div>
 - Memorize 20 opposite pairs
 - Practice Exercise 3
 
-### <span dir="ltr">Day 4: Compounds & Review</span>
-- Learn compound words
+<div dir="ltr">
+
+### Day 4: Compounds & Review- Learn compound words
+
+</div>
 - Review all patterns
 - Create 10 words using patterns
 - Complete all exercises
@@ -287,8 +320,11 @@
 ---
 
 ## ✅ Learning Outcomes
+<div dir="ltr">
 
-<span dir="ltr">By the end of this chapter, you should be able to:</span>
+By the end of this chapter, you should be able to:
+
+</div>
 - ✅ Recognize 3-letter roots in words
 - ✅ Form verbs using ـنا pattern
 - ✅ Make plurals using 3 different methods
@@ -299,11 +335,13 @@
 
 ---
 
-## <span dir="ltr">🎉 Phase 2 Complete!</span>
+<div dir="ltr">
 
-<span dir="ltr">Congratulations! You've finished **PHASE 2: WORD BUILDING**!</span>
+## 🎉 Phase 2 Complete!<span dir="ltr">Congratulations! You've finished **PHASE 2: WORD BUILDING**!</span>
 
-<span dir="ltr">You now have:</span>
+You now have:
+
+</div>
 - ✅ 100+ word vocabulary
 - ✅ Understanding of word patterns
 - ✅ Ability to guess new words

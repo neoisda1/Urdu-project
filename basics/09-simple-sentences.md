@@ -1,4 +1,8 @@
-# <span dir="ltr">Chapter 9:</span> Simple Sentences  
+<div dir="ltr">
+
+# Chapter 9:Simple Sentences  
+
+</div>
 ## باب ۹: آسان جملے
 
 ### 📚 Welcome to Phase 3: Sentences & Reading!
@@ -11,23 +15,30 @@
 
 ---
 
-## <span dir="ltr">🎯 Urdu Sentence Structure</span>
+<div dir="ltr">
 
-### <span dir="ltr">Basic Word Order: **Subject + Object + Verb**</span>
+## 🎯 Urdu Sentence Structure### <span dir="ltr">Basic Word Order: **Subject + Object + Verb**</span>
+
+</div>
 
 **<span dir="ltr">Example:</span>**
 - <span dir="ltr">میں (I) + پانی (water) + پیتا ہوں (drink)</span>  
 - **میں پانی پیتا ہوں۔** <span dir="ltr">(I drink water)</span>
+<div dir="ltr">
 
-<span dir="ltr">This is DIFFERENT from English:</span>
+This is DIFFERENT from English:
+
+</div>
 - <span dir="ltr">English: I + drink + water (S-V-O)</span>
 - <span dir="ltr">Urdu: میں + پانی + پیتا ہوں (S-O-V)</span>
 
 ---
 
-## <span dir="ltr">📖 Pattern 1: Simple Present Tense</span>
+<div dir="ltr">
 
-### <span dir="ltr">Format: Subject + Verb (present form)</span>
+## 📖 Pattern 1: Simple Present Tense### <span dir="ltr">Format: Subject + Verb (present form)</span>
+
+</div>
 
 <div class="practice-box">
 
@@ -43,9 +54,11 @@
 
 ---
 
-## <span dir="ltr">📖 Pattern 2: "To Be" Sentences (ہے / ہیں)</span>
+<div dir="ltr">
 
-### <span dir="ltr">Format: Subject + Adjective/Noun + ہے/ہیں</span>
+## 📖 Pattern 2: "To Be" Sentences (ہے / ہیں)### <span dir="ltr">Format: Subject + Adjective/Noun + ہے/ہیں</span>
+
+</div>
 
 <div class="practice-box">
 
@@ -65,9 +78,11 @@
 
 ---
 
-## <span dir="ltr">📖 Pattern 3: Negative Sentences (نہیں)</span>
+<div dir="ltr">
 
-### <span dir="ltr">Format: Subject + Object + **نہیں** + Verb</span>
+## 📖 Pattern 3: Negative Sentences (نہیں)### <span dir="ltr">Format: Subject + Object + **نہیں** + Verb</span>
+
+</div>
 
 <div class="practice-box">
 
@@ -86,9 +101,11 @@
 
 ---
 
-## <span dir="ltr">📖 Pattern 4: Question Sentences</span>
+<div dir="ltr">
 
-### <span dir="ltr">Method 1: Add **کیا** at the beginning</span>
+## 📖 Pattern 4: Question Sentences### <span dir="ltr">Method 1: Add **کیا** at the beginning</span>
+
+</div>
 
 <div class="practice-box">
 
@@ -99,11 +116,9 @@
 | **وہ اچھا ہے۔** | **کیا وہ اچھا ہے؟** |
 | (He is good) | (Is he good?) |
 
+### Method 2: Use Question Words<div class="practice-box">
+
 </div>
-
-### <span dir="ltr">Method 2: Use Question Words</span>
-
-<div class="practice-box">
 
 | Question Word | Urdu | Example |
 |---------------|------|---------|
@@ -116,9 +131,11 @@
 
 ---
 
-## <span dir="ltr">📖 Common Sentence Patterns</span>
+<div dir="ltr">
 
-### <span dir="ltr">Pattern 1: Daily Actions</span>
+## 📖 Common Sentence Patterns### <span dir="ltr">Pattern 1: Daily Actions</span>
+
+</div>
 
 <div class="practice-box">
 
@@ -137,11 +154,9 @@
 5. **میں رات کو سوتا ہوں۔**  
    (I sleep at night)
 
+### Pattern 2: Describing Things<div class="practice-box">
+
 </div>
-
-### <span dir="ltr">Pattern 2: Describing Things</span>
-
-<div class="practice-box">
 
 1. **آسمان نیلا ہے۔**  
    (The sky is blue)
@@ -158,11 +173,9 @@
 5. **سورج گرم ہے۔**  
    (The sun is hot)
 
+### Pattern 3: Family Sentences<div class="practice-box">
+
 </div>
-
-### <span dir="ltr">Pattern 3: Family Sentences</span>
-
-<div class="practice-box">
 
 1. **میری ماں اچھی ہے۔**  
    (My mother is good)
@@ -185,9 +198,11 @@
 
 ## 💪 Practice Exercises
 
-### <span dir="ltr">Exercise 1: Translate to Urdu</span>
+<div dir="ltr">
 
-<div class="practice-box">
+### Exercise 1: Translate to Urdu<div class="practice-box">
+
+</div>
 
 1. I eat bread.  
    **Answer:** میں روٹی کھاتا ہوں۔
@@ -204,31 +219,25 @@
 5. They are happy.  
    **Answer:** وہ خوش ہیں۔
 
+### Exercise 2: Make Negative<div class="practice-box">
+
 </div>
-
-### <span dir="ltr">Exercise 2: Make Negative</span>
-
-<div class="practice-box">
 
 1. **میں جاتا ہوں۔** → **میں نہیں جاتا۔**
 2. **وہ کھاتی ہے۔** → **وہ نہیں کھاتی۔**
 3. **بچے کھیلتے ہیں۔** → **بچے نہیں کھیلتے۔**
 
+### Exercise 3: Make Questions<div class="practice-box">
+
 </div>
-
-### <span dir="ltr">Exercise 3: Make Questions</span>
-
-<div class="practice-box">
 
 1. **تم جاتے ہو۔** → **کیا تم جاتے ہو؟**
 2. **وہ اچھا ہے۔** → **کیا وہ اچھا ہے؟**
 3. **بچے خوش ہیں۔** → **کیا بچے خوش ہیں؟**
 
+### Exercise 4: Fill in the Blanks<div class="practice-box">
+
 </div>
-
-### <span dir="ltr">Exercise 4: Fill in the Blanks</span>
-
-<div class="practice-box">
 
 1. میں _____ پیتا ہوں۔ (I drink water)  
    **Answer:** پانی
@@ -243,9 +252,11 @@
 
 ---
 
-## <span dir="ltr">📚 Vocabulary: Connecting Words</span>
+<div dir="ltr">
 
-<div class="practice-box">
+## 📚 Vocabulary: Connecting Words<div class="practice-box">
+
+</div>
 
 | Urdu | English |
 |------|---------|
@@ -258,11 +269,9 @@
 | **جب** | when |
 | **پھر** | then/after |
 
+### Using Connecting Words:1. **میں کھانا کھاتا ہوں اور پانی پیتا ہوں۔**  
+
 </div>
-
-### <span dir="ltr">Using Connecting Words:</span>
-
-1. **میں کھانا کھاتا ہوں اور پانی پیتا ہوں۔**  
    (I eat food and drink water)
 
 2. **وہ جاتا ہے لیکن میں نہیں جاتا۔**  
@@ -275,29 +284,44 @@
 
 ## 📅 5-Day Practice Schedule
 
-### <span dir="ltr">Day 1: Basic Sentences</span>
-- Learn S-O-V structure
+<div dir="ltr">
+
+### Day 1: Basic Sentences- Learn S-O-V structure
+
+</div>
 - Practice Pattern 1 (Simple Present)
 - Write 10 simple sentences
 - Exercise 1
 
-### <span dir="ltr">Day 2: "To Be" & Negatives</span>
-- Practice Pattern 2 (ہے/ہیں)
+<div dir="ltr">
+
+### Day 2: "To Be" & Negatives- Practice Pattern 2 (ہے/ہیں)
+
+</div>
 - Learn negative formation
 - Practice Exercise 2
 
-### <span dir="ltr">Day 3: Questions</span>
-- Learn question formation (کیا)
+<div dir="ltr">
+
+### Day 3: Questions- Learn question formation (کیا)
+
+</div>
 - Practice question words
 - Practice Exercise 3
 
-### <span dir="ltr">Day 4: Complex Sentences</span>
-- Learn connecting words
+<div dir="ltr">
+
+### Day 4: Complex Sentences- Learn connecting words
+
+</div>
 - Combine simple sentences
 - Practice Exercise 4
 
-### <span dir="ltr">Day 5: Master Practice</span>
-- Write 20 sentences about your day
+<div dir="ltr">
+
+### Day 5: Master Practice- Write 20 sentences about your day
+
+</div>
 - Translate 10 English sentences to Urdu
 - Read all example sentences
 - Complete all exercises
@@ -305,8 +329,11 @@
 ---
 
 ## ✅ Learning Outcomes
+<div dir="ltr">
 
-<span dir="ltr">By the end of this chapter, you should be able to:</span>
+By the end of this chapter, you should be able to:
+
+</div>
 - ✅ Understand Urdu sentence structure (S-O-V)
 - ✅ Form simple present tense sentences
 - ✅ Use ہے/ہیں correctly
@@ -317,9 +344,11 @@
 
 ---
 
-## <span dir="ltr">🎉 Excellent Progress!</span>
+<div dir="ltr">
 
-<span dir="ltr">You can now make complete Urdu sentences!</span>
+## 🎉 Excellent Progress!<span dir="ltr">You can now make complete Urdu sentences!</span>
+
+</div>
 
 **<span dir="ltr">Next:</span>** <span dir="ltr">Chapter 10 - Expand your sentence skills with more tenses and complex structures!</span>
 

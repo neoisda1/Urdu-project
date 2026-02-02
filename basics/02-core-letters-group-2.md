@@ -1,4 +1,8 @@
-# <span dir="ltr">Chapter 2:</span> Core Letters Group 2  
+<div dir="ltr">
+
+# Chapter 2:Core Letters Group 2  
+
+</div>
 ## باب ۲: بنیادی حروف - گروپ ۲
 
 ### 📚 Welcome to Chapter 2!
@@ -46,9 +50,11 @@
 ---
 
 ## 🔄 Review: Chapter 1 Letters
+<div dir="ltr">
 
-<span dir="ltr">Before we practice new letters, let's quickly review Chapter 1:</span>
+Before we practice new letters, let's quickly review Chapter 1:
 
+</div>
 ```
 ا    ب    پ    ت    د    ر    س    ک    ل    م
 ```
@@ -167,9 +173,11 @@ These two letters are **very special** because they have **multiple sounds**:
 ---
 
 ## 🎓 Learning Outcomes
+<div dir="ltr">
 
-<span dir="ltr">By the end of this chapter, you will:</span>
+By the end of this chapter, you will:
 
+</div>
 ✅ <span dir="ltr">Know 20 letters (instead of just 10!</span>)  
 ✅ Recognize letters instantly in random order  
 ✅ Write simple 3-4 letter words  

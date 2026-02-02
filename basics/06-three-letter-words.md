@@ -1,4 +1,8 @@
-# <span dir="ltr">Chapter 6:</span> 3-Letter Words  
+<div dir="ltr">
+
+# Chapter 6:3-Letter Words  
+
+</div>
 ## باب ۶: تین حرفی الفاظ
 
 ### 📚 Welcome to Chapter 6!
@@ -11,15 +15,19 @@
 
 ---
 
-## <span dir="ltr">🎯 Why 3-Letter Words Matter</span>
+<div dir="ltr">
 
-<span dir="ltr">Most basic Urdu words have 3 letters. Once you master these, you can read 60-70% of simple Urdu text!</span>
+## 🎯 Why 3-Letter Words Matter<span dir="ltr">Most basic Urdu words have 3 letters. Once you master these, you can read 60-70% of simple Urdu text!</span>
+
+</div>
 
 ---
 
-## <span dir="ltr">📖 Group 1: Family Words</span>
+<div dir="ltr">
 
-<div class="practice-box">
+## 📖 Group 1: Family Words<div class="practice-box">
+
+</div>
 
 | Urdu | Pronunciation | English |
 |------|---------------|---------|
@@ -38,9 +46,11 @@
 
 ---
 
-## <span dir="ltr">📖 Group 2: Animals (جانور)</span>
+<div dir="ltr">
 
-<div class="practice-box">
+## 📖 Group 2: Animals (جانور)<div class="practice-box">
+
+</div>
 
 | Urdu | Pronunciation | English |
 |------|---------------|---------|
@@ -59,9 +69,11 @@
 
 ---
 
-## <span dir="ltr">📖 Group 3: Body Parts (جسم کے حصے)</span>
+<div dir="ltr">
 
-<div class="practice-box">
+## 📖 Group 3: Body Parts (جسم کے حصے)<div class="practice-box">
+
+</div>
 
 | Urdu | Pronunciation | English |
 |------|---------------|---------|
@@ -80,9 +92,11 @@
 
 ---
 
-## <span dir="ltr">📖 Group 4: Nature (قدرت)</span>
+<div dir="ltr">
 
-<div class="practice-box">
+## 📖 Group 4: Nature (قدرت)<div class="practice-box">
+
+</div>
 
 | Urdu | Pronunciation | English |
 |------|---------------|---------|
@@ -101,9 +115,11 @@
 
 ---
 
-## <span dir="ltr">📖 Group 5: Food Items (کھانے کی چیزیں)</span>
+<div dir="ltr">
 
-<div class="practice-box">
+## 📖 Group 5: Food Items (کھانے کی چیزیں)<div class="practice-box">
+
+</div>
 
 | Urdu | Pronunciation | English |
 |------|---------------|---------|
@@ -122,9 +138,11 @@
 
 ---
 
-## <span dir="ltr">📖 Group 6: Colors (رنگ)</span>
+<div dir="ltr">
 
-<div class="practice-box">
+## 📖 Group 6: Colors (رنگ)<div class="practice-box">
+
+</div>
 
 | Urdu | Pronunciation | English |
 |------|---------------|---------|
@@ -143,9 +161,11 @@
 
 ---
 
-## <span dir="ltr">📖 Group 7: Common Actions (عام فعل)</span>
+<div dir="ltr">
 
-<div class="practice-box">
+## 📖 Group 7: Common Actions (عام فعل)<div class="practice-box">
+
+</div>
 
 | Urdu | Pronunciation | English |
 |------|---------------|---------|
@@ -166,17 +186,19 @@
 
 ## 💪 Practice Exercises
 
-### <span dir="ltr">Exercise 1: Word Recognition</span>
-<span dir="ltr">Read these words quickly (30 seconds):</span>
+<div dir="ltr">
+
+### Exercise 1: Word Recognition<span dir="ltr">Read these words quickly (30 seconds):</span>
+
+</div>
 
 <div class="practice-box">
 
 **ماں، باپ، بیٹا، بہن، بھائی، دادا، دادی، نانا، نانی، چچا**
 
-</div>
+### Exercise 2: Category Sorting<span dir="ltr">Which category do these words belong to?</span>
 
-### <span dir="ltr">Exercise 2: Category Sorting</span>
-<span dir="ltr">Which category do these words belong to?</span>
+</div>
 
 <div class="practice-box">
 
@@ -188,10 +210,9 @@
 
 **<span dir="ltr">Answers:</span>** <span dir="ltr">1. Animals, 2. Food, 3. Nature, 4. Body, 5. Colors</span>
 
-</div>
+### Exercise 3: Fill in the Blanks<span dir="ltr">Complete with the right word:</span>
 
-### <span dir="ltr">Exercise 3: Fill in the Blanks</span>
-<span dir="ltr">Complete with the right word:</span>
+</div>
 
 <div class="practice-box">
 
@@ -204,10 +225,9 @@
 3. میری _____ بہت پیاری ہے۔ <span dir="ltr">(My mother is very lovely)</span>
    - **<span dir="ltr">Answer:</span>** ماں
 
-</div>
+### Exercise 4: Build Sentences<span dir="ltr">Use these words to make simple sentences:</span>
 
-### <span dir="ltr">Exercise 4: Build Sentences</span>
-<span dir="ltr">Use these words to make simple sentences:</span>
+</div>
 
 <div class="practice-box">
 
@@ -223,12 +243,13 @@
 
 ---
 
-## <span dir="ltr">📚 Vowel Combinations</span>
+<div dir="ltr">
 
-### <span dir="ltr">Remember: اعراب matter!</span>
+## 📚 Vowel Combinations### <span dir="ltr">Remember: اعراب matter!</span>
 
-<span dir="ltr">Same letters, different vowels = different words:</span>
+Same letters, different vowels = different words:
 
+</div>
 | Word | Vowels | Meaning |
 |------|--------|---------|
 | **دَل** | zabar | lentils |
@@ -238,44 +259,63 @@
 
 ---
 
-## <span dir="ltr">🎯 Speed Reading Practice</span>
+<div dir="ltr">
 
-### <span dir="ltr">Set 1: Read in 1 minute</span>
+## 🎯 Speed Reading Practice### <span dir="ltr">Set 1: Read in 1 minute</span>
+
+</div>
 **ماں، باپ، بیٹا، بیٹی، بہن، بھائی، دادا، دادی، نانا، نانی، چچا، پھوپھی، ماموں، خالہ**
 
-### <span dir="ltr">Set 2: Read in 1 minute</span>
-**بلی، کتا، گھوڑا، شیر، ہاتھی، مرغی، بندر، چوہا، بکری، بھیڑ**
+<div dir="ltr">
 
-### <span dir="ltr">Set 3: Read in 1 minute</span>
-**سر، منہ، آنکھ، کان، ناک، ہاتھ، پاؤں، دل، پیٹ، دانت**
+### Set 2: Read in 1 minute**بلی، کتا، گھوڑا، شیر، ہاتھی، مرغی، بندر، چوہا، بکری، بھیڑ**
+
+### Set 3: Read in 1 minute**سر، منہ، آنکھ، کان، ناک، ہاتھ، پاؤں، دل، پیٹ، دانت**
+
+</div>
 
 ---
 
 ## 📅 5-Day Practice Schedule
 
-### <span dir="ltr">Day 1: Family + Animals</span>
-- Learn Groups 1 & 2 (20 words)
+<div dir="ltr">
+
+### Day 1: Family + Animals- Learn Groups 1 & 2 (20 words)
+
+</div>
 - Write each word 5 times
 - Practice Exercise 1
 
-### <span dir="ltr">Day 2: Body + Nature</span>
-- Learn Groups 3 & 4 (20 words)
+<div dir="ltr">
+
+### Day 2: Body + Nature- Learn Groups 3 & 4 (20 words)
+
+</div>
 - Write each word 5 times
 - Practice Exercise 2
 
-### <span dir="ltr">Day 3: Food + Colors</span>
-- Learn Groups 5 & 6 (20 words)
+<div dir="ltr">
+
+### Day 3: Food + Colors- Learn Groups 5 & 6 (20 words)
+
+</div>
 - Write each word 5 times
 - Practice Exercise 3
 
-### <span dir="ltr">Day 4: Actions + Review</span>
-- Learn Group 7 (10 words)
+<div dir="ltr">
+
+### Day 4: Actions + Review- Learn Group 7 (10 words)
+
+</div>
 - Review all 50+ words
 - Practice Exercise 4
 - Speed reading Sets 1-3
 
-### <span dir="ltr">Day 5: Master Test</span>
-- Write 20 words from memory
+<div dir="ltr">
+
+### Day 5: Master Test- Write 20 words from memory
+
+</div>
 - Read all vocabulary lists
 - Make 10 simple sentences
 - Complete all exercises
@@ -283,8 +323,11 @@
 ---
 
 ## ✅ Learning Outcomes
+<div dir="ltr">
 
-<span dir="ltr">By the end of this chapter, you should be able to:</span>
+By the end of this chapter, you should be able to:
+
+</div>
 - ✅ Recognize 50+ common 3-letter words
 - ✅ Read family, animal, body, nature, food, color words
 - ✅ Understand how vowel marks change meanings
@@ -294,9 +337,11 @@
 ---
 
 ## 🎉 Excellent Progress!
+<div dir="ltr">
 
-<span dir="ltr">You now have a strong vocabulary foundation!</span>
+You now have a strong vocabulary foundation!
 
+</div>
 **Next:** Chapter 7 - Learn 4+ letter words and complex vocabulary!
 
 **مشق کرتے رہیں!** (Keep practicing!)
