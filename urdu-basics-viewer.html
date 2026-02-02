@@ -326,9 +326,14 @@
         /* Force LTR text direction for English content */
         [dir="ltr"] {
             direction: ltr !important;
-            unicode-bidi: isolate;
+            unicode-bidi: isolate-override;
             display: inline-block;
             text-align: left;
+        }
+        
+        /* Better handling for mixed content */
+        .content p, .content li, .content td {
+            unicode-bidi: plaintext;
         }
 
         .practice-box {
