@@ -1,6 +1,6 @@
 <div dir="ltr">
 
-# Chapter 3Remaining Letters  
+# Chapter 3 Remaining Letters  
 
 </div>
 ## باب ۳: بقیہ حروف
@@ -38,6 +38,7 @@ Excellent progress! You've learned 20 essential letters. Now let's complete your
 | **گ** | گاف (Gaaf) | "g" as in "go" | **گاڑی** (gaari) = car |
 | **ے** | یے بڑی (Yay Baree) | "ay" as in "say" | **آئے** (aaye) = came |
 
+
 ---
 
 ## 📋 Complete 38-Letter Alphabet
@@ -46,12 +47,14 @@ Excellent progress! You've learned 20 essential letters. Now let's complete your
 Congratulations You now know ALL 38 Urdu letters
 
 </div>
+
 | Group | Letters | Count |
 |-------|---------|-------|
 | **Chapter 1** | ا، ب، پ، ت، د، ر، س، ک، ل، م | 10 |
 | **Chapter 2** | ن، و، ہ، ی، ج، چ، خ، ش، ف، ق | 10 |
 | **Chapter 3** | ٹ، ڈ، ڑ، ث، ح، ذ، ز، ژ، ص، ض، ط، ظ، ع، غ، گ، ے، ں | 18 |
 | **Total** | **Complete Alphabet** | **38** |
+
 
 ---
 
@@ -96,6 +99,7 @@ Group these similar-looking letters
 | **Heavy letters** | ث، ح، ص، ض، ط، ظ، ع، غ، ق |
 | **Tail letters** | ر، ڑ، ز، ژ، د، ڈ، ذ |
 
+
 ### Exercise 4: Common Words (آسان الفاظ)
 <div dir="ltr">
 
@@ -114,6 +118,7 @@ Read these words using ALL three chapters
 | **غم** | gham | sorrow |
 | **قلم** | qalam | pen |
 | **گھر** | ghar | house |
+
 
 </div>
 
@@ -165,7 +170,9 @@ Read these words using ALL three chapters
 
 <div dir="ltr">
 
-### Day 1 First 9 Letters- Learn ٹ، ڈ، ڑ، ث، ح، ذ، ز، ژ، ش
+### Day 1 First 9 Letters
+
+- Learn ٹ، ڈ، ڑ، ث، ح، ذ، ز، ژ، ش
 
 </div>
 - Write each 10 times
@@ -173,7 +180,9 @@ Read these words using ALL three chapters
 
 <div dir="ltr">
 
-### Day 2 Next 9 Letters- Learn ص، ض، ط، ظ، ع، غ، ف، گ، ے
+### Day 2 Next 9 Letters
+
+- Learn ص، ض، ط، ظ، ع، غ، ف، گ، ے
 
 </div>
 - Write each 10 times
@@ -181,7 +190,9 @@ Read these words using ALL three chapters
 
 <div dir="ltr">
 
-### Day 3 Review Day- Review ALL 38 letters
+### Day 3 Review Day
+
+- Review ALL 38 letters
 
 </div>
 - Speed recognition drills (Sets 1-4)
@@ -189,7 +200,9 @@ Read these words using ALL three chapters
 
 <div dir="ltr">
 
-### Day 4 Word Practice- Read vocabulary list 3 times
+### Day 4 Word Practice
+
+- Read vocabulary list 3 times
 
 </div>
 - Practice Exercise 4
@@ -197,7 +210,9 @@ Read these words using ALL three chapters
 
 <div dir="ltr">
 
-### Day 5 Master Test- Write all 38 letters from memory
+### Day 5 Master Test
+
+- Write all 38 letters from memory
 
 </div>
 - Read all words in vocabulary section

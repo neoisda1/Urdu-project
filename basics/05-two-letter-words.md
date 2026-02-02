@@ -22,21 +22,29 @@ Now it's time to **build words** and start reading real Urdu! In this chapter, y
 
 <div dir="ltr">
 
-## 🎯 What are Vowel Marks (اعراب)?Vowel marks are **small symbols** written above or below letters to show how to pronounce them. They're like pronunciation guides
+## 🎯 What are Vowel Marks (اعراب)?
 
-### The 3 Main Vowel Marks| Mark | Name | Sound | Example |
+Vowel marks are **small symbols** written above or below letters to show how to pronounce them. They're like pronunciation guides
 
-</div>
+### The 3 Main Vowel Marks
+
+| Mark | Name | Sound | Example |
 |------|------|-------|---------|
 | **َ** | زبر (Zabar) | "a" sound | **بَ** = ba |
 | **ِ** | زیر (Zer) | "i" sound | **بِ** = bi |
 | **ُ** | پیش (Pesh) | "u" sound | **بُ** = bu |
 
+</div>
+
+
+
 ---
 
 <div dir="ltr">
 
-## 📖 Understanding Vowel Marks### Example with letter **ب** (Bay)
+## 📖 Understanding Vowel Marks
+
+### Example with letter **ب** (Bay)
 
 Without vowel mark **ب** (just "b" sound)
 
@@ -49,20 +57,26 @@ With vowel marks
 
 <div dir="ltr">
 
-### Practice with different letters| Letter | + Zabar | + Zer | + Pesh |
+### Practice with different letters
 
-</div>
+| Letter | + Zabar | + Zer | + Pesh |
 |--------|---------|-------|--------|
 | **ک** | **کَ** = ka | **کِ** = ki | **کُ** = ku |
 | **د** | **دَ** = da | **دِ** = di | **دُ** = du |
 | **س** | **سَ** = sa | **سِ** = si | **سُ** = su |
 | **م** | **مَ** = ma | **مِ** = mi | **مُ** = mu |
 
+</div>
+
+
+
 ---
 
 <div dir="ltr">
 
-## 📚 30 Essential 2-Letter Words### Group 1 Very Common Words (10 words)
+## 📚 30 Essential 2-Letter Words
+
+### Group 1 Very Common Words (10 words)
 
 </div>
 
@@ -79,11 +93,12 @@ With vowel marks
 | **سب** | **سَب** | sab | all |
 | **کب** | **کَب** | kab | when |
 
+
 <div dir="ltr">
 
-### Group 2 Body & Nature (10 words)| Word | With Aerab | Pronunciation | Meaning |
+### Group 2 Body & Nature (10 words)
 
-</div>
+| Word | With Aerab | Pronunciation | Meaning |
 |------|------------|---------------|---------|
 | **تن** | **تَن** | tan | body |
 | **من** | **مَن** | man | mind |
@@ -96,11 +111,15 @@ With vowel marks
 | **گھر** | **گھَر** | ghar | house |
 | **کل** | **کَل** | kal | yesterday/tomorrow |
 
+</div>
+
+
+
 <div dir="ltr">
 
-### Group 3 Actions & More (10 words)| Word | With Aerab | Pronunciation | Meaning |
+### Group 3 Actions & More (10 words)
 
-</div>
+| Word | With Aerab | Pronunciation | Meaning |
 |------|------------|---------------|---------|
 | **تھا** | **تھا** | tha | was (he) |
 | **ہے** | **ہَے** | hai | is |
@@ -112,6 +131,10 @@ With vowel marks
 | **بگ** | **بَگ** | bag | bag/garden |
 | **جگ** | **جَگ** | jag | world |
 | **رنگ** | **رَنگ** | rang | color |
+
+</div>
+
+
 
 ---
 
@@ -200,7 +223,9 @@ With vowel marks
 
 <div dir="ltr">
 
-## 🏆 Common Phrases with 2-Letter Words### Using these words in context
+## 🏆 Common Phrases with 2-Letter Words
+
+### Using these words in context
 
 </div>
 
@@ -273,7 +298,9 @@ By the end of this chapter, you will
 
 <div dir="ltr">
 
-## ➡️ Next Chapter PreviewIn **Chapter 6**, you will learn
+## ➡️ Next Chapter Preview
+
+In **Chapter 6**, you will learn
 
 </div>
 - 50 common 3-letter words

@@ -17,7 +17,7 @@ Great job with 2-letter words! Now let's move to **3-letter words** - the founda
 
 <div dir="ltr">
 
-## 🎯 Why 3-Letter Words MatterMost basic Urdu words have 3 letters. Once you master these, you can read 60-70% of simple Urdu text
+## 🎯 Why 3-Letter Words Matter Most basic Urdu words have 3 letters. Once you master these, you can read 60-70% of simple Urdu text
 
 </div>
 
@@ -42,6 +42,7 @@ Great job with 2-letter words! Now let's move to **3-letter words** - the founda
 | **نانا** | naana | maternal grandfather |
 | **نانی** | naani | maternal grandmother |
 
+
 </div>
 
 ---
@@ -64,6 +65,7 @@ Great job with 2-letter words! Now let's move to **3-letter words** - the founda
 | **مرغی** | murghi | chicken |
 | **بندر** | bandar | monkey |
 | **چوہا** | chuha | mouse |
+
 
 </div>
 
@@ -88,6 +90,7 @@ Great job with 2-letter words! Now let's move to **3-letter words** - the founda
 | **دل** | dil | heart |
 | **پیٹ** | pet | stomach |
 
+
 </div>
 
 ---
@@ -110,6 +113,7 @@ Great job with 2-letter words! Now let's move to **3-letter words** - the founda
 | **پہاڑ** | pahar | mountain |
 | **دریا** | darya | river |
 | **بادل** | baadal | cloud |
+
 
 </div>
 
@@ -134,6 +138,7 @@ Great job with 2-letter words! Now let's move to **3-letter words** - the founda
 | **چائے** | chaaye | tea |
 | **نمک** | namak | salt |
 
+
 </div>
 
 ---
@@ -156,6 +161,7 @@ Great job with 2-letter words! Now let's move to **3-letter words** - the founda
 | **گلابی** | gulaabi | pink |
 | **بھورا** | bhoora | brown |
 | **سرخ** | surkh | red |
+
 
 </div>
 
@@ -180,6 +186,7 @@ Great job with 2-letter words! Now let's move to **3-letter words** - the founda
 | **دیکھنا** | dekhna | to see |
 | **سننا** | sunna | to hear |
 
+
 </div>
 
 ---
@@ -188,7 +195,7 @@ Great job with 2-letter words! Now let's move to **3-letter words** - the founda
 
 <div dir="ltr">
 
-### Exercise 1 Word RecognitionRead these words quickly (30 seconds)
+### Exercise 1 Word Recognition Read these words quickly (30 seconds)
 
 </div>
 
@@ -196,7 +203,7 @@ Great job with 2-letter words! Now let's move to **3-letter words** - the founda
 
 **ماں، باپ، بیٹا، بہن، بھائی، دادا، دادی، نانا، نانی، چچا**
 
-### Exercise 2: Category SortingWhich category do these words belong to?
+### Exercise 2: Category Sorting Which category do these words belong to?
 
 </div>
 
@@ -210,7 +217,7 @@ Great job with 2-letter words! Now let's move to **3-letter words** - the founda
 
 **Answers:** 1. Animals, 2. Food, 3. Nature, 4. Body, 5. Colors
 
-### Exercise 3: Fill in the BlanksComplete with the right word:
+### Exercise 3: Fill in the Blanks Complete with the right word:
 
 </div>
 
@@ -225,7 +232,7 @@ Great job with 2-letter words! Now let's move to **3-letter words** - the founda
 3. میری _____ بہت پیاری ہے۔ (My mother is very lovely)
    - **Answer:** ماں
 
-### Exercise 4: Build SentencesUse these words to make simple sentences:
+### Exercise 4: Build Sentences Use these words to make simple sentences:
 
 </div>
 
@@ -245,11 +252,14 @@ Great job with 2-letter words! Now let's move to **3-letter words** - the founda
 
 <div dir="ltr">
 
-## 📚 Vowel Combinations### Remember اعراب matter
+## 📚 Vowel Combinations
+
+### Remember اعراب matter
 
 Same letters, different vowels = different words
 
 </div>
+
 | Word | Vowels | Meaning |
 |------|--------|---------|
 | **دَل** | zabar | lentils |
@@ -257,11 +267,14 @@ Same letters, different vowels = different words
 | **گُل** | pesh | flower |
 | **گَل** | zabar | cheek |
 
+
 ---
 
 <div dir="ltr">
 
-## 🎯 Speed Reading Practice### Set 1 Read in 1 minute
+## 🎯 Speed Reading Practice
+
+### Set 1 Read in 1 minute
 
 </div>
 **ماں، باپ، بیٹا، بیٹی، بہن، بھائی، دادا، دادی، نانا، نانی، چچا، پھوپھی، ماموں، خالہ**
@@ -280,7 +293,9 @@ Same letters, different vowels = different words
 
 <div dir="ltr">
 
-### Day 1 Family + Animals- Learn Groups 1 & 2 (20 words)
+### Day 1 Family + Animals
+
+- Learn Groups 1 & 2 (20 words)
 
 </div>
 - Write each word 5 times
@@ -288,7 +303,9 @@ Same letters, different vowels = different words
 
 <div dir="ltr">
 
-### Day 2 Body + Nature- Learn Groups 3 & 4 (20 words)
+### Day 2 Body + Nature
+
+- Learn Groups 3 & 4 (20 words)
 
 </div>
 - Write each word 5 times
@@ -296,7 +313,9 @@ Same letters, different vowels = different words
 
 <div dir="ltr">
 
-### Day 3 Food + Colors- Learn Groups 5 & 6 (20 words)
+### Day 3 Food + Colors
+
+- Learn Groups 5 & 6 (20 words)
 
 </div>
 - Write each word 5 times
@@ -304,7 +323,9 @@ Same letters, different vowels = different words
 
 <div dir="ltr">
 
-### Day 4 Actions + Review- Learn Group 7 (10 words)
+### Day 4 Actions + Review
+
+- Learn Group 7 (10 words)
 
 </div>
 - Review all 50+ words
@@ -313,7 +334,9 @@ Same letters, different vowels = different words
 
 <div dir="ltr">
 
-### Day 5 Master Test- Write 20 words from memory
+### Day 5 Master Test
+
+- Write 20 words from memory
 
 </div>
 - Read all vocabulary lists

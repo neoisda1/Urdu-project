@@ -17,7 +17,9 @@ Excellent! You can now read simple 2 and 3-letter words. Time to tackle **longer
 
 <div dir="ltr">
 
-## 🎯 Building Longer WordsLonger words are just combinations of the letters and patterns you already know. Don't be intimidated - break them down letter by letter
+## 🎯 Building Longer Words Longer words are just combinations of the letters and patterns you already know. Don't be intimidated
+
+- break them down letter by letter
 
 </div>
 
@@ -41,6 +43,7 @@ Excellent! You can now read simple 2 and 3-letter words. Time to tackle **longer
 | **خاندان** | khaandaan | family |
 | **دادا جان** | daada jaan | grandfather |
 | **نانی جان** | naani jaan | grandmother |
+
 
 </div>
 
@@ -67,6 +70,7 @@ Excellent! You can now read simple 2 and 3-letter words. Time to tackle **longer
 | **باغ** | baagh | garden |
 | **پارک** | park | park |
 
+
 </div>
 
 ---
@@ -91,6 +95,7 @@ Excellent! You can now read simple 2 and 3-letter words. Time to tackle **longer
 | **برتن** | bartan | utensil |
 | **چمچ** | chamach | spoon |
 | **پلیٹ** | plate | plate |
+
 
 </div>
 
@@ -120,6 +125,7 @@ Excellent! You can now read simple 2 and 3-letter words. Time to tackle **longer
 | **ہفتہ** | hafta | Saturday |
 | **اتوار** | itwaar | Sunday |
 
+
 </div>
 
 ---
@@ -142,6 +148,7 @@ Excellent! You can now read simple 2 and 3-letter words. Time to tackle **longer
 | **برف** | barf | snow |
 | **دھوپ** | dhoop | sunshine |
 | **سایہ** | saaya | shade/shadow |
+
 
 </div>
 
@@ -166,6 +173,7 @@ Excellent! You can now read simple 2 and 3-letter words. Time to tackle **longer
 | **جوس** | juice | juice |
 | **کھانا** | khaana | food |
 
+
 </div>
 
 ---
@@ -188,6 +196,7 @@ Excellent! You can now read simple 2 and 3-letter words. Time to tackle **longer
 | **ٹوپی** | topi | cap/hat |
 | **دوپٹہ** | dupatta | scarf |
 | **چادر** | chaadar | sheet |
+
 
 </div>
 
@@ -214,6 +223,7 @@ Excellent! You can now read simple 2 and 3-letter words. Time to tackle **longer
 | **بیس** | bees | twenty |
 | **سو** | sau | hundred |
 
+
 </div>
 
 ---
@@ -222,7 +232,7 @@ Excellent! You can now read simple 2 and 3-letter words. Time to tackle **longer
 
 <div dir="ltr">
 
-### Exercise 1 Break It DownBreak these words into individual letters
+### Exercise 1 Break It Down Break these words into individual letters
 
 </div>
 
@@ -233,7 +243,7 @@ Excellent! You can now read simple 2 and 3-letter words. Time to tackle **longer
 3. **مہینہ** = م + ہ + ی + ن + ہ
 4. **استاد** = ا + س + ت + ا + د
 
-### Exercise 2: Match the CategoriesWhich category do these words belong to?
+### Exercise 2: Match the Categories Which category do these words belong to?
 
 </div>
 
@@ -282,7 +292,9 @@ Use these words to make sentences
 
 <div dir="ltr">
 
-## 🎯 Speed Reading Practice### Set 1 Places (1 minute)
+## 🎯 Speed Reading Practice
+
+### Set 1 Places (1 minute)
 
 </div>
 **گھر، مکان، سکول، مسجد، ہسپتال، دکان، بازار، باغ، پارک**
@@ -301,7 +313,9 @@ Use these words to make sentences
 
 <div dir="ltr">
 
-### Day 1 Family + Places- Learn Groups 1 & 2 (20 words)
+### Day 1 Family + Places
+
+- Learn Groups 1 & 2 (20 words)
 
 </div>
 - Write each word 3 times
@@ -309,7 +323,9 @@ Use these words to make sentences
 
 <div dir="ltr">
 
-### Day 2 Objects + Time- Learn Groups 3 & 4 (25 words)
+### Day 2 Objects + Time
+
+- Learn Groups 3 & 4 (25 words)
 
 </div>
 - Write each word 3 times
@@ -317,7 +333,9 @@ Use these words to make sentences
 
 <div dir="ltr">
 
-### Day 3 Weather + Food- Learn Groups 5 & 6 (20 words)
+### Day 3 Weather + Food
+
+- Learn Groups 5 & 6 (20 words)
 
 </div>
 - Write each word 3 times
@@ -325,7 +343,9 @@ Use these words to make sentences
 
 <div dir="ltr">
 
-### Day 4 Clothing + Numbers- Learn Groups 7 & 8 (20 words)
+### Day 4 Clothing + Numbers
+
+- Learn Groups 7 & 8 (20 words)
 
 </div>
 - Review all 85 words
@@ -333,7 +353,9 @@ Use these words to make sentences
 
 <div dir="ltr">
 
-### Day 5 Master Practice- Read all vocabulary (Sets 1-3)
+### Day 5 Master Practice
+
+- Read all vocabulary (Sets 1-3)
 
 </div>
 - Write 20 words from memory
@@ -358,7 +380,7 @@ By the end of this chapter, you should be able to
 
 <div dir="ltr">
 
-## 🎉 Fantastic WorkYou've built a strong vocabulary Over 100 words total now
+## 🎉 Fantastic Work You've built a strong vocabulary Over 100 words total now
 
 </div>
 

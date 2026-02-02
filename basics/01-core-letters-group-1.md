@@ -1,13 +1,17 @@
 <div dir="ltr">
 
-# Chapter 1Core Letters Group 1
+# Chapter 1 Core Letters Group 1
 
 </div>
-## باب ۱: بنیادی حروف - گروپ ۱
+## باب ۱: بنیادی حروف
+
+- گروپ ۱
 
 ### 📚 Welcome to Your First Chapter!
 
-In this chapter, you will learn the **10 most common Urdu letters**.<div dir="ltr">
+In this chapter, you will learn the **10 most common Urdu letters**.
+
+<div dir="ltr">
 
 These letters appear in almost every Urdu word, so mastering them is essential
 
@@ -33,6 +37,7 @@ These letters appear in almost every Urdu word, so mastering them is essential
 | **ل** | لام (Laam) | "l" as in "lamp" | **لڑکا** (larka) = boy |
 | **م** | میم (Meem) | "m" as in "moon" | **ماں** (maa) = mother |
 
+
 ---
 
 ## 📊 Letter Recognition Table
@@ -49,6 +54,7 @@ These letters appear in almost every Urdu word, so mastering them is essential
 | **ک** | کاف | k | کتاب | book |
 | **ل** | لام | l | لڑکا | boy |
 | **م** | میم | m | ماں | mother |
+
 
 ---
 
@@ -130,20 +136,30 @@ These letters appear in almost every Urdu word, so mastering them is essential
 ## 📝 Daily Practice Schedule
 
 ### Day 1:
--<div dir="ltr">
+-
+
+<div dir="ltr">
 
 Learn letters
 
-</div> ا، ب، پ، ت، د
+
+</div>
+
+ ا، ب، پ، ت، د
 - Practice writing each 10 times
 - Say sounds aloud 5 times
 
 ### Day 2:
--<div dir="ltr">
+-
+
+<div dir="ltr">
 
 Learn letters
 
-</div> ر، س، ک، ل، م
+
+</div>
+
+ ر، س، ک، ل، م
 - Practice writing each 10 times
 - Review Day 1 letters
 
@@ -155,7 +171,9 @@ Learn letters
 ### Day 4:
 - Speed recognition drill
 - Practice all exercises
--<div dir="ltr">
+-
+
+<div dir="ltr">
 
 Prepare for Chapter 2
 
@@ -163,7 +181,9 @@ Prepare for Chapter 2
 
 ---
 
-## 🎓 Learning Outcomes<div dir="ltr">
+## 🎓 Learning Outcomes
+
+<div dir="ltr">
 
 By the end of this chapter, you will be able to
 
@@ -179,7 +199,9 @@ By the end of this chapter, you will be able to
 
 ## ➡️ Next Chapter Preview
 
-In **Chapter 2**,<div dir="ltr">
+In **Chapter 2**,
+
+<div dir="ltr">
 
 you will learn
 
@@ -194,11 +216,16 @@ you will learn
 ## 🌟 Remember:
 
 **"ہر ماہر بھی پہلے ابتدائی تھا"**  
-*"Every expert was once a beginner!"*<div dir="ltr">
+*"Every expert was once a beginner!"*
+
+<div dir="ltr">
 
 Take your time, practice daily, and celebrate your progress
 
-</div> 🎉
+
+</div>
+
+ 🎉
 
 ---
 

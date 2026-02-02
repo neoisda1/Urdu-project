@@ -1,6 +1,6 @@
 <div dir="ltr">
 
-# Chapter 9Simple Sentences  
+# Chapter 9 Simple Sentences  
 
 </div>
 ## باب ۹: آسان جملے
@@ -17,7 +17,9 @@ Congratulations on reaching the final phase! Now it's time to put everything tog
 
 <div dir="ltr">
 
-## 🎯 Urdu Sentence Structure### Basic Word Order **Subject + Object + Verb**
+## 🎯 Urdu Sentence Structure
+
+### Basic Word Order **Subject + Object + Verb**
 
 </div>
 
@@ -36,7 +38,9 @@ This is DIFFERENT from English
 
 <div dir="ltr">
 
-## 📖 Pattern 1 Simple Present Tense### Format Subject + Verb (present form)
+## 📖 Pattern 1 Simple Present Tense
+
+### Format Subject + Verb (present form)
 
 </div>
 
@@ -50,13 +54,16 @@ This is DIFFERENT from English
 | **ہم پڑھتے ہیں۔** | We read. |
 | **وہ سوتے ہیں۔** | They sleep. |
 
+
 </div>
 
 ---
 
 <div dir="ltr">
 
-## 📖 Pattern 2 "To Be" Sentences (ہے / ہیں)### Format Subject + Adjective/Noun + ہے/ہیں
+## 📖 Pattern 2 "To Be" Sentences (ہے / ہیں)
+
+### Format Subject + Adjective/Noun + ہے/ہیں
 
 </div>
 
@@ -70,6 +77,7 @@ This is DIFFERENT from English
 | **ماں پیاری ہے۔** | Mother is lovely. |
 | **آسمان نیلا ہے۔** | The sky is blue. |
 
+
 </div>
 
 **Rule:** 
@@ -80,7 +88,9 @@ This is DIFFERENT from English
 
 <div dir="ltr">
 
-## 📖 Pattern 3 Negative Sentences (نہیں)### Format Subject + Object + **نہیں** + Verb
+## 📖 Pattern 3 Negative Sentences (نہیں)
+
+### Format Subject + Object + **نہیں** + Verb
 
 </div>
 
@@ -95,6 +105,7 @@ This is DIFFERENT from English
 | **بچے کھیلتے ہیں۔** | **بچے نہیں کھیلتے۔** |
 | (Children play) | (Children don't play) |
 
+
 </div>
 
 **Tip:** Just add **نہیں** (nahin) before the verb!
@@ -103,7 +114,9 @@ This is DIFFERENT from English
 
 <div dir="ltr">
 
-## 📖 Pattern 4 Question Sentences### Method 1 Add **کیا** at the beginning
+## 📖 Pattern 4 Question Sentences
+
+### Method 1 Add **کیا** at the beginning
 
 </div>
 
@@ -115,6 +128,7 @@ This is DIFFERENT from English
 | (You go) | (Do you go?) |
 | **وہ اچھا ہے۔** | **کیا وہ اچھا ہے؟** |
 | (He is good) | (Is he good?) |
+
 
 ### Method 2: Use Question Words<div class="practice-box">
 
@@ -129,11 +143,14 @@ This is DIFFERENT from English
 | Why | **کیوں** | **تم کیوں روتے ہو؟** (Why do you cry?) |
 | How | **کیسے** | **یہ کیسے ہوا؟** (How did this happen?) |
 
+
 ---
 
 <div dir="ltr">
 
-## 📖 Common Sentence Patterns### Pattern 1 Daily Actions
+## 📖 Common Sentence Patterns
+
+### Pattern 1 Daily Actions
 
 </div>
 
@@ -269,6 +286,7 @@ This is DIFFERENT from English
 | **جب** | when |
 | **پھر** | then/after |
 
+
 ### Using Connecting Words:1. **میں کھانا کھاتا ہوں اور پانی پیتا ہوں۔**  
 
 </div>
@@ -286,7 +304,9 @@ This is DIFFERENT from English
 
 <div dir="ltr">
 
-### Day 1 Basic Sentences- Learn S-O-V structure
+### Day 1 Basic Sentences
+
+- Learn S-O-V structure
 
 </div>
 - Practice Pattern 1 (Simple Present)
@@ -295,7 +315,9 @@ This is DIFFERENT from English
 
 <div dir="ltr">
 
-### Day 2 "To Be" & Negatives- Practice Pattern 2 (ہے/ہیں)
+### Day 2 "To Be" & Negatives
+
+- Practice Pattern 2 (ہے/ہیں)
 
 </div>
 - Learn negative formation
@@ -303,7 +325,9 @@ This is DIFFERENT from English
 
 <div dir="ltr">
 
-### Day 3 Questions- Learn question formation (کیا)
+### Day 3 Questions
+
+- Learn question formation (کیا)
 
 </div>
 - Practice question words
@@ -311,7 +335,9 @@ This is DIFFERENT from English
 
 <div dir="ltr">
 
-### Day 4 Complex Sentences- Learn connecting words
+### Day 4 Complex Sentences
+
+- Learn connecting words
 
 </div>
 - Combine simple sentences
@@ -319,7 +345,9 @@ This is DIFFERENT from English
 
 <div dir="ltr">
 
-### Day 5 Master Practice- Write 20 sentences about your day
+### Day 5 Master Practice
+
+- Write 20 sentences about your day
 
 </div>
 - Translate 10 English sentences to Urdu
@@ -346,7 +374,7 @@ By the end of this chapter, you should be able to
 
 <div dir="ltr">
 
-## 🎉 Excellent ProgressYou can now make complete Urdu sentences
+## 🎉 Excellent Progress You can now make complete Urdu sentences
 
 </div>
 

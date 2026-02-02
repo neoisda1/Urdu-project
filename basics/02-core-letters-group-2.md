@@ -1,9 +1,11 @@
 <div dir="ltr">
 
-# Chapter 2Core Letters Group 2  
+# Chapter 2 Core Letters Group 2  
 
 </div>
-## باب ۲: بنیادی حروف - گروپ ۲
+## باب ۲: بنیادی حروف
+
+- گروپ ۲
 
 ### 📚 Welcome to Chapter 2!
 
@@ -30,6 +32,7 @@ Great job completing Chapter 1! You now know 10 essential Urdu letters. In this 
 | **ف** | فے (Fay) | "f" as in "fish" | **فل** (phool) = flower |
 | **ق** | قاف (Qaaf) | "q" (deep throat "k") | **قلم** (qalam) = pen |
 
+
 ---
 
 ## 📊 Letter Recognition Table
@@ -46,6 +49,7 @@ Great job completing Chapter 1! You now know 10 essential Urdu letters. In this 
 | **ش** | شین | sh | شیر | lion |
 | **ف** | فے | f | فول | flower |
 | **ق** | قاف | q | قلم | pen |
+
 
 ---
 

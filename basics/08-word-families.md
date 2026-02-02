@@ -1,6 +1,6 @@
 <div dir="ltr">
 
-# Chapter 8Word Families & Patterns  
+# Chapter 8 Word Families & Patterns  
 
 </div>
 ## باب ۸: الفاظ کے خاندان اور نمونے
@@ -17,7 +17,9 @@ Smart learners recognize PATTERNS! In this chapter, you'll learn how Urdu words 
 
 <div dir="ltr">
 
-## 🎯 What Are Word Families?Words that share the same **root letters** form a family. Once you know the root, you can guess related words
+## 🎯 What Are Word Families?
+
+Words that share the same **root letters** form a family. Once you know the root, you can guess related words
 
 </div>
 
@@ -35,25 +37,39 @@ From this root
 
 <div dir="ltr">
 
-## 📖 Pattern 1 Three-Letter Roots (فعل - fa'al)Most Urdu words come from **3-letter roots**. The pattern shows how to arrange them
+## 📖 Pattern 1 Three-Letter Roots (فعل
 
-### Root س - ن - ن (s-n-n) = "to hear"| Pattern | Word | Meaning |
+- fa'al)Most Urdu words come from **3-letter roots**. The pattern shows how to arrange them
 
-</div>
+### Root س
+
+- ن - ن (s-n-n) = "to hear"
+
+| Pattern | Word | Meaning |
 |---------|------|---------|
 | Basic | **سننا** (sunna) | to hear |
 | Agent | **سامع** (saami) | listener |
 | Noun | **سماعت** (samaat) | hearing |
 
+</div>
+
+
+
 <div dir="ltr">
 
-### Root پ - ڑ - ھ (p-r-h) = "to read"| Pattern | Word | Meaning |
+### Root پ
 
-</div>
+- ڑ - ھ (p-r-h) = "to read"
+
+| Pattern | Word | Meaning |
 |---------|------|---------|
 | Basic | **پڑھنا** (parhna) | to read |
 | Agent | **پڑھنے والا** (parhne wala) | reader |
 | Noun | **پڑھائی** (parhaai) | studies/reading |
+
+</div>
+
+
 
 ---
 
@@ -78,6 +94,7 @@ From this root
 | **لکھنا** | لکھ | to write |
 | **پڑھنا** | پڑھ | to read |
 
+
 </div>
 
 **Pattern:** Root + نا = Infinitive (to do something)
@@ -86,7 +103,7 @@ From this root
 
 <div dir="ltr">
 
-## 📖 Pattern 3 Agent/Doer ـنے والا PatternTo say "the person who does X", add **نے والا** (ne wala)
+## 📖 Pattern 3 Agent/Doer ـنے والا Pattern To say "the person who does X", add **نے والا** (ne wala)
 
 </div>
 
@@ -100,13 +117,14 @@ From this root
 | **گانا** | **گانے والا** | singer |
 | **دیکھنا** | **دیکھنے والا** | viewer |
 
+
 </div>
 
 ---
 
 <div dir="ltr">
 
-## 📖 Pattern 4 Place Names ـستان PatternTo name a place/land, add **ستان** (staan)
+## 📖 Pattern 4 Place Names ـستان Pattern To name a place/land, add **ستان** (staan)
 
 </div>
 
@@ -119,13 +137,16 @@ From this root
 | **ہند** | **ہندوستان** | Land of Hind |
 | **عرب** | **عربستان** | Land of Arabs |
 
+
 </div>
 
 ---
 
 <div dir="ltr">
 
-## 📖 Pattern 5 Plural Forms### Method 1 Add **ں** (noon ghunna)
+## 📖 Pattern 5 Plural Forms
+
+### Method 1 Add **ں** (noon ghunna)
 
 </div>
 
@@ -138,6 +159,7 @@ From this root
 | **کتاب** | **کتابوں** | books |
 | **آم** | **آموں** | mangoes |
 
+
 ### Method 2: Add **یں** or **ئیں**<div class="practice-box">
 
 </div>
@@ -149,6 +171,7 @@ From this root
 | **رات** | **راتیں** | nights |
 | **کتاب** | **کتابیں** | books |
 
+
 ### Method 3: Completely Different (Irregular)<div class="practice-box">
 
 </div>
@@ -159,13 +182,16 @@ From this root
 | **عورت** | **عورتیں** | women |
 | **بچہ** | **بچے** | children |
 
+
 </div>
 
 ---
 
 <div dir="ltr">
 
-## 📖 Pattern 6 Adjective Endings### ـی Ending (Creates Adjectives)
+## 📖 Pattern 6 Adjective Endings
+
+### ـی Ending (Creates Adjectives)
 
 </div>
 
@@ -178,6 +204,7 @@ From this root
 | **ہند** | **ہندی** | Hindi |
 | **انگریز** | **انگریزی** | English |
 | **پانی** | **پانی دار** | watery |
+
 
 </div>
 
@@ -202,6 +229,7 @@ From this root
 | **اوپر** (up) | **نیچے** (down) | Direction |
 | **اندر** (inside) | **باہر** (outside) | Position |
 
+
 </div>
 
 ---
@@ -223,6 +251,7 @@ From this root
 | **سر** | **درد** | **سردرد** | headache |
 | **پیٹ** | **درد** | **پیٹ درد** | stomach ache |
 
+
 </div>
 
 ---
@@ -231,7 +260,7 @@ From this root
 
 <div dir="ltr">
 
-### Exercise 1 Identify the RootFind the 3-letter root in these words
+### Exercise 1 Identify the Root Find the 3-letter root in these words
 
 </div>
 
@@ -242,7 +271,7 @@ From this root
 3. **کھانا** → Root: ک - ھ - ا (eat)
 4. **سننا** → Root: س - ن - ن (hear)
 
-### Exercise 2: Make PluralsConvert these to plural form:
+### Exercise 2: Make Plurals Convert these to plural form:
 
 </div>
 
@@ -253,7 +282,7 @@ From this root
 3. **کتاب** → **کتابیں**
 4. **آم** → **آموں**
 
-### Exercise 3: Find OppositesMatch the opposites:
+### Exercise 3: Find Opposites Match the opposites:
 
 </div>
 
@@ -267,7 +296,8 @@ From this root
 | **نیا** | **پرانا** |
 | **اوپر** | **نیچے** |
 
-### Exercise 4: Build Agent WordsAdd "نے والا" to make "doer" words:
+
+### Exercise 4: Build Agent Words Add "نے والا" to make "doer" words:
 
 </div>
 
@@ -285,7 +315,9 @@ From this root
 
 <div dir="ltr">
 
-### Day 1 Roots & Verbs- Study 3-letter roots concept
+### Day 1 Roots & Verbs
+
+- Study 3-letter roots concept
 
 </div>
 - Learn ـنا ending pattern
@@ -294,7 +326,9 @@ From this root
 
 <div dir="ltr">
 
-### Day 2 Plurals & Agents- Learn plural formation (3 methods)
+### Day 2 Plurals & Agents
+
+- Learn plural formation (3 methods)
 
 </div>
 - Study agent pattern (ـنے والا)
@@ -302,7 +336,9 @@ From this root
 
 <div dir="ltr">
 
-### Day 3 Adjectives & Opposites- Learn adjective endings
+### Day 3 Adjectives & Opposites
+
+- Learn adjective endings
 
 </div>
 - Memorize 20 opposite pairs
@@ -310,7 +346,9 @@ From this root
 
 <div dir="ltr">
 
-### Day 4 Compounds & Review- Learn compound words
+### Day 4 Compounds & Review
+
+- Learn compound words
 
 </div>
 - Review all patterns
@@ -337,7 +375,7 @@ By the end of this chapter, you should be able to
 
 <div dir="ltr">
 
-## 🎉 Phase 2 CompleteCongratulations You've finished **PHASE 2 WORD BUILDING**
+## 🎉 Phase 2 Complete Congratulations You've finished **PHASE 2 WORD BUILDING**
 
 You now have
 

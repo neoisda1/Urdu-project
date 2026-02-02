@@ -1,6 +1,6 @@
 <div dir="ltr">
 
-# Chapter 4Letter Joining Rules
+# Chapter 4 Letter Joining Rules
 
 </div>
 ## باب ۴: حروف جوڑنے کے اصول
@@ -34,18 +34,24 @@ In Urdu, most letters connect to each other when forming words. Each letter can 
 
 <div dir="ltr">
 
-## 📖 Examples Letter ب (Bay)| Form | Urdu | Name | Used When |
+## 📖 Examples Letter ب (Bay)
 
-</div>
+| Form | Urdu | Name | Used When |
 |------|------|------|-----------|
 | **Isolated** | ب | alone | By itself |
 | **Initial** | بــ | start | Beginning of word |
 | **Medial** | ــبــ | middle | Middle of word |
 | **Final** | ــب | end | End of word |
 
+</div>
+
+
+
 <div dir="ltr">
 
-### Real Word Examples- **بَت** = ب (initial) + ت (final) = bat (idol)
+### Real Word Examples
+
+- **بَت** = ب (initial) + ت (final) = bat (idol)
 
 </div>
 - **سبز** = س (initial) + ب (medial) + ز (final) = sabz (green)
@@ -69,7 +75,9 @@ These letters only have **2 forms** isolated and final
 
 </div>
 
-### Example with **د** (Daal):- **Isolated:** د
+### Example with **د** (Daal):
+
+- **Isolated:** د
 
 </div>
 - **Final:** ـد
@@ -81,9 +89,9 @@ These letters only have **2 forms** isolated and final
 
 <div dir="ltr">
 
-### Group 1 Basic Connectors (ب family)| Letter | Isolated | Initial | Medial | Final |
+### Group 1 Basic Connectors (ب family)
 
-</div>
+| Letter | Isolated | Initial | Medial | Final |
 |--------|----------|---------|--------|-------|
 | **ب** | ب | بــ | ــبــ | ــب |
 | **پ** | پ | پــ | ــپــ | ــپ |
@@ -93,42 +101,58 @@ These letters only have **2 forms** isolated and final
 | **ن** | ن | نــ | ــنــ | ــن |
 | **ی** | ی | یــ | ــیــ | ــی |
 
+</div>
+
+
+
 <div dir="ltr">
 
-### Group 2 س family| Letter | Isolated | Initial | Medial | Final |
+### Group 2 س family
 
-</div>
+| Letter | Isolated | Initial | Medial | Final |
 |--------|----------|---------|--------|-------|
 | **س** | س | ســ | ــســ | ــس |
 | **ش** | ش | شــ | ــشــ | ــش |
 | **ص** | ص | صــ | ــصــ | ــص |
 | **ض** | ض | ضــ | ــضــ | ــض |
 
+</div>
+
+
+
 <div dir="ltr">
 
-### Group 3 ج family| Letter | Isolated | Initial | Medial | Final |
+### Group 3 ج family
 
-</div>
+| Letter | Isolated | Initial | Medial | Final |
 |--------|----------|---------|--------|-------|
 | **ج** | ج | جــ | ــجــ | ــج |
 | **چ** | چ | چــ | ــچــ | ــچ |
 | **ح** | ح | حــ | ــحــ | ــح |
 | **خ** | خ | خــ | ــخــ | ــخ |
 
+</div>
+
+
+
 <div dir="ltr">
 
-### Group 4 ع family| Letter | Isolated | Initial | Medial | Final |
+### Group 4 ع family
 
-</div>
+| Letter | Isolated | Initial | Medial | Final |
 |--------|----------|---------|--------|-------|
 | **ع** | ع | عــ | ــعــ | ــع |
 | **غ** | غ | غــ | ــغــ | ــغ |
 
+</div>
+
+
+
 <div dir="ltr">
 
-### Group 5 ف، ق، ک، گ، ل، م، ہ| Letter | Isolated | Initial | Medial | Final |
+### Group 5 ف، ق، ک، گ، ل، م، ہ
 
-</div>
+| Letter | Isolated | Initial | Medial | Final |
 |--------|----------|---------|--------|-------|
 | **ف** | ف | فــ | ــفــ | ــف |
 | **ق** | ق | قــ | ــقــ | ــق |
@@ -138,11 +162,17 @@ These letters only have **2 forms** isolated and final
 | **م** | م | مــ | ــمــ | ــم |
 | **ہ** | ہ | ہــ | ــہــ | ــہ |
 
+</div>
+
+
+
 ---
 
 <div dir="ltr">
 
-## 💪 Practice Building Words### Exercise 1 Two-Letter Words
+## 💪 Practice Building Words
+
+### Exercise 1 Two-Letter Words
 
 </div>
 
@@ -164,7 +194,7 @@ These letters only have **2 forms** isolated and final
 3. **پ + ا + ن** = **پان** (betel leaf)
 4. **گ + ل** = **گل** (flower)
 
-### Exercise 3: Identify FormsLook at these words and identify which form each letter uses:
+### Exercise 3: Identify Forms Look at these words and identify which form each letter uses:
 
 </div>
 
@@ -206,7 +236,9 @@ These letters only have **2 forms** isolated and final
 
 <div dir="ltr">
 
-### Pattern 1 بــ ـ ـ (B family start)- **بچہ** (bacha) = child
+### Pattern 1 بــ ـ ـ (B family start)
+
+- **بچہ** (bacha) = child
 
 </div>
 - **بہن** (behan) = sister
@@ -214,7 +246,9 @@ These letters only have **2 forms** isolated and final
 
 <div dir="ltr">
 
-### Pattern 2 ســ ـ ـ (S family start)- **سات** (saat) = seven
+### Pattern 2 ســ ـ ـ (S family start)
+
+- **سات** (saat) = seven
 
 </div>
 - **سونا** (sona) = to sleep/gold
@@ -222,7 +256,9 @@ These letters only have **2 forms** isolated and final
 
 <div dir="ltr">
 
-### Pattern 3 کــ ـ ـ (K family start)- **کام** (kaam) = work
+### Pattern 3 کــ ـ ـ (K family start)
+
+- **کام** (kaam) = work
 
 </div>
 - **کھانا** (khana) = food
@@ -234,7 +270,9 @@ These letters only have **2 forms** isolated and final
 
 <div dir="ltr">
 
-### Day 1 Forms Study- Learn the 4 forms concept
+### Day 1 Forms Study
+
+- Learn the 4 forms concept
 
 </div>
 - Study connecting vs non-connecting letters
@@ -243,7 +281,9 @@ These letters only have **2 forms** isolated and final
 
 <div dir="ltr">
 
-### Day 2 Letter Family Practice- Study all letter family tables
+### Day 2 Letter Family Practice
+
+- Study all letter family tables
 
 </div>
 - Write each letter in all 4 forms
@@ -251,7 +291,9 @@ These letters only have **2 forms** isolated and final
 
 <div dir="ltr">
 
-### Day 3 Word Building- Build 2-letter words
+### Day 3 Word Building
+
+- Build 2-letter words
 
 </div>
 - Build 3-letter words
@@ -260,7 +302,9 @@ These letters only have **2 forms** isolated and final
 
 <div dir="ltr">
 
-### Day 4 Master Practice- Read all word patterns
+### Day 4 Master Practice
+
+- Read all word patterns
 
 </div>
 - Write 10 words showing different forms
@@ -286,7 +330,7 @@ By the end of this chapter, you should be able to
 
 <div dir="ltr">
 
-## 🎉 Phase 1 CompleteCongratulations You've finished **PHASE 1 LETTERS**
+## 🎉 Phase 1 Complete Congratulations You've finished **PHASE 1 LETTERS**
 
 You now know
 

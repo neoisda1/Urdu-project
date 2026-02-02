@@ -1,6 +1,6 @@
 <div dir="ltr">
 
-# Chapter 11Reading Comprehension  
+# Chapter 11 Reading Comprehension  
 
 </div>
 ## باب ۱۱: سمجھ کر پڑھنا
@@ -17,7 +17,11 @@ You've learned letters, words, and sentences. Now let's put it all together and 
 
 <div dir="ltr">
 
-## 🎯 Reading Strategy###<div dir="ltr">
+## 🎯 Reading Strategy
+
+### 
+
+<div dir="ltr">
 
 The 3-Step Method
 
@@ -202,7 +206,9 @@ The 3-Step Method
 
 <div dir="ltr">
 
-### Exercise 1 Main Idea (مرکزی خیال)<div dir="ltr">
+### Exercise 1 Main Idea (مرکزی خیال)
+
+<div dir="ltr">
 
 What is each passage mainly about?
 
@@ -212,30 +218,57 @@ What is each passage mainly about?
 
 <div class="practice-box">
 
-1.<div dir="ltr">
+1.
+
+<div dir="ltr">
 
 Passage 1
 
-</div> **خاندان کے بارے میں** (About family)
-2.<div dir="ltr">
+
+</div>
+
+ **خاندان کے بارے میں** (About family)
+2.
+
+<div dir="ltr">
 
 Passage 2
 
-</div> **روز مرہ کے کام** (Daily routine)
-3.<div dir="ltr">
+
+</div>
+
+ **روز مرہ کے کام** (Daily routine)
+3.
+
+<div dir="ltr">
 
 Passage 3
 
-</div> **چار موسم** (Four seasons)
-4.<div dir="ltr">
+
+</div>
+
+ **چار موسم** (Four seasons)
+4.
+
+<div dir="ltr">
 
 Passage 4
 
-</div> **شیر اور چوہے کی دوستی** (Lion and mouse friendship)
+
+</div>
+
+ **شیر اور چوہے کی دوستی** (Lion and mouse friendship)
 
 ### Exercise 2: True or False<div class="practice-box">
 
-</div><div dir="ltr">
+
+</div>
+
+
+
+
+
+<div dir="ltr">
 
 Based on Passage 1
 
@@ -244,7 +277,9 @@ Based on Passage 1
 2. احمد کے دو بھائی ہیں۔ **False** (ایک بھائی)
 3. فاطمہ سکول میں پڑھتی ہے۔ **False** (یونیورسٹی میں)
 
-### Exercise 3: Sequence (ترتیب)<div dir="ltr">
+### Exercise 3: Sequence (ترتیب)
+
+<div dir="ltr">
 
 Put these events from Passage 2 in order
 
@@ -287,6 +322,7 @@ Put these events from Passage 2 in order
 | **جال** | net |
 | **مدد** | help |
 
+
 </div>
 
 ---
@@ -326,7 +362,9 @@ Put these events from Passage 2 in order
 
 ---
 
-## ✅ Learning Outcomes<div dir="ltr">
+## ✅ Learning Outcomes
+
+<div dir="ltr">
 
 By the end of this chapter, you should be able to
 
@@ -338,7 +376,9 @@ By the end of this chapter, you should be able to
 - ✅ Learn new words from context
 - ✅ Summarize what you read
 - ✅ Discuss stories and passages
-- ✅<div dir="ltr">
+- ✅
+
+<div dir="ltr">
 
 Read for enjoyment
 
@@ -348,7 +388,9 @@ Read for enjoyment
 
 <div dir="ltr">
 
-## 🎉 Outstanding Achievement<div dir="ltr">
+## 🎉 Outstanding Achievement
+
+<div dir="ltr">
 
 You can now read and understand real Urdu text
 
@@ -356,7 +398,9 @@ You can now read and understand real Urdu text
 
 </div>
 
-**Next:** <div dir="ltr">
+**Next:** 
+
+<div dir="ltr">
 
 Chapter 12 - Final chapter with advanced reading and complete mastery
 
