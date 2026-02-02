@@ -1,6 +1,6 @@
 <div dir="ltr">
 
-# Chapter 9:Simple Sentences  
+# Chapter 9Simple Sentences  
 
 </div>
 ## باب ۹: آسان جملے
@@ -17,7 +17,7 @@
 
 <div dir="ltr">
 
-## 🎯 Urdu Sentence Structure### <span dir="ltr">Basic Word Order: **Subject + Object + Verb**</span>
+## 🎯 Urdu Sentence Structure### <span dir="ltr">Basic Word Order **Subject + Object + Verb**</span>
 
 </div>
 
@@ -26,7 +26,7 @@
 - **میں پانی پیتا ہوں۔** <span dir="ltr">(I drink water)</span>
 <div dir="ltr">
 
-This is DIFFERENT from English:
+This is DIFFERENT from English
 
 </div>
 - <span dir="ltr">English: I + drink + water (S-V-O)</span>
@@ -36,7 +36,7 @@ This is DIFFERENT from English:
 
 <div dir="ltr">
 
-## 📖 Pattern 1: Simple Present Tense### <span dir="ltr">Format: Subject + Verb (present form)</span>
+## 📖 Pattern 1 Simple Present Tense### <span dir="ltr">Format Subject + Verb (present form)</span>
 
 </div>
 
@@ -56,7 +56,7 @@ This is DIFFERENT from English:
 
 <div dir="ltr">
 
-## 📖 Pattern 2: "To Be" Sentences (ہے / ہیں)### <span dir="ltr">Format: Subject + Adjective/Noun + ہے/ہیں</span>
+## 📖 Pattern 2 "To Be" Sentences (ہے / ہیں)### <span dir="ltr">Format Subject + Adjective/Noun + ہے/ہیں</span>
 
 </div>
 
@@ -80,7 +80,7 @@ This is DIFFERENT from English:
 
 <div dir="ltr">
 
-## 📖 Pattern 3: Negative Sentences (نہیں)### <span dir="ltr">Format: Subject + Object + **نہیں** + Verb</span>
+## 📖 Pattern 3 Negative Sentences (نہیں)### <span dir="ltr">Format Subject + Object + **نہیں** + Verb</span>
 
 </div>
 
@@ -103,7 +103,7 @@ This is DIFFERENT from English:
 
 <div dir="ltr">
 
-## 📖 Pattern 4: Question Sentences### <span dir="ltr">Method 1: Add **کیا** at the beginning</span>
+## 📖 Pattern 4 Question Sentences### <span dir="ltr">Method 1 Add **کیا** at the beginning</span>
 
 </div>
 
@@ -133,7 +133,7 @@ This is DIFFERENT from English:
 
 <div dir="ltr">
 
-## 📖 Common Sentence Patterns### <span dir="ltr">Pattern 1: Daily Actions</span>
+## 📖 Common Sentence Patterns### <span dir="ltr">Pattern 1 Daily Actions</span>
 
 </div>
 
@@ -200,7 +200,7 @@ This is DIFFERENT from English:
 
 <div dir="ltr">
 
-### Exercise 1: Translate to Urdu<div class="practice-box">
+### Exercise 1 Translate to Urdu<div class="practice-box">
 
 </div>
 
@@ -254,7 +254,7 @@ This is DIFFERENT from English:
 
 <div dir="ltr">
 
-## 📚 Vocabulary: Connecting Words<div class="practice-box">
+## 📚 Vocabulary Connecting Words<div class="practice-box">
 
 </div>
 
@@ -286,7 +286,7 @@ This is DIFFERENT from English:
 
 <div dir="ltr">
 
-### Day 1: Basic Sentences- Learn S-O-V structure
+### Day 1 Basic Sentences- Learn S-O-V structure
 
 </div>
 - Practice Pattern 1 (Simple Present)
@@ -295,7 +295,7 @@ This is DIFFERENT from English:
 
 <div dir="ltr">
 
-### Day 2: "To Be" & Negatives- Practice Pattern 2 (ہے/ہیں)
+### Day 2 "To Be" & Negatives- Practice Pattern 2 (ہے/ہیں)
 
 </div>
 - Learn negative formation
@@ -303,7 +303,7 @@ This is DIFFERENT from English:
 
 <div dir="ltr">
 
-### Day 3: Questions- Learn question formation (کیا)
+### Day 3 Questions- Learn question formation (کیا)
 
 </div>
 - Practice question words
@@ -311,7 +311,7 @@ This is DIFFERENT from English:
 
 <div dir="ltr">
 
-### Day 4: Complex Sentences- Learn connecting words
+### Day 4 Complex Sentences- Learn connecting words
 
 </div>
 - Combine simple sentences
@@ -319,7 +319,7 @@ This is DIFFERENT from English:
 
 <div dir="ltr">
 
-### Day 5: Master Practice- Write 20 sentences about your day
+### Day 5 Master Practice- Write 20 sentences about your day
 
 </div>
 - Translate 10 English sentences to Urdu
@@ -331,7 +331,7 @@ This is DIFFERENT from English:
 ## ✅ Learning Outcomes
 <div dir="ltr">
 
-By the end of this chapter, you should be able to:
+By the end of this chapter, you should be able to
 
 </div>
 - ✅ Understand Urdu sentence structure (S-O-V)
@@ -346,7 +346,7 @@ By the end of this chapter, you should be able to:
 
 <div dir="ltr">
 
-## 🎉 Excellent Progress!<span dir="ltr">You can now make complete Urdu sentences!</span>
+## 🎉 Excellent Progress<span dir="ltr">You can now make complete Urdu sentences</span>
 
 </div>
 

@@ -1,6 +1,6 @@
 <div dir="ltr">
 
-# Chapter 12: Final Mastery & Practice
+# Chapter 12 Final Mastery & Practice
 
 </div>
 
@@ -8,9 +8,9 @@
 
 <div dir="ltr">
 
-### 🎓 Congratulations! You've Reached the Final Chapter!
+### 🎓 Congratulations You've Reached the Final Chapter
 
-This is your graduation chapter! Let's review everything and achieve **complete mastery** of basic Urdu reading!
+This is your graduation chapter Let's review everything and achieve **complete mastery** of basic Urdu reading
 
 </div>
 
@@ -24,7 +24,7 @@ This is your graduation chapter! Let's review everything and achieve **complete 
 
 ## 🎯 What You've Learned (12 Chapters Summary)
 
-### Phase 1: Letters (باب ۱-۴)
+### Phase 1 Letters (باب ۱-۴)
 
 </div>
 
@@ -35,7 +35,7 @@ This is your graduation chapter! Let's review everything and achieve **complete 
 
 <div dir="ltr">
 
-### Phase 2: Word Building (باب ۵-۸)
+### Phase 2 Word Building (باب ۵-۸)
 
 </div>
 
@@ -46,7 +46,7 @@ This is your graduation chapter! Let's review everything and achieve **complete 
 
 <div dir="ltr">
 
-### Phase 3: Sentences & Reading (باب ۹-۱۲)
+### Phase 3 Sentences & Reading (باب ۹-۱۲)
 
 </div>
 
@@ -59,7 +59,7 @@ This is your graduation chapter! Let's review everything and achieve **complete 
 
 <div dir="ltr">
 
-## 📖 Advanced Reading Passage 1: سکول کی زندگی
+## 📖 Advanced Reading Passage 1 سکول کی زندگی
 
 </div>
 
@@ -83,7 +83,7 @@ This is your graduation chapter! Let's review everything and achieve **complete 
 
 <div dir="ltr">
 
-### Comprehension Questions:
+### Comprehension Questions
 
 </div>
 
@@ -103,7 +103,7 @@ This is your graduation chapter! Let's review everything and achieve **complete 
 
 <div dir="ltr">
 
-## 📖 Advanced Reading Passage 2: پاکستان کی خوبصورتی
+## 📖 Advanced Reading Passage 2 پاکستان کی خوبصورتی
 
 </div>
 
@@ -129,7 +129,7 @@ This is your graduation chapter! Let's review everything and achieve **complete 
 
 <div dir="ltr">
 
-### Comprehension Questions:
+### Comprehension Questions
 
 </div>
 
@@ -149,7 +149,7 @@ This is your graduation chapter! Let's review everything and achieve **complete 
 
 <div dir="ltr">
 
-## 📖 Reading Passage 3: علم کی اہمیت
+## 📖 Reading Passage 3 علم کی اہمیت
 
 </div>
 
@@ -159,7 +159,7 @@ This is your graduation chapter! Let's review everything and achieve **complete 
 
 <div dir="ltr">
 
-**ہمارے پیارے نبی ﷺ نے فرمایا: "علم حاصل کرنا ہر مسلمان مرد اور عورت پر فرض ہے۔" یہ حدیث ہمیں بتاتی ہے کہ تعلیم کتنی ضروری ہے۔**
+**ہمارے پیارے نبی ﷺ نے فرمایا "علم حاصل کرنا ہر مسلمان مرد اور عورت پر فرض ہے۔" یہ حدیث ہمیں بتاتی ہے کہ تعلیم کتنی ضروری ہے۔**
 
 </div>
 
@@ -179,7 +179,7 @@ This is your graduation chapter! Let's review everything and achieve **complete 
 
 <div dir="ltr">
 
-### Reflection Questions:
+### Reflection Questions
 
 </div>
 
@@ -201,7 +201,7 @@ This is your graduation chapter! Let's review everything and achieve **complete 
 
 ## 💪 Final Mastery Exercises
 
-### Exercise 1: Vocabulary Challenge
+### Exercise 1 Vocabulary Challenge
 
 How many words can you read in 2 minutes?
 
@@ -215,9 +215,9 @@ How many words can you read in 2 minutes?
 
 <div dir="ltr">
 
-### Exercise 2: Write Your Own Story
+### Exercise 2 Write Your Own Story
 
-Write a paragraph (5-7 sentences) about:
+Write a paragraph (5-7 sentences) about
 
 </div>
 
@@ -225,7 +225,7 @@ Write a paragraph (5-7 sentences) about:
 
 <div dir="ltr">
 
-**Choose one:**
+**Choose one**
 
 </div>
 
@@ -238,7 +238,7 @@ Write a paragraph (5-7 sentences) about:
 
 <div dir="ltr">
 
-### Exercise 3: Translation Challenge
+### Exercise 3 Translation Challenge
 
 </div>
 
@@ -246,7 +246,7 @@ Write a paragraph (5-7 sentences) about:
 
 <div dir="ltr">
 
-Translate to Urdu:
+Translate to Urdu
 
 </div>
 
@@ -262,7 +262,7 @@ Translate to Urdu:
 
 ## 🎯 Final Assessment Checklist
 
-Can you do these independently? Check ✅ when yes:
+Can you do these independently? Check ✅ when yes
 
 </div>
 
@@ -270,7 +270,7 @@ Can you do these independently? Check ✅ when yes:
 
 <div dir="ltr">
 
-**Letters & Sounds:**
+**Letters & Sounds**
 
 </div>
 
@@ -281,7 +281,7 @@ Can you do these independently? Check ✅ when yes:
 
 <div dir="ltr">
 
-**Words:**
+**Words**
 
 </div>
 
@@ -292,7 +292,7 @@ Can you do these independently? Check ✅ when yes:
 
 <div dir="ltr">
 
-**Sentences:**
+**Sentences**
 
 </div>
 
@@ -303,7 +303,7 @@ Can you do these independently? Check ✅ when yes:
 
 <div dir="ltr">
 
-**Reading:**
+**Reading**
 
 </div>
 
@@ -314,7 +314,7 @@ Can you do these independently? Check ✅ when yes:
 
 <div dir="ltr">
 
-**Writing:**
+**Writing**
 
 </div>
 
@@ -331,7 +331,7 @@ Can you do these independently? Check ✅ when yes:
 
 ## 📅 Final Week Practice Schedule
 
-### Day 1-2: Review Phase 1 (Letters)
+### Day 1-2 Review Phase 1 (Letters)
 
 </div>
 
@@ -341,7 +341,7 @@ Can you do these independently? Check ✅ when yes:
 
 <div dir="ltr">
 
-### Day 3-4: Review Phase 2 (Words)
+### Day 3-4 Review Phase 2 (Words)
 
 </div>
 
@@ -351,7 +351,7 @@ Can you do these independently? Check ✅ when yes:
 
 <div dir="ltr">
 
-### Day 5-6: Review Phase 3 (Sentences)
+### Day 5-6 Review Phase 3 (Sentences)
 
 </div>
 
@@ -361,7 +361,7 @@ Can you do these independently? Check ✅ when yes:
 
 <div dir="ltr">
 
-### Day 7: Final Test
+### Day 7 Final Test
 
 </div>
 
@@ -372,7 +372,7 @@ Can you do these independently? Check ✅ when yes:
 
 <div dir="ltr">
 
-- Celebrate your achievement! 🎉
+- Celebrate your achievement 🎉
 
 </div>
 
@@ -416,7 +416,7 @@ has successfully completed the "Urdu Basics" complete course.
 
 <div dir="ltr">
 
-تاریخ / Date: ___________
+تاریخ / Date ___________
 
 </div>
 
@@ -424,13 +424,13 @@ has successfully completed the "Urdu Basics" complete course.
 
 <div dir="ltr">
 
-**12 Chapters Mastered:**
+**12 Chapters Mastered**
 
-- Phase 1: Letters (Chapters 1-4) ✅
-- Phase 2: Word Building (Chapters 5-8) ✅
-- Phase 3: Sentences & Reading (Chapters 9-12) ✅
+- Phase 1 Letters (Chapters 1-4) ✅
+- Phase 2 Word Building (Chapters 5-8) ✅
+- Phase 3 Sentences & Reading (Chapters 9-12) ✅
 
-**Skills Achieved:**
+**Skills Achieved**
 
 </div>
 
@@ -444,9 +444,9 @@ has successfully completed the "Urdu Basics" complete course.
 
 <div dir="ltr">
 
-**Congratulations!**
+**Congratulations**
 
-You are now a confident Urdu reader! 📚
+You are now a confident Urdu reader 📚
 
 </div>
 
@@ -458,15 +458,15 @@ You are now a confident Urdu reader! 📚
 
 ## 🎉 What's Next?
 
-Congratulations on completing Urdu Basics! Here's what you can do next:
+Congratulations on completing Urdu Basics Here's what you can do next
 
 ### 1. **Read Urdu Stories**
 
-Go to the main stories section and start reading the 33 Urdu short stories!
+Go to the main stories section and start reading the 33 Urdu short stories
 
 ### 2. **Practice Daily**
 
-Read something in Urdu every single day - even if just 5 minutes!
+Read something in Urdu every single day - even if just 5 minutes
 
 ### 3. **Expand Vocabulary**
 
@@ -502,15 +502,15 @@ Study Urdu grammar, poetry (شاعری), and literature (ادب)
 
 <div dir="ltr">
 
-You started this journey not knowing a single Urdu letter. Now you can read complete passages, understand stories, and write sentences!
+You started this journey not knowing a single Urdu letter. Now you can read complete passages, understand stories, and write sentences
 
-Remember:
+Remember
 
 - ✨ **Practice makes perfect** - مشق سے کمال آتا ہے
 - 📚 **Never stop learning** - سیکھتے رہو
 - 💪 **Be proud of yourself** - اپنے آپ پر فخر کرو
 
-You are now part of the beautiful Urdu language family. Keep reading, keep learning, and keep growing!
+You are now part of the beautiful Urdu language family. Keep reading, keep learning, and keep growing
 
 </div>
 
@@ -518,7 +518,7 @@ You are now part of the beautiful Urdu language family. Keep reading, keep learn
 
 <div dir="ltr">
 
-**Congratulations and best wishes!**
+**Congratulations and best wishes**
 
 </div>
 
@@ -526,11 +526,11 @@ You are now part of the beautiful Urdu language family. Keep reading, keep learn
 
 <div dir="ltr">
 
-## ✅ Course Complete!
+## ✅ Course Complete
 
-You have successfully finished all 12 chapters of Urdu Basics!
+You have successfully finished all 12 chapters of Urdu Basics
 
-**Total Achievement:**
+**Total Achievement**
 
 </div>
 
@@ -544,10 +544,10 @@ You have successfully finished all 12 chapters of Urdu Basics!
 
 <div dir="ltr">
 
-**You succeeded!**
+**You succeeded**
 
 🎓📚🌟
 
-**Now go read the Urdu stories and enjoy your new skill!**
+**Now go read the Urdu stories and enjoy your new skill**
 
 </div>

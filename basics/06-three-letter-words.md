@@ -1,6 +1,6 @@
 <div dir="ltr">
 
-# Chapter 6:3-Letter Words  
+# Chapter 63-Letter Words  
 
 </div>
 ## باب ۶: تین حرفی الفاظ
@@ -17,7 +17,7 @@
 
 <div dir="ltr">
 
-## 🎯 Why 3-Letter Words Matter<span dir="ltr">Most basic Urdu words have 3 letters. Once you master these, you can read 60-70% of simple Urdu text!</span>
+## 🎯 Why 3-Letter Words Matter<span dir="ltr">Most basic Urdu words have 3 letters. Once you master these, you can read 60-70% of simple Urdu text</span>
 
 </div>
 
@@ -25,7 +25,7 @@
 
 <div dir="ltr">
 
-## 📖 Group 1: Family Words<div class="practice-box">
+## 📖 Group 1 Family Words<div class="practice-box">
 
 </div>
 
@@ -48,7 +48,7 @@
 
 <div dir="ltr">
 
-## 📖 Group 2: Animals (جانور)<div class="practice-box">
+## 📖 Group 2 Animals (جانور)<div class="practice-box">
 
 </div>
 
@@ -71,7 +71,7 @@
 
 <div dir="ltr">
 
-## 📖 Group 3: Body Parts (جسم کے حصے)<div class="practice-box">
+## 📖 Group 3 Body Parts (جسم کے حصے)<div class="practice-box">
 
 </div>
 
@@ -94,7 +94,7 @@
 
 <div dir="ltr">
 
-## 📖 Group 4: Nature (قدرت)<div class="practice-box">
+## 📖 Group 4 Nature (قدرت)<div class="practice-box">
 
 </div>
 
@@ -117,7 +117,7 @@
 
 <div dir="ltr">
 
-## 📖 Group 5: Food Items (کھانے کی چیزیں)<div class="practice-box">
+## 📖 Group 5 Food Items (کھانے کی چیزیں)<div class="practice-box">
 
 </div>
 
@@ -140,7 +140,7 @@
 
 <div dir="ltr">
 
-## 📖 Group 6: Colors (رنگ)<div class="practice-box">
+## 📖 Group 6 Colors (رنگ)<div class="practice-box">
 
 </div>
 
@@ -163,7 +163,7 @@
 
 <div dir="ltr">
 
-## 📖 Group 7: Common Actions (عام فعل)<div class="practice-box">
+## 📖 Group 7 Common Actions (عام فعل)<div class="practice-box">
 
 </div>
 
@@ -188,7 +188,7 @@
 
 <div dir="ltr">
 
-### Exercise 1: Word Recognition<span dir="ltr">Read these words quickly (30 seconds):</span>
+### Exercise 1 Word Recognition<span dir="ltr">Read these words quickly (30 seconds)</span>
 
 </div>
 
@@ -245,9 +245,9 @@
 
 <div dir="ltr">
 
-## 📚 Vowel Combinations### <span dir="ltr">Remember: اعراب matter!</span>
+## 📚 Vowel Combinations### <span dir="ltr">Remember اعراب matter</span>
 
-Same letters, different vowels = different words:
+Same letters, different vowels = different words
 
 </div>
 | Word | Vowels | Meaning |
@@ -261,16 +261,16 @@ Same letters, different vowels = different words:
 
 <div dir="ltr">
 
-## 🎯 Speed Reading Practice### <span dir="ltr">Set 1: Read in 1 minute</span>
+## 🎯 Speed Reading Practice### <span dir="ltr">Set 1 Read in 1 minute</span>
 
 </div>
 **ماں، باپ، بیٹا، بیٹی، بہن، بھائی، دادا، دادی، نانا، نانی، چچا، پھوپھی، ماموں، خالہ**
 
 <div dir="ltr">
 
-### Set 2: Read in 1 minute**بلی، کتا، گھوڑا، شیر، ہاتھی، مرغی، بندر، چوہا، بکری، بھیڑ**
+### Set 2 Read in 1 minute**بلی، کتا، گھوڑا، شیر، ہاتھی، مرغی، بندر، چوہا، بکری، بھیڑ**
 
-### Set 3: Read in 1 minute**سر، منہ، آنکھ، کان، ناک، ہاتھ، پاؤں، دل، پیٹ، دانت**
+### Set 3 Read in 1 minute**سر، منہ، آنکھ، کان، ناک، ہاتھ، پاؤں، دل، پیٹ، دانت**
 
 </div>
 
@@ -280,7 +280,7 @@ Same letters, different vowels = different words:
 
 <div dir="ltr">
 
-### Day 1: Family + Animals- Learn Groups 1 & 2 (20 words)
+### Day 1 Family + Animals- Learn Groups 1 & 2 (20 words)
 
 </div>
 - Write each word 5 times
@@ -288,7 +288,7 @@ Same letters, different vowels = different words:
 
 <div dir="ltr">
 
-### Day 2: Body + Nature- Learn Groups 3 & 4 (20 words)
+### Day 2 Body + Nature- Learn Groups 3 & 4 (20 words)
 
 </div>
 - Write each word 5 times
@@ -296,7 +296,7 @@ Same letters, different vowels = different words:
 
 <div dir="ltr">
 
-### Day 3: Food + Colors- Learn Groups 5 & 6 (20 words)
+### Day 3 Food + Colors- Learn Groups 5 & 6 (20 words)
 
 </div>
 - Write each word 5 times
@@ -304,7 +304,7 @@ Same letters, different vowels = different words:
 
 <div dir="ltr">
 
-### Day 4: Actions + Review- Learn Group 7 (10 words)
+### Day 4 Actions + Review- Learn Group 7 (10 words)
 
 </div>
 - Review all 50+ words
@@ -313,7 +313,7 @@ Same letters, different vowels = different words:
 
 <div dir="ltr">
 
-### Day 5: Master Test- Write 20 words from memory
+### Day 5 Master Test- Write 20 words from memory
 
 </div>
 - Read all vocabulary lists
@@ -325,7 +325,7 @@ Same letters, different vowels = different words:
 ## ✅ Learning Outcomes
 <div dir="ltr">
 
-By the end of this chapter, you should be able to:
+By the end of this chapter, you should be able to
 
 </div>
 - ✅ Recognize 50+ common 3-letter words
@@ -339,7 +339,7 @@ By the end of this chapter, you should be able to:
 ## 🎉 Excellent Progress!
 <div dir="ltr">
 
-You now have a strong vocabulary foundation!
+You now have a strong vocabulary foundation
 
 </div>
 **Next:** Chapter 7 - Learn 4+ letter words and complex vocabulary!

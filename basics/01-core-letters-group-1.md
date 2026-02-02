@@ -1,6 +1,6 @@
 <div dir="ltr">
 
-# Chapter 1:Core Letters Group 1
+# Chapter 1Core Letters Group 1
 
 </div>
 ## باب ۱: بنیادی حروف - گروپ ۱
@@ -9,7 +9,7 @@
 
 In this chapter, you will learn the **10 most common Urdu letters**.<div dir="ltr">
 
-These letters appear in almost every Urdu word, so mastering them is essential!
+These letters appear in almost every Urdu word, so mastering them is essential
 
 </div>
 
@@ -133,7 +133,7 @@ These letters appear in almost every Urdu word, so mastering them is essential!
 ### Day 1:
 -<div dir="ltr">
 
-Learn letters:
+Learn letters
 
 </div> ا، ب، پ، ت، د
 - Practice writing each 10 times
@@ -142,7 +142,7 @@ Learn letters:
 ### Day 2:
 -<div dir="ltr">
 
-Learn letters:
+Learn letters
 
 </div> ر، س، ک، ل، م
 - Practice writing each 10 times
@@ -158,7 +158,7 @@ Learn letters:
 - Practice all exercises
 -<div dir="ltr">
 
-Prepare for Chapter 2!
+Prepare for Chapter 2
 
 </div>
 
@@ -166,7 +166,7 @@ Prepare for Chapter 2!
 
 ## 🎓 Learning Outcomes<div dir="ltr">
 
-By the end of this chapter, you will be able to:
+By the end of this chapter, you will be able to
 
 </div>
 
@@ -182,7 +182,7 @@ By the end of this chapter, you will be able to:
 
 In **Chapter 2**,<div dir="ltr">
 
-you will learn:
+you will learn
 
 </div>
 - 10 more frequently used letters
@@ -197,7 +197,7 @@ you will learn:
 **"ہر ماہر بھی پہلے ابتدائی تھا"**  
 *"Every expert was once a beginner!"*<div dir="ltr">
 
-Take your time, practice daily, and celebrate your progress!
+Take your time, practice daily, and celebrate your progress
 
 </div> 🎉
 

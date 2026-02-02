@@ -1,6 +1,6 @@
 <div dir="ltr">
 
-# Chapter 11:Reading Comprehension  
+# Chapter 11Reading Comprehension  
 
 </div>
 ## باب ۱۱: سمجھ کر پڑھنا
@@ -19,7 +19,7 @@ You've learned letters, words, and sentences. Now let's put it all together and 
 
 ## 🎯 Reading Strategy###<div dir="ltr">
 
-The 3-Step Method:
+The 3-Step Method
 
 </div>
 
@@ -33,7 +33,7 @@ The 3-Step Method:
 
 <div dir="ltr">
 
-## 📖 Passage 1: میرا خاندان (My Family)<div class="practice-box">
+## 📖 Passage 1 میرا خاندان (My Family)<div class="practice-box">
 
 </div>
 
@@ -72,7 +72,7 @@ The 3-Step Method:
 
 <div dir="ltr">
 
-## 📖 Passage 2: میرا دن (My Day)<div class="practice-box">
+## 📖 Passage 2 میرا دن (My Day)<div class="practice-box">
 
 </div>
 
@@ -111,7 +111,7 @@ The 3-Step Method:
 
 <div dir="ltr">
 
-## 📖 Passage 3: موسم (Weather & Seasons)<div class="practice-box">
+## 📖 Passage 3 موسم (Weather & Seasons)<div class="practice-box">
 
 </div>
 
@@ -152,7 +152,7 @@ The 3-Step Method:
 
 <div dir="ltr">
 
-## 📖 Passage 4: جانوروں کی کہانی (Animal Story)<div class="practice-box">
+## 📖 Passage 4 جانوروں کی کہانی (Animal Story)<div class="practice-box">
 
 </div>
 
@@ -202,7 +202,7 @@ The 3-Step Method:
 
 <div dir="ltr">
 
-### Exercise 1: Main Idea (مرکزی خیال)<div dir="ltr">
+### Exercise 1 Main Idea (مرکزی خیال)<div dir="ltr">
 
 What is each passage mainly about?
 
@@ -214,22 +214,22 @@ What is each passage mainly about?
 
 1.<div dir="ltr">
 
-Passage 1:
+Passage 1
 
 </div> **خاندان کے بارے میں** (About family)
 2.<div dir="ltr">
 
-Passage 2:
+Passage 2
 
 </div> **روز مرہ کے کام** (Daily routine)
 3.<div dir="ltr">
 
-Passage 3:
+Passage 3
 
 </div> **چار موسم** (Four seasons)
 4.<div dir="ltr">
 
-Passage 4:
+Passage 4
 
 </div> **شیر اور چوہے کی دوستی** (Lion and mouse friendship)
 
@@ -237,7 +237,7 @@ Passage 4:
 
 </div><div dir="ltr">
 
-Based on Passage 1:
+Based on Passage 1
 
 </div>
 1. احمد کے ابو ڈاکٹر ہیں۔ **True**
@@ -246,7 +246,7 @@ Based on Passage 1:
 
 ### Exercise 3: Sequence (ترتیب)<div dir="ltr">
 
-Put these events from Passage 2 in order:
+Put these events from Passage 2 in order
 
 </div>
 
@@ -328,7 +328,7 @@ Put these events from Passage 2 in order:
 
 ## ✅ Learning Outcomes<div dir="ltr">
 
-By the end of this chapter, you should be able to:
+By the end of this chapter, you should be able to
 
 </div>
 - ✅ Read complete Urdu paragraphs fluently
@@ -340,7 +340,7 @@ By the end of this chapter, you should be able to:
 - ✅ Discuss stories and passages
 - ✅<div dir="ltr">
 
-Read for enjoyment!
+Read for enjoyment
 
 </div>
 
@@ -348,9 +348,9 @@ Read for enjoyment!
 
 <div dir="ltr">
 
-## 🎉 Outstanding Achievement!<div dir="ltr">
+## 🎉 Outstanding Achievement<div dir="ltr">
 
-You can now read and understand real Urdu text!
+You can now read and understand real Urdu text
 
 </div>
 
@@ -358,7 +358,7 @@ You can now read and understand real Urdu text!
 
 **<span dir="ltr">Next:</span>** <div dir="ltr">
 
-Chapter 12 - Final chapter with advanced reading and complete mastery!
+Chapter 12 - Final chapter with advanced reading and complete mastery
 
 </div>
 

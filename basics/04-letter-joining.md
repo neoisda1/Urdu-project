@@ -1,6 +1,6 @@
 <div dir="ltr">
 
-# Chapter 4:Letter Joining Rules
+# Chapter 4Letter Joining Rules
 
 </div>
 ## باب ۴: حروف جوڑنے کے اصول
@@ -34,7 +34,7 @@ In Urdu, most letters connect to each other when forming words. Each letter can 
 
 <div dir="ltr">
 
-## 📖 Examples: Letter ب (Bay)| Form | Urdu | Name | Used When |
+## 📖 Examples Letter ب (Bay)| Form | Urdu | Name | Used When |
 
 </div>
 |------|------|------|-----------|
@@ -45,7 +45,7 @@ In Urdu, most letters connect to each other when forming words. Each letter can 
 
 <div dir="ltr">
 
-### Real Word Examples:- **بَت** = ب (initial) + ت (final) = bat (idol)
+### Real Word Examples- **بَت** = ب (initial) + ت (final) = bat (idol)
 
 </div>
 - **سبز** = س (initial) + ب (medial) + ز (final) = sabz (green)
@@ -55,7 +55,7 @@ In Urdu, most letters connect to each other when forming words. Each letter can 
 
 <div dir="ltr">
 
-## 🎯 Important: Non-Connecting Letters**<span dir="ltr">6 letters</span>** do NOT connect to the letter AFTER them:
+## 🎯 Important Non-Connecting Letters**<span dir="ltr">6 letters</span>** do NOT connect to the letter AFTER them
 
 </div>
 
@@ -63,9 +63,9 @@ In Urdu, most letters connect to each other when forming words. Each letter can 
 
 <div dir="ltr">
 
-### The 6 Non-Connectors:**ا، د، ڈ، ذ، ر، ڑ، ز، ژ، و**
+### The 6 Non-Connectors**ا، د، ڈ، ذ، ر، ڑ، ز، ژ، و**
 
-These letters only have **2 forms**: isolated and final!
+These letters only have **2 forms** isolated and final
 
 </div>
 
@@ -81,7 +81,7 @@ These letters only have **2 forms**: isolated and final!
 
 <div dir="ltr">
 
-### Group 1: Basic Connectors (ب family)| Letter | Isolated | Initial | Medial | Final |
+### Group 1 Basic Connectors (ب family)| Letter | Isolated | Initial | Medial | Final |
 
 </div>
 |--------|----------|---------|--------|-------|
@@ -95,7 +95,7 @@ These letters only have **2 forms**: isolated and final!
 
 <div dir="ltr">
 
-### Group 2: س family| Letter | Isolated | Initial | Medial | Final |
+### Group 2 س family| Letter | Isolated | Initial | Medial | Final |
 
 </div>
 |--------|----------|---------|--------|-------|
@@ -106,7 +106,7 @@ These letters only have **2 forms**: isolated and final!
 
 <div dir="ltr">
 
-### Group 3: ج family| Letter | Isolated | Initial | Medial | Final |
+### Group 3 ج family| Letter | Isolated | Initial | Medial | Final |
 
 </div>
 |--------|----------|---------|--------|-------|
@@ -117,7 +117,7 @@ These letters only have **2 forms**: isolated and final!
 
 <div dir="ltr">
 
-### Group 4: ع family| Letter | Isolated | Initial | Medial | Final |
+### Group 4 ع family| Letter | Isolated | Initial | Medial | Final |
 
 </div>
 |--------|----------|---------|--------|-------|
@@ -126,7 +126,7 @@ These letters only have **2 forms**: isolated and final!
 
 <div dir="ltr">
 
-### Group 5: ف، ق، ک، گ، ل، م، ہ| Letter | Isolated | Initial | Medial | Final |
+### Group 5 ف، ق، ک، گ، ل، م، ہ| Letter | Isolated | Initial | Medial | Final |
 
 </div>
 |--------|----------|---------|--------|-------|
@@ -142,7 +142,7 @@ These letters only have **2 forms**: isolated and final!
 
 <div dir="ltr">
 
-## 💪 Practice: Building Words### <span dir="ltr">Exercise 1: Two-Letter Words</span>
+## 💪 Practice Building Words### <span dir="ltr">Exercise 1 Two-Letter Words</span>
 
 </div>
 
@@ -189,7 +189,7 @@ These letters only have **2 forms**: isolated and final!
 
 <div dir="ltr">
 
-### The Laam-Alif Ligature (لا)<span dir="ltr">When **ل** (Laam) and **ا** (Alif) come together, they form a special combined shape:</span>
+### The Laam-Alif Ligature (لا)<span dir="ltr">When **ل** (Laam) and **ا** (Alif) come together, they form a special combined shape</span>
 
 </div>
 
@@ -206,7 +206,7 @@ These letters only have **2 forms**: isolated and final!
 
 <div dir="ltr">
 
-### Pattern 1: بــ ـ ـ (B family start)- **بچہ** (bacha) = child
+### Pattern 1 بــ ـ ـ (B family start)- **بچہ** (bacha) = child
 
 </div>
 - **بہن** (behan) = sister
@@ -214,7 +214,7 @@ These letters only have **2 forms**: isolated and final!
 
 <div dir="ltr">
 
-### Pattern 2: ســ ـ ـ (S family start)- **سات** (saat) = seven
+### Pattern 2 ســ ـ ـ (S family start)- **سات** (saat) = seven
 
 </div>
 - **سونا** (sona) = to sleep/gold
@@ -222,7 +222,7 @@ These letters only have **2 forms**: isolated and final!
 
 <div dir="ltr">
 
-### Pattern 3: کــ ـ ـ (K family start)- **کام** (kaam) = work
+### Pattern 3 کــ ـ ـ (K family start)- **کام** (kaam) = work
 
 </div>
 - **کھانا** (khana) = food
@@ -234,7 +234,7 @@ These letters only have **2 forms**: isolated and final!
 
 <div dir="ltr">
 
-### Day 1: Forms Study- Learn the 4 forms concept
+### Day 1 Forms Study- Learn the 4 forms concept
 
 </div>
 - Study connecting vs non-connecting letters
@@ -243,7 +243,7 @@ These letters only have **2 forms**: isolated and final!
 
 <div dir="ltr">
 
-### Day 2: Letter Family Practice- Study all letter family tables
+### Day 2 Letter Family Practice- Study all letter family tables
 
 </div>
 - Write each letter in all 4 forms
@@ -251,7 +251,7 @@ These letters only have **2 forms**: isolated and final!
 
 <div dir="ltr">
 
-### Day 3: Word Building- Build 2-letter words
+### Day 3 Word Building- Build 2-letter words
 
 </div>
 - Build 3-letter words
@@ -260,7 +260,7 @@ These letters only have **2 forms**: isolated and final!
 
 <div dir="ltr">
 
-### Day 4: Master Practice- Read all word patterns
+### Day 4 Master Practice- Read all word patterns
 
 </div>
 - Write 10 words showing different forms
@@ -272,7 +272,7 @@ These letters only have **2 forms**: isolated and final!
 ## ✅ Learning Outcomes
 <div dir="ltr">
 
-By the end of this chapter, you should be able to:
+By the end of this chapter, you should be able to
 
 </div>
 - ✅ Understand the 4 letter forms
@@ -286,9 +286,9 @@ By the end of this chapter, you should be able to:
 
 <div dir="ltr">
 
-## 🎉 Phase 1 Complete!<span dir="ltr">Congratulations! You've finished **PHASE 1: LETTERS**!</span>
+## 🎉 Phase 1 Complete<span dir="ltr">Congratulations You've finished **PHASE 1 LETTERS**</span>
 
-You now know:
+You now know
 
 </div>
 - ✅ All 38 Urdu letters

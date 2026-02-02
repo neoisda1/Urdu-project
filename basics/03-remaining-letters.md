@@ -1,6 +1,6 @@
 <div dir="ltr">
 
-# Chapter 3:Remaining Letters  
+# Chapter 3Remaining Letters  
 
 </div>
 ## باب ۳: بقیہ حروف
@@ -43,7 +43,7 @@
 ## 📋 Complete 38-Letter Alphabet
 <div dir="ltr">
 
-Congratulations! You now know ALL 38 Urdu letters:
+Congratulations You now know ALL 38 Urdu letters
 
 </div>
 | Group | Letters | Count |
@@ -60,7 +60,7 @@ Congratulations! You now know ALL 38 Urdu letters:
 ### Exercise 1: Letter Recognition (نئے حروف)
 <div dir="ltr">
 
-Identify these NEW letters from Chapter 3:
+Identify these NEW letters from Chapter 3
 
 </div>
 <div class="practice-box">
@@ -84,7 +84,7 @@ Can you name ALL these letters?
 ### Exercise 3: Similar Letters
 <div dir="ltr">
 
-Group these similar-looking letters:
+Group these similar-looking letters
 
 </div>
 | Group | Letters |
@@ -97,7 +97,7 @@ Group these similar-looking letters:
 ### Exercise 4: Common Words (آسان الفاظ)
 <div dir="ltr">
 
-Read these words using ALL three chapters:
+Read these words using ALL three chapters
 
 </div>
 <div class="practice-box">
@@ -147,13 +147,13 @@ Read these words using ALL three chapters:
 
 <div dir="ltr">
 
-### Set 1: Quick Read (30 seconds)**ا، ب، ت، ج، د، ر، س، ک، ل، م**
+### Set 1 Quick Read (30 seconds)**ا، ب، ت، ج، د، ر، س، ک، ل، م**
 
-### Set 2: Quick Read (30 seconds)**ن، و، ہ، ی، چ، خ، ش، ف، ق، گ**
+### Set 2 Quick Read (30 seconds)**ن، و، ہ، ی، چ، خ، ش، ف، ق، گ**
 
-### Set 3: Quick Read (45 seconds)**ٹ، ڈ، ڑ، ز، ژ، ص، ض، ط، ظ، ع، غ**
+### Set 3 Quick Read (45 seconds)**ٹ، ڈ، ڑ، ز، ژ، ص، ض، ط، ظ، ع، غ**
 
-### Set 4: Mixed Challenge (1 minute)**ا، ٹ، ب، ڈ، پ، ت، ث، ج، چ، ح، خ، د، ذ، ر، ڑ، ز، ژ، س، ش، ص، ض، ط، ظ، ع، غ، ف، ق، ک، گ، ل، م، ن، و، ہ، ی**
+### Set 4 Mixed Challenge (1 minute)**ا، ٹ، ب، ڈ، پ، ت، ث، ج، چ، ح، خ، د، ذ، ر، ڑ، ز، ژ، س، ش، ص، ض، ط، ظ، ع، غ، ف، ق، ک، گ، ل، م، ن، و، ہ، ی**
 
 </div>
 
@@ -163,7 +163,7 @@ Read these words using ALL three chapters:
 
 <div dir="ltr">
 
-### Day 1: First 9 Letters- <span dir="ltr">Learn: ٹ، ڈ، ڑ، ث، ح، ذ، ز، ژ، ش</span>
+### Day 1 First 9 Letters- <span dir="ltr">Learn ٹ، ڈ، ڑ، ث، ح، ذ، ز، ژ، ش</span>
 
 </div>
 - Write each 10 times
@@ -171,7 +171,7 @@ Read these words using ALL three chapters:
 
 <div dir="ltr">
 
-### Day 2: Next 9 Letters- <span dir="ltr">Learn: ص، ض، ط، ظ، ع، غ، ف، گ، ے</span>
+### Day 2 Next 9 Letters- <span dir="ltr">Learn ص، ض، ط، ظ، ع، غ، ف، گ، ے</span>
 
 </div>
 - Write each 10 times
@@ -179,7 +179,7 @@ Read these words using ALL three chapters:
 
 <div dir="ltr">
 
-### Day 3: Review Day- Review ALL 38 letters
+### Day 3 Review Day- Review ALL 38 letters
 
 </div>
 - Speed recognition drills (Sets 1-4)
@@ -187,7 +187,7 @@ Read these words using ALL three chapters:
 
 <div dir="ltr">
 
-### Day 4: Word Practice- Read vocabulary list 3 times
+### Day 4 Word Practice- Read vocabulary list 3 times
 
 </div>
 - Practice Exercise 4
@@ -195,7 +195,7 @@ Read these words using ALL three chapters:
 
 <div dir="ltr">
 
-### Day 5: Master Test- Write all 38 letters from memory
+### Day 5 Master Test- Write all 38 letters from memory
 
 </div>
 - Read all words in vocabulary section
@@ -206,7 +206,7 @@ Read these words using ALL three chapters:
 ## ✅ Learning Outcomes
 <div dir="ltr">
 
-By the end of this chapter, you should be able to:
+By the end of this chapter, you should be able to
 
 </div>
 - ✅ Recognize all 38 Urdu letters
@@ -220,7 +220,7 @@ By the end of this chapter, you should be able to:
 ## 🎉 Congratulations!
 <div dir="ltr">
 
-You've completed the full Urdu alphabet!
+You've completed the full Urdu alphabet
 
 </div>
 <span dir="ltr">Next up:</span> **Chapter 4** - <span dir="ltr">Learn how letters join together to form words!</span>

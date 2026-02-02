@@ -1,6 +1,6 @@
 <div dir="ltr">
 
-# Chapter 5:2-Letter Words + Vowel Marks  
+# Chapter 52-Letter Words + Vowel Marks  
 
 </div>
 ## باب ۵: دو حرفی الفاظ + اعراب
@@ -22,9 +22,9 @@ Now it's time to **build words** <span dir="ltr">and start reading real Urdu!</s
 
 <div dir="ltr">
 
-## 🎯 What are Vowel Marks (اعراب)?<span dir="ltr">Vowel marks are **small symbols** written above or below letters to show how to pronounce them. They're like pronunciation guides!</span>
+## 🎯 What are Vowel Marks (اعراب)?<span dir="ltr">Vowel marks are **small symbols** written above or below letters to show how to pronounce them. They're like pronunciation guides</span>
 
-### The 3 Main Vowel Marks:| Mark | Name | Sound | Example |
+### The 3 Main Vowel Marks| Mark | Name | Sound | Example |
 
 </div>
 |------|------|-------|---------|
@@ -36,11 +36,11 @@ Now it's time to **build words** <span dir="ltr">and start reading real Urdu!</s
 
 <div dir="ltr">
 
-## 📖 Understanding Vowel Marks### <span dir="ltr">Example with letter **ب** (Bay):</span>
+## 📖 Understanding Vowel Marks### <span dir="ltr">Example with letter **ب** (Bay)</span>
 
-Without vowel mark: **ب** (just "b" sound)
+Without vowel mark **ب** (just "b" sound)
 
-With vowel marks:
+With vowel marks
 
 </div>
 - **بَ** (with zabar) = "ba" (like "bat")
@@ -49,7 +49,7 @@ With vowel marks:
 
 <div dir="ltr">
 
-### Practice with different letters:| Letter | + Zabar | + Zer | + Pesh |
+### Practice with different letters| Letter | + Zabar | + Zer | + Pesh |
 
 </div>
 |--------|---------|-------|--------|
@@ -62,7 +62,7 @@ With vowel marks:
 
 <div dir="ltr">
 
-## 📚 30 Essential 2-Letter Words### <span dir="ltr">Group 1: Very Common Words (10 words)</span>
+## 📚 30 Essential 2-Letter Words### <span dir="ltr">Group 1 Very Common Words (10 words)</span>
 
 </div>
 
@@ -81,7 +81,7 @@ With vowel marks:
 
 <div dir="ltr">
 
-### Group 2: Body & Nature (10 words)| Word | With Aerab | Pronunciation | Meaning |
+### Group 2 Body & Nature (10 words)| Word | With Aerab | Pronunciation | Meaning |
 
 </div>
 |------|------------|---------------|---------|
@@ -98,7 +98,7 @@ With vowel marks:
 
 <div dir="ltr">
 
-### Group 3: Actions & More (10 words)| Word | With Aerab | Pronunciation | Meaning |
+### Group 3 Actions & More (10 words)| Word | With Aerab | Pronunciation | Meaning |
 
 </div>
 |------|------------|---------------|---------|
@@ -119,7 +119,7 @@ With vowel marks:
 
 <div dir="ltr">
 
-### Exercise 1: Add the Correct Vowel Mark**<span dir="ltr">Add zabar (َ) to these letters:</span>**
+### Exercise 1 Add the Correct Vowel Mark**<span dir="ltr">Add zabar (َ) to these letters</span>**
 
 </div>
 
@@ -131,7 +131,7 @@ With vowel marks:
 
 <div dir="ltr">
 
-### Exercise 2: Read These Words**<span dir="ltr">Try to read these words with vowel marks:</span>**
+### Exercise 2 Read These Words**<span dir="ltr">Try to read these words with vowel marks</span>**
 
 </div>
 
@@ -143,7 +143,7 @@ With vowel marks:
 
 <div dir="ltr">
 
-### Exercise 3: Match Words to Meanings```
+### Exercise 3 Match Words to Meanings```
 
 </div>
 ہم → ?        (we, you, all)
@@ -155,7 +155,7 @@ With vowel marks:
 
 <div dir="ltr">
 
-### Exercise 4: Build Words**<span dir="ltr">Can you form these words using letters?</span>**
+### Exercise 4 Build Words**<span dir="ltr">Can you form these words using letters?</span>**
 
 </div>
 
@@ -170,7 +170,7 @@ With vowel marks:
 
 <div dir="ltr">
 
-### Zabar (َ) - "a" sound:- **بَس** (bas) = enough
+### Zabar (َ) - "a" sound- **بَس** (bas) = enough
 
 </div>
 - **سَب** (sab) = all
@@ -180,7 +180,7 @@ With vowel marks:
 
 <div dir="ltr">
 
-### Zer (ِ) - "i" sound:- **دِل** (dil) = heart
+### Zer (ِ) - "i" sound- **دِل** (dil) = heart
 
 </div>
 - **سِر** (sir) = head
@@ -189,7 +189,7 @@ With vowel marks:
 
 <div dir="ltr">
 
-### Pesh (ُ) - "u" sound:- **تُم** (tum) = you
+### Pesh (ُ) - "u" sound- **تُم** (tum) = you
 
 </div>
 - **گُل** (gul) = flower
@@ -200,7 +200,7 @@ With vowel marks:
 
 <div dir="ltr">
 
-## 🏆 Common Phrases with 2-Letter Words### <span dir="ltr">Using these words in context:</span>
+## 🏆 Common Phrases with 2-Letter Words### <span dir="ltr">Using these words in context</span>
 
 </div>
 
@@ -216,7 +216,7 @@ With vowel marks:
 
 <div dir="ltr">
 
-### Day 1:- Learn vowel marks (zabar, zer, pesh)
+### Day 1- Learn vowel marks (zabar, zer, pesh)
 
 </div>
 - Practice writing them on 10 letters
@@ -224,7 +224,7 @@ With vowel marks:
 
 <div dir="ltr">
 
-### Day 2:- Review vowel marks
+### Day 2- Review vowel marks
 
 </div>
 - Learn next 10 words (Group 2)
@@ -232,7 +232,7 @@ With vowel marks:
 
 <div dir="ltr">
 
-### Day 3:- Learn final 10 words (Group 3)
+### Day 3- Learn final 10 words (Group 3)
 
 </div>
 - Practice all 30 words
@@ -240,7 +240,7 @@ With vowel marks:
 
 <div dir="ltr">
 
-### Day 4:- <span dir="ltr">Speed reading drill:</span> All 30 words
+### Day 4- <span dir="ltr">Speed reading drill</span> All 30 words
 
 </div>
 - Practice writing words from memory
@@ -248,7 +248,7 @@ With vowel marks:
 
 <div dir="ltr">
 
-### Day 5:- Review everything
+### Day 5- Review everything
 
 </div>
 - <span dir="ltr">Test yourself without looking!</span>
@@ -259,7 +259,7 @@ With vowel marks:
 ## 🎓 Learning Outcomes
 <div dir="ltr">
 
-By the end of this chapter, you will:
+By the end of this chapter, you will
 
 </div>
 ✅ Understand how vowel marks work  
@@ -273,7 +273,7 @@ By the end of this chapter, you will:
 
 <div dir="ltr">
 
-## ➡️ Next Chapter Preview<span dir="ltr">In **Chapter 6**, you will learn:</span>
+## ➡️ Next Chapter Preview<span dir="ltr">In **Chapter 6**, you will learn</span>
 
 </div>
 - <span dir="ltr">50 common 3-letter words</span>
@@ -286,9 +286,9 @@ By the end of this chapter, you will:
 
 <div dir="ltr">
 
-## 🎯 Challenge: Create Your Own Words!**<span dir="ltr">Try combining these letters with vowel marks:</span>**
+## 🎯 Challenge Create Your Own Words**<span dir="ltr">Try combining these letters with vowel marks</span>**
 
-Using: ب، ت، د، ل، م، س، ک
+Using ب، ت، د، ل، م، س، ک
 
 </div>
 <span dir="ltr">Can you create 5 two-letter words?</span> ✍️

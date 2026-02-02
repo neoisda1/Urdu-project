@@ -1,6 +1,6 @@
 <div dir="ltr">
 
-# Chapter 2:Core Letters Group 2  
+# Chapter 2Core Letters Group 2  
 
 </div>
 ## باب ۲: بنیادی حروف - گروپ ۲
@@ -52,7 +52,7 @@
 ## 🔄 Review: Chapter 1 Letters
 <div dir="ltr">
 
-Before we practice new letters, let's quickly review Chapter 1:
+Before we practice new letters, let's quickly review Chapter 1
 
 </div>
 ```
@@ -175,7 +175,7 @@ These two letters are **very special** because they have **multiple sounds**:
 ## 🎓 Learning Outcomes
 <div dir="ltr">
 
-By the end of this chapter, you will:
+By the end of this chapter, you will
 
 </div>
 ✅ <span dir="ltr">Know 20 letters (instead of just 10!</span>)  

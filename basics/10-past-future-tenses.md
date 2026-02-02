@@ -1,17 +1,17 @@
 <div dir="ltr">
 
-# Chapter 10:Past & Future Tenses  
+# Chapter 10Past & Future Tenses  
 
 </div>
 ## باب ۱۰: ماضی اور مستقبل
 
 ### 📚 Time to Talk About Past and Future!<div dir="ltr">
 
-You've mastered present tense!
+You've mastered present tense
 
 </div> Now learn to talk about what **happened** (past) and what **will happen** (<div dir="ltr">
 
-future)!
+future)
 
 </div>
 
@@ -33,9 +33,9 @@ future)!
 
 <div dir="ltr">
 
-## 📖 Past Tense (ماضی)### <span dir="ltr">Format: Subject + **نے** + Object + Verb (past form)</span>
+## 📖 Past Tense (ماضی)### <span dir="ltr">Format Subject + **نے** + Object + Verb (past form)</span>
 
-### Past Tense Verb Endings:| Subject | Masculine | Feminine |
+### Past Tense Verb Endings| Subject | Masculine | Feminine |
 
 </div>
 |---------|-----------|----------|
@@ -48,7 +48,7 @@ future)!
 
 ## 📖 Past Tense Examples###<div dir="ltr">
 
-Basic Past Sentences:
+Basic Past Sentences
 
 </div>
 
@@ -181,9 +181,9 @@ Basic Past Sentences:
 
 <div dir="ltr">
 
-## 📖 Future Tense (مستقبل)### <span dir="ltr">Format: Subject + Verb (future form) + گا/گی/گے</span>
+## 📖 Future Tense (مستقبل)### <span dir="ltr">Format Subject + Verb (future form) + گا/گی/گے</span>
 
-### Future Tense Endings:| Subject | Masculine | Feminine |
+### Future Tense Endings| Subject | Masculine | Feminine |
 
 </div>
 |---------|-----------|----------|
@@ -196,7 +196,7 @@ Basic Past Sentences:
 
 ## 📖 Future Tense Examples###<div dir="ltr">
 
-Basic Future Sentences:
+Basic Future Sentences
 
 </div>
 
@@ -347,7 +347,7 @@ Basic Future Sentences:
 
 <div dir="ltr">
 
-### Exercise 1: Convert to Past Tense<div class="practice-box">
+### Exercise 1 Convert to Past Tense<div class="practice-box">
 
 </div>
 
@@ -375,7 +375,7 @@ Basic Future Sentences:
 
 ### Exercise 3: Time Travel Sentences<div dir="ltr">
 
-Write the same sentence in all three tenses:
+Write the same sentence in all three tenses
 
 </div>
 
@@ -387,17 +387,17 @@ Write the same sentence in all three tenses:
 
 -<div dir="ltr">
 
-Present:
+Present
 
 </div> **میں سکول جاتا ہوں۔**
 -<div dir="ltr">
 
-Past:
+Past
 
 </div> **میں سکول گیا۔**
 -<div dir="ltr">
 
-Future:
+Future
 
 </div> **میں سکول جاؤں گا۔**
 
@@ -422,7 +422,7 @@ Future:
 
 <div dir="ltr">
 
-### Day 1: Past Tense Formation- Learn past tense endings (ـا، ـی، ـے، ـیں)
+### Day 1 Past Tense Formation- Learn past tense endings (ـا، ـی، ـے، ـیں)
 
 </div>
 - Practice 10 common verbs in past
@@ -430,7 +430,7 @@ Future:
 
 <div dir="ltr">
 
-### Day 2: Past Tense Sentences- Write 20 past tense sentences
+### Day 2 Past Tense Sentences- Write 20 past tense sentences
 
 </div>
 - Practice with نے
@@ -438,7 +438,7 @@ Future:
 
 <div dir="ltr">
 
-### Day 3: Future Tense Formation- Learn future tense endings (گا، گی، گے)
+### Day 3 Future Tense Formation- Learn future tense endings (گا، گی، گے)
 
 </div>
 - Practice 10 common verbs in future
@@ -446,7 +446,7 @@ Future:
 
 <div dir="ltr">
 
-### Day 4: Future Tense Sentences- Write 20 future tense sentences
+### Day 4 Future Tense Sentences- Write 20 future tense sentences
 
 </div>
 - Learn time words
@@ -454,7 +454,7 @@ Future:
 
 <div dir="ltr">
 
-### Day 5: All Three Tenses- Practice converting between tenses
+### Day 5 All Three Tenses- Practice converting between tenses
 
 </div>
 - Write a paragraph about your day (past, present, future)
@@ -464,7 +464,7 @@ Future:
 
 ## ✅ Learning Outcomes<div dir="ltr">
 
-By the end of this chapter, you should be able to:
+By the end of this chapter, you should be able to
 
 </div>
 - ✅ Form past tense sentences with نے
@@ -479,9 +479,9 @@ By the end of this chapter, you should be able to:
 
 <div dir="ltr">
 
-## 🎉 Amazing Work!<div dir="ltr">
+## 🎉 Amazing Work<div dir="ltr">
 
-You can now express yourself in all three time periods!
+You can now express yourself in all three time periods
 
 </div>
 
@@ -489,7 +489,7 @@ You can now express yourself in all three time periods!
 
 **<span dir="ltr">Next:</span>** <div dir="ltr">
 
-Chapter 11 - Learn to read and understand longer passages!
+Chapter 11 - Learn to read and understand longer passages
 
 </div>
 

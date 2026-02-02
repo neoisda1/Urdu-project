@@ -1,6 +1,6 @@
 <div dir="ltr">
 
-# Chapter 7:4+ Letter Words  
+# Chapter 74+ Letter Words  
 
 </div>
 ## باب ۷: چار یا زیادہ حرفی الفاظ
@@ -17,7 +17,7 @@
 
 <div dir="ltr">
 
-## 🎯 Building Longer Words<span dir="ltr">Longer words are just combinations of the letters and patterns you already know. Don't be intimidated - break them down letter by letter!</span>
+## 🎯 Building Longer Words<span dir="ltr">Longer words are just combinations of the letters and patterns you already know. Don't be intimidated - break them down letter by letter</span>
 
 </div>
 
@@ -25,7 +25,7 @@
 
 <div dir="ltr">
 
-## 📖 Group 1: Family & Relationships<div class="practice-box">
+## 📖 Group 1 Family & Relationships<div class="practice-box">
 
 </div>
 
@@ -48,7 +48,7 @@
 
 <div dir="ltr">
 
-## 📖 Group 2: Places & Buildings<div class="practice-box">
+## 📖 Group 2 Places & Buildings<div class="practice-box">
 
 </div>
 
@@ -73,7 +73,7 @@
 
 <div dir="ltr">
 
-## 📖 Group 3: Daily Life Objects<div class="practice-box">
+## 📖 Group 3 Daily Life Objects<div class="practice-box">
 
 </div>
 
@@ -98,7 +98,7 @@
 
 <div dir="ltr">
 
-## 📖 Group 4: Time & Days<div class="practice-box">
+## 📖 Group 4 Time & Days<div class="practice-box">
 
 </div>
 
@@ -126,7 +126,7 @@
 
 <div dir="ltr">
 
-## 📖 Group 5: Weather & Seasons<div class="practice-box">
+## 📖 Group 5 Weather & Seasons<div class="practice-box">
 
 </div>
 
@@ -149,7 +149,7 @@
 
 <div dir="ltr">
 
-## 📖 Group 6: Food & Meals<div class="practice-box">
+## 📖 Group 6 Food & Meals<div class="practice-box">
 
 </div>
 
@@ -172,7 +172,7 @@
 
 <div dir="ltr">
 
-## 📖 Group 7: Clothing (کپڑے)<div class="practice-box">
+## 📖 Group 7 Clothing (کپڑے)<div class="practice-box">
 
 </div>
 
@@ -195,7 +195,7 @@
 
 <div dir="ltr">
 
-## 📖 Group 8: Numbers (گنتی)<div class="practice-box">
+## 📖 Group 8 Numbers (گنتی)<div class="practice-box">
 
 </div>
 
@@ -222,7 +222,7 @@
 
 <div dir="ltr">
 
-### Exercise 1: Break It Down<span dir="ltr">Break these words into individual letters:</span>
+### Exercise 1 Break It Down<span dir="ltr">Break these words into individual letters</span>
 
 </div>
 
@@ -265,7 +265,7 @@
 <div class="practice-box">
 <div dir="ltr">
 
-Use these words to make sentences:
+Use these words to make sentences
 
 </div>
 **Example:** میں + صبح + ناشتہ + کرتا ہوں  
@@ -282,16 +282,16 @@ Use these words to make sentences:
 
 <div dir="ltr">
 
-## 🎯 Speed Reading Practice### <span dir="ltr">Set 1: Places (1 minute)</span>
+## 🎯 Speed Reading Practice### <span dir="ltr">Set 1 Places (1 minute)</span>
 
 </div>
 **گھر، مکان، سکول، مسجد، ہسپتال، دکان، بازار، باغ، پارک**
 
 <div dir="ltr">
 
-### Set 2: Time Words (1 minute)**صبح، دوپہر، شام، رات، پیر، منگل، بدھ، جمعرات، جمعہ، اتوار**
+### Set 2 Time Words (1 minute)**صبح، دوپہر، شام، رات، پیر، منگل، بدھ، جمعرات، جمعہ، اتوار**
 
-### Set 3: Daily Objects (1 minute)**کتاب، قلم، میز، کرسی، دروازہ، کھڑکی، چابی، تالا**
+### Set 3 Daily Objects (1 minute)**کتاب، قلم، میز، کرسی، دروازہ، کھڑکی، چابی، تالا**
 
 </div>
 
@@ -301,7 +301,7 @@ Use these words to make sentences:
 
 <div dir="ltr">
 
-### Day 1: Family + Places- Learn Groups 1 & 2 (20 words)
+### Day 1 Family + Places- Learn Groups 1 & 2 (20 words)
 
 </div>
 - Write each word 3 times
@@ -309,7 +309,7 @@ Use these words to make sentences:
 
 <div dir="ltr">
 
-### Day 2: Objects + Time- Learn Groups 3 & 4 (25 words)
+### Day 2 Objects + Time- Learn Groups 3 & 4 (25 words)
 
 </div>
 - Write each word 3 times
@@ -317,7 +317,7 @@ Use these words to make sentences:
 
 <div dir="ltr">
 
-### Day 3: Weather + Food- Learn Groups 5 & 6 (20 words)
+### Day 3 Weather + Food- Learn Groups 5 & 6 (20 words)
 
 </div>
 - Write each word 3 times
@@ -325,7 +325,7 @@ Use these words to make sentences:
 
 <div dir="ltr">
 
-### Day 4: Clothing + Numbers- Learn Groups 7 & 8 (20 words)
+### Day 4 Clothing + Numbers- Learn Groups 7 & 8 (20 words)
 
 </div>
 - Review all 85 words
@@ -333,7 +333,7 @@ Use these words to make sentences:
 
 <div dir="ltr">
 
-### Day 5: Master Practice- Read all vocabulary (Sets 1-3)
+### Day 5 Master Practice- Read all vocabulary (Sets 1-3)
 
 </div>
 - Write 20 words from memory
@@ -345,7 +345,7 @@ Use these words to make sentences:
 ## ✅ Learning Outcomes
 <div dir="ltr">
 
-By the end of this chapter, you should be able to:
+By the end of this chapter, you should be able to
 
 </div>
 - ✅ Read 60+ complex words (4+ letters)
@@ -358,7 +358,7 @@ By the end of this chapter, you should be able to:
 
 <div dir="ltr">
 
-## 🎉 Fantastic Work!<span dir="ltr">You've built a strong vocabulary! Over 100 words total now!</span>
+## 🎉 Fantastic Work<span dir="ltr">You've built a strong vocabulary Over 100 words total now</span>
 
 </div>
 
