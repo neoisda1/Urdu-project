@@ -7,11 +7,11 @@
 
 - گروپ ۱
 
+<div dir="ltr">
+
 ### 📚 Welcome to Your First Chapter!
 
 In this chapter, you will learn the **10 most common Urdu letters**.
-
-<div dir="ltr">
 
 These letters appear in almost every Urdu word, so mastering them is essential
 
