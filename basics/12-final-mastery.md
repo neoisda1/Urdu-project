@@ -1,9 +1,18 @@
-# <span dir="ltr">Chapter 12:</span> Final Mastery & Practice  
+<div dir="ltr">
+
+# Chapter 12: Final Mastery & Practice
+
+</div>
+
 ## باب ۱۲: مکمل مہارت اور مشق
+
+<div dir="ltr">
 
 ### 🎓 Congratulations! You've Reached the Final Chapter!
 
-<span dir="ltr">This is your graduation chapter!</span> Let's review everything and achieve **complete mastery** <span dir="ltr">of basic Urdu reading!</span>
+This is your graduation chapter! Let's review everything and achieve **complete mastery** of basic Urdu reading!
+
+</div>
 
 **مدت / Duration:** One week intensive practice  
 **ہدف / Goal:** Independent Urdu reading mastery  
@@ -11,21 +20,36 @@
 
 ---
 
-## <span dir="ltr">🎯 What You've Learned (12 Chapters Summary)</span>
+<div dir="ltr">
 
-### <span dir="ltr">Phase 1: Letters (باب ۱-۴)</span>
+## 🎯 What You've Learned (12 Chapters Summary)
+
+### Phase 1: Letters (باب ۱-۴)
+
+</div>
+
 - ✅ All 38 Urdu letters
 - ✅ Letter sounds and names
 - ✅ Letter joining rules (4 forms)
 - ✅ Non-connecting letters
 
-### <span dir="ltr">Phase 2: Word Building (باب ۵-۸)</span>
+<div dir="ltr">
+
+### Phase 2: Word Building (باب ۵-۸)
+
+</div>
+
 - ✅ Vowel marks (زبر، زیر، پیش)
 - ✅ 100+ vocabulary words
 - ✅ Word families and patterns
 - ✅ Plurals, opposites, compounds
 
-### <span dir="ltr">Phase 3: Sentences & Reading (باب ۹-۱۲)</span>
+<div dir="ltr">
+
+### Phase 3: Sentences & Reading (باب ۹-۱۲)
+
+</div>
+
 - ✅ Sentence structure (S-O-V)
 - ✅ Present, past, future tenses
 - ✅ Questions and negatives
@@ -33,7 +57,11 @@
 
 ---
 
-## <span dir="ltr">📖 Advanced Reading Passage 1: سکول کی زندگی</span>
+<div dir="ltr">
+
+## 📖 Advanced Reading Passage 1: سکول کی زندگی
+
+</div>
 
 <div class="practice-box">
 
@@ -53,7 +81,11 @@
 
 </div>
 
+<div dir="ltr">
+
 ### Comprehension Questions:
+
+</div>
 
 <div class="practice-box">
 
@@ -69,7 +101,11 @@
 
 ---
 
-## <span dir="ltr">📖 Advanced Reading Passage 2: پاکستان کی خوبصورتی</span>
+<div dir="ltr">
+
+## 📖 Advanced Reading Passage 2: پاکستان کی خوبصورتی
+
+</div>
 
 <div class="practice-box">
 
@@ -91,7 +127,11 @@
 
 </div>
 
+<div dir="ltr">
+
 ### Comprehension Questions:
+
+</div>
 
 <div class="practice-box">
 
@@ -107,13 +147,21 @@
 
 ---
 
-## <span dir="ltr">📖 Reading Passage 3: علم کی اہمیت</span>
+<div dir="ltr">
+
+## 📖 Reading Passage 3: علم کی اہمیت
+
+</div>
 
 <div class="practice-box">
 
 **علم ایک روشنی ہے جو اندھیرے کو دور کرتی ہے۔ جو شخص پڑھتا ہے وہ جاہلیت کی تاریکی سے نکل کر علم کی روشنی میں آ جاتا ہے۔**
 
-**ہمارے پیارے نبی ﷺ نے فرمایا: <span dir="ltr">"علم حاصل کرنا ہر مسلمان مرد اور عورت پر فرض ہے۔"</span> یہ حدیث ہمیں بتاتی ہے کہ تعلیم کتنی ضروری ہے۔**
+<div dir="ltr">
+
+**ہمارے پیارے نبی ﷺ نے فرمایا: "علم حاصل کرنا ہر مسلمان مرد اور عورت پر فرض ہے۔" یہ حدیث ہمیں بتاتی ہے کہ تعلیم کتنی ضروری ہے۔**
+
+</div>
 
 **پڑھے لکھے لوگ معاشرے کو ترقی دیتے ہیں۔ وہ اچھے ڈاکٹر، انجینئر، اساتذہ، اور سائنسدان بنتے ہیں۔ وہ ملک کی خدمت کرتے ہیں۔**
 
@@ -129,7 +177,11 @@
 
 </div>
 
-### <span dir="ltr">Reflection Questions:</span>
+<div dir="ltr">
+
+### Reflection Questions:
+
+</div>
 
 <div class="practice-box">
 
@@ -145,10 +197,15 @@
 
 ---
 
-## <span dir="ltr">💪 Final Mastery Exercises</span>
+<div dir="ltr">
 
-### <span dir="ltr">Exercise 1: Vocabulary Challenge</span>
-<span dir="ltr">How many words can you read in 2 minutes?</span>
+## 💪 Final Mastery Exercises
+
+### Exercise 1: Vocabulary Challenge
+
+How many words can you read in 2 minutes?
+
+</div>
 
 <div class="practice-box">
 
@@ -156,12 +213,22 @@
 
 </div>
 
-### <span dir="ltr">Exercise 2: Write Your Own Story</span>
-<span dir="ltr">Write a paragraph (5-7 sentences) about:</span>
+<div dir="ltr">
+
+### Exercise 2: Write Your Own Story
+
+Write a paragraph (5-7 sentences) about:
+
+</div>
 
 <div class="practice-box">
 
-**<span dir="ltr">Choose one:</span>**
+<div dir="ltr">
+
+**Choose one:**
+
+</div>
+
 1. میری پسندیدہ کتاب (My favorite book)
 2. میرا بہترین دوست (My best friend)
 3. میرے خواب (My dreams)
@@ -169,11 +236,20 @@
 
 </div>
 
-### <span dir="ltr">Exercise 3: Translation Challenge</span>
+<div dir="ltr">
+
+### Exercise 3: Translation Challenge
+
+</div>
 
 <div class="practice-box">
 
-<span dir="ltr">Translate to Urdu:</span>
+<div dir="ltr">
+
+Translate to Urdu:
+
+</div>
+
 1. I love reading books. (**مجھے کتابیں پڑھنا پسند ہے۔**)
 2. My teacher is very kind. (**میرے استاد بہت مہربان ہیں۔**)
 3. We will go to the park tomorrow. (**ہم کل پارک جائیں گے۔**)
@@ -182,37 +258,66 @@
 
 ---
 
-## <span dir="ltr">🎯 Final Assessment Checklist</span>
+<div dir="ltr">
 
-<span dir="ltr">Can you do these independently? Check ✅ when yes:</span>
+## 🎯 Final Assessment Checklist
+
+Can you do these independently? Check ✅ when yes:
+
+</div>
 
 <div class="practice-box">
 
-**<span dir="ltr">Letters & Sounds:</span>**
+<div dir="ltr">
+
+**Letters & Sounds:**
+
+</div>
+
 - [ ] Recognize all 38 Urdu letters instantly
 - [ ] Write all letters correctly
 - [ ] Know which letters connect and which don't
 - [ ] Understand the 4 letter forms
 
-**<span dir="ltr">Words:</span>**
+<div dir="ltr">
+
+**Words:**
+
+</div>
+
 - [ ] Read 100+ words fluently
 - [ ] Understand vowel marks (زبر، زیر، پیش)
 - [ ] Form plurals correctly
 - [ ] Recognize word families
 
-**<span dir="ltr">Sentences:</span>**
+<div dir="ltr">
+
+**Sentences:**
+
+</div>
+
 - [ ] Make simple sentences (S-O-V order)
 - [ ] Use present, past, and future tenses
 - [ ] Ask questions (کیا، کون، کہاں، کب، کیوں)
 - [ ] Make negative sentences (نہیں)
 
-**<span dir="ltr">Reading:</span>**
+<div dir="ltr">
+
+**Reading:**
+
+</div>
+
 - [ ] Read paragraphs fluently
 - [ ] Understand what you read
 - [ ] Answer comprehension questions
 - [ ] Discuss stories in Urdu
 
-**<span dir="ltr">Writing:</span>**
+<div dir="ltr">
+
+**Writing:**
+
+</div>
+
 - [ ] Write simple sentences
 - [ ] Write short paragraphs
 - [ ] Use correct spelling
@@ -222,136 +327,227 @@
 
 ---
 
-## <span dir="ltr">📅 Final Week Practice Schedule</span>
+<div dir="ltr">
 
-### <span dir="ltr">Day 1-2: Review Phase 1 (Letters)</span>
+## 📅 Final Week Practice Schedule
+
+### Day 1-2: Review Phase 1 (Letters)
+
+</div>
+
 - Write all 38 letters from memory
 - Practice letter joining
 - Read letter-based exercises from Chapters 1-4
 
-### <span dir="ltr">Day 3-4: Review Phase 2 (Words)</span>
+<div dir="ltr">
+
+### Day 3-4: Review Phase 2 (Words)
+
+</div>
+
 - Read vocabulary lists from Chapters 5-8
 - Practice word families
 - Write 50 words from memory
 
-### <span dir="ltr">Day 5-6: Review Phase 3 (Sentences)</span>
+<div dir="ltr">
+
+### Day 5-6: Review Phase 3 (Sentences)
+
+</div>
+
 - Practice all tense formations
 - Write 20 sentences in each tense
 - Read passages from Chapters 9-12
 
-### <span dir="ltr">Day 7: Final Test</span>
+<div dir="ltr">
+
+### Day 7: Final Test
+
+</div>
+
 - Read all 3 advanced passages in this chapter
 - Answer all comprehension questions
 - Write your own story
 - Complete final assessment checklist
-- <span dir="ltr">Celebrate your achievement!</span> 🎉
+
+<div dir="ltr">
+
+- Celebrate your achievement! 🎉
+
+</div>
 
 ---
 
-## <span dir="ltr">🎓 Certificate of Completion</span>
+<div dir="ltr">
 
-<div class="practice-box" style="<span dir="ltr">border:</span> 3px solid gold; <span dir="ltr">padding:</span> 30px; <span dir="ltr">text-align:</span> center;">
+## 🎓 Certificate of Completion
+
+</div>
+
+<div class="practice-box" style="border: 3px solid gold; padding: 30px; text-align: center;">
 
 **تکمیل کا سرٹیفکیٹ**
 
+<div dir="ltr">
+
 **Certificate of Completion**
+
+</div>
 
 ---
 
 یہ تصدیق کی جاتی ہے کہ
 
+<div dir="ltr">
+
 This certifies that
+
+</div>
 
 **[Your Name]**
 
 نے "اردو بیسکس" کا مکمل کورس کامیابی سے مکمل کیا۔
 
+<div dir="ltr">
+
 has successfully completed the "Urdu Basics" complete course.
 
-تاریخ / <span dir="ltr">Date:</span> ___________
+</div>
+
+<div dir="ltr">
+
+تاریخ / Date: ___________
+
+</div>
 
 ---
 
+<div dir="ltr">
+
 **12 Chapters Mastered:**
-- <span dir="ltr">Phase 1:</span> Letters (Chapters 1-4) ✅
-- <span dir="ltr">Phase 2:</span> Word Building (Chapters 5-8) ✅
-- <span dir="ltr">Phase 3:</span> Sentences & Reading (Chapters 9-12) ✅
+
+- Phase 1: Letters (Chapters 1-4) ✅
+- Phase 2: Word Building (Chapters 5-8) ✅
+- Phase 3: Sentences & Reading (Chapters 9-12) ✅
 
 **Skills Achieved:**
+
+</div>
+
 - Reading | پڑھنا ✅
 - Writing | لکھنا ✅
 - Comprehension | سمجھ ✅
 
 ---
 
-**بہت مبارک ہو!**  
-**<span dir="ltr">Congratulations!</span>**
+**بہت مبارک ہو!**
 
-<span dir="ltr">You are now a confident Urdu reader!</span> 📚
+<div dir="ltr">
+
+**Congratulations!**
+
+You are now a confident Urdu reader! 📚
+
+</div>
 
 </div>
 
 ---
 
-## <span dir="ltr">🎉 What's Next?</span>
+<div dir="ltr">
 
-<span dir="ltr">Congratulations on completing Urdu Basics! Here's what you can do next:</span>
+## 🎉 What's Next?
 
-### <span dir="ltr">1. **Read Urdu Stories**</span>
-<span dir="ltr">Go to the main stories section and start reading the 33 Urdu short stories!</span>
+Congratulations on completing Urdu Basics! Here's what you can do next:
 
-### <span dir="ltr">2. **Practice Daily**</span>
-<span dir="ltr">Read something in Urdu every single day - even if just 5 minutes!</span>
+### 1. **Read Urdu Stories**
 
-### <span dir="ltr">3. **Expand Vocabulary**</span>
-<span dir="ltr">Learn 5 new Urdu words every day</span>
+Go to the main stories section and start reading the 33 Urdu short stories!
 
-### <span dir="ltr">4. **Write Regularly**</span>
-<span dir="ltr">Keep an Urdu diary or journal</span>
+### 2. **Practice Daily**
 
-### <span dir="ltr">5. **Speak Urdu**</span>
-<span dir="ltr">Practice speaking with family and friends</span>
+Read something in Urdu every single day - even if just 5 minutes!
 
-### <span dir="ltr">6. **Watch Urdu Content**</span>
-<span dir="ltr">Watch Urdu TV shows, YouTube videos, or movies with subtitles</span>
+### 3. **Expand Vocabulary**
 
-### <span dir="ltr">7. **Advanced Learning**</span>
-<span dir="ltr">Study Urdu grammar, poetry (شاعری), and literature (ادب)</span>
+Learn 5 new Urdu words every day
+
+### 4. **Write Regularly**
+
+Keep an Urdu diary or journal
+
+### 5. **Speak Urdu**
+
+Practice speaking with family and friends
+
+### 6. **Watch Urdu Content**
+
+Watch Urdu TV shows, YouTube videos, or movies with subtitles
+
+### 7. **Advanced Learning**
+
+Study Urdu grammar, poetry (شاعری), and literature (ادب)
+
+</div>
 
 ---
 
-## <span dir="ltr">💝 Final Message</span>
+<div dir="ltr">
+
+## 💝 Final Message
+
+</div>
 
 **پیارے طالب علم!**
 
-<span dir="ltr">You started this journey not knowing a single Urdu letter. Now you can read complete passages, understand stories, and write sentences!</span>
+<div dir="ltr">
 
-<span dir="ltr">Remember:</span>
-- <span dir="ltr">✨ **Practice makes perfect** - مشق سے کمال آتا ہے</span>
-- <span dir="ltr">📚 **Never stop learning** - سیکھتے رہو</span>
-- <span dir="ltr">💪 **Be proud of yourself** - اپنے آپ پر فخر کرو</span>
+You started this journey not knowing a single Urdu letter. Now you can read complete passages, understand stories, and write sentences!
 
-<span dir="ltr">You are now part of the beautiful Urdu language family. Keep reading, keep learning, and keep growing!</span>
+Remember:
 
-**بہت بہت مبارک ہو!**  
+- ✨ **Practice makes perfect** - مشق سے کمال آتا ہے
+- 📚 **Never stop learning** - سیکھتے رہو
+- 💪 **Be proud of yourself** - اپنے آپ پر فخر کرو
+
+You are now part of the beautiful Urdu language family. Keep reading, keep learning, and keep growing!
+
+</div>
+
+**بہت بہت مبارک ہو!**
+
+<div dir="ltr">
+
 **Congratulations and best wishes!**
+
+</div>
 
 ---
 
-## <span dir="ltr">✅ Course Complete!</span>
+<div dir="ltr">
 
-<span dir="ltr">You have successfully finished all 12 chapters of Urdu Basics!</span>
+## ✅ Course Complete!
 
-**<span dir="ltr">Total Achievement:</span>**
+You have successfully finished all 12 chapters of Urdu Basics!
+
+**Total Achievement:**
+
+</div>
+
 - ✅ 38 Letters Mastered
 - ✅ 150+ Words Learned
 - ✅ 3 Tenses Mastered  
 - ✅ Reading Comprehension Achieved
 - ✅ Writing Skills Developed
 
-**آپ کامیاب ہوئے!**  
+**آپ کامیاب ہوئے!**
+
+<div dir="ltr">
+
 **You succeeded!**
 
 🎓📚🌟
 
-**<span dir="ltr">Now go read the Urdu stories and enjoy your new skill!</span>**
+**Now go read the Urdu stories and enjoy your new skill!**
+
+</div>
