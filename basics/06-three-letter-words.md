@@ -1,9 +1,9 @@
-# Chapter 6: 3-Letter Words  
+# <span dir="ltr">Chapter 6:</span> 3-Letter Words  
 ## باب ۶: تین حرفی الفاظ
 
 ### 📚 Welcome to Chapter 6!
 
-Great job with 2-letter words! Now let's move to **3-letter words** - the foundation of most Urdu vocabulary!
+<span dir="ltr">Great job with 2-letter words!</span> Now let's move to **3-letter words** - <span dir="ltr">the foundation of most Urdu vocabulary!</span>
 
 **مدت / Duration:** 5-6 days of practice  
 **الفاظ / Words:** 50+ three-letter words  
@@ -284,7 +284,7 @@ Great job with 2-letter words! Now let's move to **3-letter words** - the founda
 
 ## ✅ Learning Outcomes
 
-By the end of this chapter, you should be able to:
+<span dir="ltr">By the end of this chapter, you should be able to:</span>
 - ✅ Recognize 50+ common 3-letter words
 - ✅ Read family, animal, body, nature, food, color words
 - ✅ Understand how vowel marks change meanings
@@ -295,7 +295,7 @@ By the end of this chapter, you should be able to:
 
 ## 🎉 Excellent Progress!
 
-You now have a strong vocabulary foundation!
+<span dir="ltr">You now have a strong vocabulary foundation!</span>
 
 **Next:** Chapter 7 - Learn 4+ letter words and complex vocabulary!
 

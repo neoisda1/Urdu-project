@@ -1,9 +1,9 @@
-# Chapter 12: Final Mastery & Practice  
+# <span dir="ltr">Chapter 12:</span> Final Mastery & Practice  
 ## باب ۱۲: مکمل مہارت اور مشق
 
 ### 🎓 Congratulations! You've Reached the Final Chapter!
 
-This is your graduation chapter! Let's review everything and achieve **complete mastery** of basic Urdu reading!
+<span dir="ltr">This is your graduation chapter!</span> Let's review everything and achieve **complete mastery** <span dir="ltr">of basic Urdu reading!</span>
 
 **مدت / Duration:** One week intensive practice  
 **ہدف / Goal:** Independent Urdu reading mastery  
@@ -250,7 +250,7 @@ This is your graduation chapter! Let's review everything and achieve **complete 
 
 ## <span dir="ltr">🎓 Certificate of Completion</span>
 
-<div class="practice-box" style="border: 3px solid gold; padding: 30px; text-align: center;">
+<div class="practice-box" style="<span dir="ltr">border:</span> 3px solid gold; <span dir="ltr">padding:</span> 30px; <span dir="ltr">text-align:</span> center;">
 
 **تکمیل کا سرٹیفکیٹ**
 
@@ -268,14 +268,14 @@ This certifies that
 
 has successfully completed the "Urdu Basics" complete course.
 
-تاریخ / Date: ___________
+تاریخ / <span dir="ltr">Date:</span> ___________
 
 ---
 
 **12 Chapters Mastered:**
-- Phase 1: Letters (Chapters 1-4) ✅
-- Phase 2: Word Building (Chapters 5-8) ✅
-- Phase 3: Sentences & Reading (Chapters 9-12) ✅
+- <span dir="ltr">Phase 1:</span> Letters (Chapters 1-4) ✅
+- <span dir="ltr">Phase 2:</span> Word Building (Chapters 5-8) ✅
+- <span dir="ltr">Phase 3:</span> Sentences & Reading (Chapters 9-12) ✅
 
 **Skills Achieved:**
 - Reading | پڑھنا ✅

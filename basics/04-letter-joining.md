@@ -1,9 +1,9 @@
-# Chapter 4: Letter Joining Rules
+# <span dir="ltr">Chapter 4:</span> Letter Joining Rules
 ## باب ۴: حروف جوڑنے کے اصول
 
 ### 📚 Master How Letters Connect!
 
-Now that you know all 38 Urdu letters, it's time to learn **how they join together** to form words!
+Now that you know all 38 Urdu letters, it's time to learn **how they join together** <span dir="ltr">to form words!</span>
 
 In Urdu, most letters connect to each other when forming words. Each letter can have up to **4 different forms**:
 
@@ -227,7 +227,7 @@ When the letter is at the END of a word.
 
 ## ✅ Learning Outcomes
 
-By the end of this chapter, you should be able to:
+<span dir="ltr">By the end of this chapter, you should be able to:</span>
 - ✅ Understand the 4 letter forms
 - ✅ Identify connecting vs non-connecting letters
 - ✅ Know the 6 non-connectors by heart

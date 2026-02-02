@@ -323,6 +323,14 @@
             overflow-x: auto;
         }
 
+        /* Force LTR text direction for English content */
+        [dir="ltr"] {
+            direction: ltr !important;
+            unicode-bidi: isolate;
+            display: inline-block;
+            text-align: left;
+        }
+
         .practice-box {
             background: var(--code-bg);
             border: 3px solid var(--phase-color);

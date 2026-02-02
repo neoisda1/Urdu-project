@@ -328,6 +328,14 @@
             overflow-x: auto;
         }
 
+        /* Force LTR text direction for English content */
+        [dir="ltr"] {
+            direction: ltr !important;
+            unicode-bidi: isolate;
+            display: inline-block;
+            text-align: left;
+        }
+
         .footer {
             background: var(--footer-bg);
             color: white;

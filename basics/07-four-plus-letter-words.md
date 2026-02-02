@@ -1,9 +1,9 @@
-# Chapter 7: 4+ Letter Words  
+# <span dir="ltr">Chapter 7:</span> 4+ Letter Words  
 ## باب ۷: چار یا زیادہ حرفی الفاظ
 
 ### 📚 Welcome to Chapter 7!
 
-Excellent! You can now read simple 2 and 3-letter words. Time to tackle **longer words** (4+ letters)!
+<span dir="ltr">Excellent!</span> You can now read simple 2 and 3-letter words. Time to tackle **longer words** (4+ <span dir="ltr">letters)!</span>
 
 **مدت / Duration:** 5-6 days of practice  
 **الفاظ / Words:** 60+ words with 4 or more letters  
@@ -242,7 +242,7 @@ Excellent! You can now read simple 2 and 3-letter words. Time to tackle **longer
 
 <div class="practice-box">
 
-Use these words to make sentences:
+<span dir="ltr">Use these words to make sentences:</span>
 
 **Example:** میں + صبح + ناشتہ + کرتا ہوں  
 = میں صبح ناشتہ کرتا ہوں۔ (I have breakfast in the morning)
@@ -301,7 +301,7 @@ Use these words to make sentences:
 
 ## ✅ Learning Outcomes
 
-By the end of this chapter, you should be able to:
+<span dir="ltr">By the end of this chapter, you should be able to:</span>
 - ✅ Read 60+ complex words (4+ letters)
 - ✅ Break down long words into letters
 - ✅ Recognize vocabulary for daily life

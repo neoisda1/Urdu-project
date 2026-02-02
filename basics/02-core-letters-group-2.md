@@ -1,9 +1,9 @@
-# Chapter 2: Core Letters Group 2  
+# <span dir="ltr">Chapter 2:</span> Core Letters Group 2  
 ## باب ۲: بنیادی حروف - گروپ ۲
 
 ### 📚 Welcome to Chapter 2!
 
-Great job completing Chapter 1! You now know 10 essential Urdu letters. In this chapter, you'll learn **10 MORE frequently used letters**.
+<span dir="ltr">Great job completing Chapter 1!</span> You now know 10 essential Urdu letters. In this chapter, you'll learn **10 MORE frequently used letters**.
 
 **مدت / Duration:** 3-4 days of practice  
 **حروف / Letters:** 10 medium-frequency letters  
@@ -47,7 +47,7 @@ Great job completing Chapter 1! You now know 10 essential Urdu letters. In this 
 
 ## 🔄 Review: Chapter 1 Letters
 
-Before we practice new letters, let's quickly review Chapter 1:
+<span dir="ltr">Before we practice new letters, let's quickly review Chapter 1:</span>
 
 ```
 ا    ب    پ    ت    د    ر    س    ک    ل    م
@@ -70,9 +70,9 @@ Before we practice new letters, let's quickly review Chapter 1:
 **Say the sound of each NEW letter 5 times:**
 
 1. **ن** → n, n, n, n, n
-2. **و** → w, o, u (practice all three!)
+2. **و** → <span dir="ltr">w, o, u (practice all three!</span>)
 3. **ہ** → h, h, h, h, h
-4. **ی** → y, ee, i (practice all three!)
+4. **ی** → <span dir="ltr">y, ee, i (practice all three!</span>)
 5. **ج** → j, j, j, j, j
 6. **چ** → ch, ch, ch, ch, ch
 7. **خ** → kh, kh, kh, kh, kh
@@ -145,12 +145,12 @@ These two letters are **very special** because they have **multiple sounds**:
 ## 📝 Daily Practice Schedule
 
 ### Day 1:
-- Learn letters: ن، و، ہ، ی، ج
+- <span dir="ltr">Learn letters:</span> ن، و، ہ، ی، ج
 - Write each 15 times
 - Review Chapter 1 letters (5 min)
 
 ### Day 2:
-- Learn letters: چ، خ، ش، ف، ق
+- <span dir="ltr">Learn letters:</span> چ، خ، ش، ف، ق
 - Write each 15 times
 - Mix Chapter 1 & 2 recognition
 
@@ -160,17 +160,17 @@ These two letters are **very special** because they have **multiple sounds**:
 - Write words using both groups
 
 ### Day 4:
-- Speed drill: All 20 letters
+- <span dir="ltr">Speed drill:</span> All 20 letters
 - Practice writing 10 words
-- Test yourself without looking!
+- <span dir="ltr">Test yourself without looking!</span>
 
 ---
 
 ## 🎓 Learning Outcomes
 
-By the end of this chapter, you will:
+<span dir="ltr">By the end of this chapter, you will:</span>
 
-✅ Know 20 letters (instead of just 10!)  
+✅ <span dir="ltr">Know 20 letters (instead of just 10!</span>)  
 ✅ Recognize letters instantly in random order  
 ✅ Write simple 3-4 letter words  
 ✅ Understand special letters و and ی  
@@ -180,8 +180,8 @@ By the end of this chapter, you will:
 
 ## ➡️ Next Chapter Preview
 
-In **Chapter 3**, you will learn:
-- The remaining 18 Urdu letters (complete alphabet!)
+In **Chapter 3**, <span dir="ltr">you will learn:</span>
+- <span dir="ltr">The remaining 18 Urdu letters (complete alphabet!</span>)
 - Heavy review of all 38 letters
 - 40+ new vocabulary words
 - Speed recognition games
@@ -205,7 +205,7 @@ In **Chapter 3**, you will learn:
 **"تھوڑا تھوڑا کر کے بہت کچھ ہو جاتا ہے"**  
 *"Little by little, a lot gets done!"*
 
-You're doing great! Keep practicing! 💪🎉
+<span dir="ltr">You're doing great!</span> <span dir="ltr">Keep practicing!</span> 💪🎉
 
 ---
 

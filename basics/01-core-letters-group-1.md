@@ -1,9 +1,9 @@
-# Chapter 1: Core Letters Group 1
+# <span dir="ltr">Chapter 1:</span> Core Letters Group 1
 ## باب ۱: بنیادی حروف - گروپ ۱
 
 ### 📚 Welcome to Your First Chapter!
 
-In this chapter, you will learn the **10 most common Urdu letters**. These letters appear in almost every Urdu word, so mastering them is essential!
+In this chapter, you will learn the **10 most common Urdu letters**. <span dir="ltr">These letters appear in almost every Urdu word, so mastering them is essential!</span>
 
 **مدت / Duration:** 3-4 days of practice  
 **حروف / Letters:** 10 most frequently used letters
@@ -123,12 +123,12 @@ In this chapter, you will learn the **10 most common Urdu letters**. These lette
 ## 📝 Daily Practice Schedule
 
 ### Day 1:
-- Learn letters: ا، ب، پ، ت، د
+- <span dir="ltr">Learn letters:</span> ا، ب، پ، ت، د
 - Practice writing each 10 times
 - Say sounds aloud 5 times
 
 ### Day 2:
-- Learn letters: ر، س، ک، ل، م
+- <span dir="ltr">Learn letters:</span> ر، س، ک، ل، م
 - Practice writing each 10 times
 - Review Day 1 letters
 
@@ -140,13 +140,13 @@ In this chapter, you will learn the **10 most common Urdu letters**. These lette
 ### Day 4:
 - Speed recognition drill
 - Practice all exercises
-- Prepare for Chapter 2!
+- <span dir="ltr">Prepare for Chapter 2!</span>
 
 ---
 
 ## 🎓 Learning Outcomes
 
-By the end of this chapter, you will be able to:
+<span dir="ltr">By the end of this chapter, you will be able to:</span>
 
 ✅ Recognize all 10 core letters instantly  
 ✅ Know the name and sound of each letter  
@@ -158,7 +158,7 @@ By the end of this chapter, you will be able to:
 
 ## ➡️ Next Chapter Preview
 
-In **Chapter 2**, you will learn:
+In **Chapter 2**, <span dir="ltr">you will learn:</span>
 - 10 more frequently used letters
 - How to combine letters you've learned
 - 20 new vocabulary words
@@ -171,7 +171,7 @@ In **Chapter 2**, you will learn:
 **"ہر ماہر بھی پہلے ابتدائی تھا"**  
 *"Every expert was once a beginner!"*
 
-Take your time, practice daily, and celebrate your progress! 🎉
+<span dir="ltr">Take your time, practice daily, and celebrate your progress!</span> 🎉
 
 ---
 

@@ -1,11 +1,11 @@
-# Chapter 5: 2-Letter Words + Vowel Marks  
+# <span dir="ltr">Chapter 5:</span> 2-Letter Words + Vowel Marks  
 ## باب ۵: دو حرفی الفاظ + اعراب
 
 ### 🎉 Congratulations! You've Completed Phase 1!
 
-You now know **all 38 Urdu letters**! That's amazing! 🎓✨
+You now know **all 38 Urdu letters**! <span dir="ltr">That's amazing!</span> 🎓✨
 
-Now it's time to **build words** and start reading real Urdu! In this chapter, you'll learn:
+Now it's time to **build words** <span dir="ltr">and start reading real Urdu!</span> <span dir="ltr">In this chapter, you'll learn:</span>
 - How vowel marks (اعراب) change letter sounds
 - 30 simple 2-letter words
 - How to pronounce words correctly
@@ -197,20 +197,20 @@ Now it's time to **build words** and start reading real Urdu! In this chapter, y
 - Do Exercises 1-4
 
 ### <span dir="ltr">Day 4:</span>
-- Speed reading drill: All 30 words
+- <span dir="ltr">Speed reading drill:</span> All 30 words
 - Practice writing words from memory
 - Learn simple phrases
 
 ### <span dir="ltr">Day 5:</span>
 - Review everything
-- Test yourself without looking!
-- Prepare for Chapter 6 (3-letter words!)
+- <span dir="ltr">Test yourself without looking!</span>
+- <span dir="ltr">Prepare for Chapter 6 (3-letter words!</span>)
 
 ---
 
 ## 🎓 Learning Outcomes
 
-By the end of this chapter, you will:
+<span dir="ltr">By the end of this chapter, you will:</span>
 
 ✅ Understand how vowel marks work  
 ✅ Know all 3 main vowel marks (zabar, zer, pesh)  
@@ -247,7 +247,7 @@ By the end of this chapter, you will:
 **"الفاظ سے جملے بنتے ہیں"**  
 *"Words become sentences"*
 
-You're building the foundation for reading! Every word counts! 📖✨
+<span dir="ltr">You're building the foundation for reading!</span> <span dir="ltr">Every word counts!</span> 📖✨
 
 ---
 

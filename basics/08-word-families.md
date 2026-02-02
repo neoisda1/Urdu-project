@@ -1,9 +1,9 @@
-# Chapter 8: Word Families & Patterns  
+# <span dir="ltr">Chapter 8:</span> Word Families & Patterns  
 ## باب ۸: الفاظ کے خاندان اور نمونے
 
 ### 📚 Welcome to Chapter 8!
 
-Smart learners recognize PATTERNS! In this chapter, you'll learn how Urdu words are built using common patterns and families.
+<span dir="ltr">Smart learners recognize PATTERNS!</span> In this chapter, you'll learn how Urdu words are built using common patterns and families.
 
 **مدت / Duration:** 4-5 days of practice  
 **نیا تصور / New Concept:** Word roots, patterns, and families  
@@ -213,10 +213,10 @@ Smart learners recognize PATTERNS! In this chapter, you'll learn how Urdu words 
 
 <div class="practice-box">
 
-1. **لکھنا** → Root: ل - ک - ھ (write)
-2. **پڑھنا** → Root: پ - ڑ - ھ (read)
-3. **کھانا** → Root: ک - ھ - ا (eat)
-4. **سننا** → Root: س - ن - ن (hear)
+1. **لکھنا** → <span dir="ltr">Root:</span> ل - ک - ھ (write)
+2. **پڑھنا** → <span dir="ltr">Root:</span> پ - ڑ - ھ (read)
+3. **کھانا** → <span dir="ltr">Root:</span> ک - ھ - ا (eat)
+4. **سننا** → <span dir="ltr">Root:</span> س - ن - ن (hear)
 
 </div>
 
@@ -288,7 +288,7 @@ Smart learners recognize PATTERNS! In this chapter, you'll learn how Urdu words 
 
 ## ✅ Learning Outcomes
 
-By the end of this chapter, you should be able to:
+<span dir="ltr">By the end of this chapter, you should be able to:</span>
 - ✅ Recognize 3-letter roots in words
 - ✅ Form verbs using ـنا pattern
 - ✅ Make plurals using 3 different methods

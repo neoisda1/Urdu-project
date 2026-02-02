@@ -1,9 +1,9 @@
-# Chapter 3: Remaining Letters  
+# <span dir="ltr">Chapter 3:</span> Remaining Letters  
 ## باب ۳: بقیہ حروف
 
 ### 📚 Welcome to Chapter 3!
 
-Excellent progress! You've learned 20 essential letters. Now let's complete your alphabet knowledge with the **remaining 18 letters**.
+<span dir="ltr">Excellent progress!</span> You've learned 20 essential letters. Now let's complete your alphabet knowledge with the **remaining 18 letters**.
 
 **مدت / Duration:** 5-6 days of practice  
 **حروف / Letters:** 18 less common but important letters  
@@ -38,7 +38,7 @@ Excellent progress! You've learned 20 essential letters. Now let's complete your
 
 ## 📋 Complete 38-Letter Alphabet
 
-Congratulations! You now know ALL 38 Urdu letters:
+<span dir="ltr">Congratulations! You now know ALL 38 Urdu letters:</span>
 
 | Group | Letters | Count |
 |-------|---------|-------|
@@ -172,7 +172,7 @@ Congratulations! You now know ALL 38 Urdu letters:
 
 ## ✅ Learning Outcomes
 
-By the end of this chapter, you should be able to:
+<span dir="ltr">By the end of this chapter, you should be able to:</span>
 - ✅ Recognize all 38 Urdu letters
 - ✅ Write all letters correctly
 - ✅ Distinguish between similar letters
@@ -183,8 +183,8 @@ By the end of this chapter, you should be able to:
 
 ## 🎉 Congratulations!
 
-You've completed the full Urdu alphabet! 
+<span dir="ltr">You've completed the full Urdu alphabet!</span> 
 
-Next up: **Chapter 4** - Learn how letters join together to form words!
+<span dir="ltr">Next up:</span> **Chapter 4** - <span dir="ltr">Learn how letters join together to form words!</span>
 
 **آگے بڑھیں!** (Keep moving forward!)

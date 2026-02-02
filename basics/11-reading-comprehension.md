@@ -1,4 +1,4 @@
-# Chapter 11: Reading Comprehension  
+# <span dir="ltr">Chapter 11:</span> Reading Comprehension  
 ## باب ۱۱: سمجھ کر پڑھنا
 
 ### 📚 Time to Read Real Urdu!
@@ -187,10 +187,10 @@ You've learned letters, words, and sentences. Now let's put it all together and 
 
 <div class="practice-box">
 
-1. Passage 1: **خاندان کے بارے میں** (About family)
-2. Passage 2: **روز مرہ کے کام** (Daily routine)
-3. Passage 3: **چار موسم** (Four seasons)
-4. Passage 4: **شیر اور چوہے کی دوستی** (Lion and mouse friendship)
+1. <span dir="ltr">Passage 1:</span> **خاندان کے بارے میں** (About family)
+2. <span dir="ltr">Passage 2:</span> **روز مرہ کے کام** (Daily routine)
+3. <span dir="ltr">Passage 3:</span> **چار موسم** (Four seasons)
+4. <span dir="ltr">Passage 4:</span> **شیر اور چوہے کی دوستی** (Lion and mouse friendship)
 
 </div>
 
@@ -282,7 +282,7 @@ You've learned letters, words, and sentences. Now let's put it all together and 
 
 ## ✅ Learning Outcomes
 
-By the end of this chapter, you should be able to:
+<span dir="ltr">By the end of this chapter, you should be able to:</span>
 - ✅ Read complete Urdu paragraphs fluently
 - ✅ Understand main ideas in passages
 - ✅ Answer comprehension questions
@@ -290,7 +290,7 @@ By the end of this chapter, you should be able to:
 - ✅ Learn new words from context
 - ✅ Summarize what you read
 - ✅ Discuss stories and passages
-- ✅ Read for enjoyment!
+- ✅ <span dir="ltr">Read for enjoyment!</span>
 
 ---
 

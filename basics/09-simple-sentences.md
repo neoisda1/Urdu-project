@@ -1,9 +1,9 @@
-# Chapter 9: Simple Sentences  
+# <span dir="ltr">Chapter 9:</span> Simple Sentences  
 ## باب ۹: آسان جملے
 
 ### 📚 Welcome to Phase 3: Sentences & Reading!
 
-Congratulations on reaching the final phase! Now it's time to put everything together and **make complete sentences**!
+<span dir="ltr">Congratulations on reaching the final phase!</span> Now it's time to put everything together and **make complete sentences**!
 
 **مدت / Duration:** 5-6 days of practice  
 **نیا تصور / New Concept:** Sentence structure, word order  
@@ -269,7 +269,7 @@ Congratulations on reaching the final phase! Now it's time to put everything tog
    (He goes but I don't go)
 
 3. **تم چائے یا کافی پیتے ہو؟**  
-   (Do you drink tea or coffee?)
+   (<span dir="ltr">Do you drink tea or coffee?</span>)
 
 ---
 
@@ -306,7 +306,7 @@ Congratulations on reaching the final phase! Now it's time to put everything tog
 
 ## ✅ Learning Outcomes
 
-By the end of this chapter, you should be able to:
+<span dir="ltr">By the end of this chapter, you should be able to:</span>
 - ✅ Understand Urdu sentence structure (S-O-V)
 - ✅ Form simple present tense sentences
 - ✅ Use ہے/ہیں correctly

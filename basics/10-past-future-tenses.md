@@ -1,9 +1,9 @@
-# Chapter 10: Past & Future Tenses  
+# <span dir="ltr">Chapter 10:</span> Past & Future Tenses  
 ## باب ۱۰: ماضی اور مستقبل
 
 ### 📚 Time to Talk About Past and Future!
 
-You've mastered present tense! Now learn to talk about what **happened** (past) and what **will happen** (future)!
+<span dir="ltr">You've mastered present tense!</span> Now learn to talk about what **happened** (past) and what **will happen** (<span dir="ltr">future)!</span>
 
 **مدت / Duration:** 5 days of practice  
 **نیا تصور / New Concept:** Past and future tense formation  
@@ -291,9 +291,9 @@ You've mastered present tense! Now learn to talk about what **happened** (past) 
 
 **<span dir="ltr">"I go to school"</span>**
 
-- Present: **میں سکول جاتا ہوں۔**
-- Past: **میں سکول گیا۔**
-- Future: **میں سکول جاؤں گا۔**
+- <span dir="ltr">Present:</span> **میں سکول جاتا ہوں۔**
+- <span dir="ltr">Past:</span> **میں سکول گیا۔**
+- <span dir="ltr">Future:</span> **میں سکول جاؤں گا۔**
 
 </div>
 
@@ -345,7 +345,7 @@ You've mastered present tense! Now learn to talk about what **happened** (past) 
 
 ## ✅ Learning Outcomes
 
-By the end of this chapter, you should be able to:
+<span dir="ltr">By the end of this chapter, you should be able to:</span>
 - ✅ Form past tense sentences with نے
 - ✅ Use correct past tense endings (ـا، ـی، ـے، ـیں)
 - ✅ Form future tense with گا، گی، گے
