@@ -82,11 +82,13 @@ Can you name ALL these letters?
 </div>
 
 ### Exercise 3: Similar Letters
+
 <div dir="ltr">
 
 Group these similar-looking letters
 
 </div>
+
 | Group | Letters |
 |-------|---------|
 | **Dots below** | ب، پ، ت، ٹ، ث |
