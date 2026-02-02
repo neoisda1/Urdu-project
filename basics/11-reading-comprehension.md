@@ -25,9 +25,9 @@ The 3-Step Method
 
 </div>
 
-1. **پہلی بار** <span dir="ltr">(First Read): Read slowly, identify all words</span>
-2. **دوسری بار** <span dir="ltr">(Second Read): Read faster, understand meaning</span>
-3. **تیسری بار** <span dir="ltr">(Third Read): Read fluently, enjoy the content</span>
+1. **پہلی بار** (First Read): Read slowly, identify all words
+2. **دوسری بار** (Second Read): Read faster, understand meaning
+3. **تیسری بار** (Third Read): Read fluently, enjoy the content
 
 ---
 
@@ -52,19 +52,19 @@ The 3-Step Method
 <div class="practice-box">
 
 1. **احمد کتنے سال کا ہے؟**  
-   **<span dir="ltr">Answer:</span>** دس سال کا
+   **Answer:** دس سال کا
 
 2. **احمد کے ابو کیا کام کرتے ہیں؟**  
-   **<span dir="ltr">Answer:</span>** <span dir="ltr">ڈاکٹر ہیں / ہسپتال میں کام کرتے ہیں</span>
+   **Answer:** ڈاکٹر ہیں / ہسپتال میں کام کرتے ہیں
 
 3. **احمد کے خاندان میں کتنے لوگ ہیں؟**  
-   **<span dir="ltr">Answer:</span>** پانچ لوگ
+   **Answer:** پانچ لوگ
 
 4. **فاطمہ کہاں پڑھتی ہے؟**  
-   **<span dir="ltr">Answer:</span>** یونیورسٹی میں
+   **Answer:** یونیورسٹی میں
 
 5. **علی کتنے سال کا ہے؟**  
-   **<span dir="ltr">Answer:</span>** پانچ سال کا
+   **Answer:** پانچ سال کا
 
 </div>
 
@@ -160,15 +160,15 @@ The 3-Step Method
 
 **"میں تمہیں کھا جاؤں گا!" شیر نے کہا۔**
 
-**چوہے نے کہا، <span dir="ltr">"مہربانی کر کے مجھے چھوڑ دو۔ ایک دن میں تمہاری مدد کروں گا۔"</span>**
+**چوہے نے کہا، "مہربانی کر کے مجھے چھوڑ دو۔ ایک دن میں تمہاری مدد کروں گا۔"**
 
 **شیر ہنسا اور چوہے کو چھوڑ دیا۔**
 
 **کچھ دن بعد شیر شکاری کے جال میں پھنس گیا۔ وہ چیخ رہا تھا۔ چوہا دوڑتا ہوا آیا۔ اُس نے اپنے دانتوں سے جال کاٹ دیا۔ شیر آزاد ہو گیا۔**
 
-**<span dir="ltr">"شکریہ، میرے چھوٹے دوست!"</span>** شیر نے کہا۔
+**"شکریہ، میرے چھوٹے دوست!"** شیر نے کہا۔
 
-**<span dir="ltr">سبق:</span>** <span dir="ltr">چھوٹا ہونا برا نہیں۔ ہر کوئی مدد کر سکتا ہے۔</span>
+**سبق:** چھوٹا ہونا برا نہیں۔ ہر کوئی مدد کر سکتا ہے۔
 
 </div>
 
@@ -260,7 +260,7 @@ Put these events from Passage 2 in order
 - [ ] ناشتہ کرتا ہوں
 - [ ] سو جاتا ہوں
 
-**<span dir="ltr">Correct Order:</span>** <span dir="ltr">2, 4, 3, 1, 5</span>
+**Correct Order:** 2, 4, 3, 1, 5
 
 </div>
 
@@ -356,7 +356,7 @@ You can now read and understand real Urdu text
 
 </div>
 
-**<span dir="ltr">Next:</span>** <div dir="ltr">
+**Next:** <div dir="ltr">
 
 Chapter 12 - Final chapter with advanced reading and complete mastery
 

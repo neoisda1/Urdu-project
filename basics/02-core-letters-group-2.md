@@ -7,7 +7,7 @@
 
 ### 📚 Welcome to Chapter 2!
 
-<span dir="ltr">Great job completing Chapter 1!</span> You now know 10 essential Urdu letters. In this chapter, you'll learn **10 MORE frequently used letters**.
+Great job completing Chapter 1! You now know 10 essential Urdu letters. In this chapter, you'll learn **10 MORE frequently used letters**.
 
 **مدت / Duration:** 3-4 days of practice  
 **حروف / Letters:** 10 medium-frequency letters  
@@ -59,7 +59,7 @@ Before we practice new letters, let's quickly review Chapter 1
 ا    ب    پ    ت    د    ر    س    ک    ل    م
 ```
 
-**Quick Quiz:** <span dir="ltr">Can you name 5 of these letters? Try now!</span> ✍️
+**Quick Quiz:** Can you name 5 of these letters? Try now! ✍️
 
 ---
 
@@ -76,9 +76,9 @@ Before we practice new letters, let's quickly review Chapter 1
 **Say the sound of each NEW letter 5 times:**
 
 1. **ن** → n, n, n, n, n
-2. **و** → <span dir="ltr">w, o, u (practice all three!</span>)
+2. **و** → w, o, u (practice all three!)
 3. **ہ** → h, h, h, h, h
-4. **ی** → <span dir="ltr">y, ee, i (practice all three!</span>)
+4. **ی** → y, ee, i (practice all three!)
 5. **ج** → j, j, j, j, j
 6. **چ** → ch, ch, ch, ch, ch
 7. **خ** → kh, kh, kh, kh, kh
@@ -87,16 +87,16 @@ Before we practice new letters, let's quickly review Chapter 1
 10. **ق** → q, q, q, q, q
 
 ### Exercise 3: Mix Old + New
-**<span dir="ltr">Identify these letters (mix of Chapter 1 & 2):</span>**
+**Identify these letters (mix of Chapter 1 & 2):**
 
 ```
 م    ن    ب    و    س    ہ    ک    ی    ل    چ
 ```
 
-**<span dir="ltr">How many did you recognize?</span>** 🎯
+**How many did you recognize?** 🎯
 
 ### Exercise 4: Build Simple Words
-**<span dir="ltr">Combine letters from Chapters 1 & 2:</span>**
+**Combine letters from Chapters 1 & 2:**
 
 1. **م + ا + ں** = **ماں** (mother)
 2. **ن + ا + ن + ی** = **نانی** (grandmother)
@@ -144,19 +144,19 @@ These two letters are **very special** because they have **multiple sounds**:
 2. **ی** = "ee" as in **سیب** (seb) = apple
 3. **ی** = "i" as in **دل** (dil) = heart
 
-**<span dir="ltr">Don't worry!</span>** You'll learn when to use which sound as you practice more. 😊
+**Don't worry!** You'll learn when to use which sound as you practice more. 😊
 
 ---
 
 ## 📝 Daily Practice Schedule
 
 ### Day 1:
-- <span dir="ltr">Learn letters:</span> ن، و، ہ، ی، ج
+- Learn letters: ن، و، ہ، ی، ج
 - Write each 15 times
 - Review Chapter 1 letters (5 min)
 
 ### Day 2:
-- <span dir="ltr">Learn letters:</span> چ، خ، ش، ف، ق
+- Learn letters: چ، خ، ش، ف، ق
 - Write each 15 times
 - Mix Chapter 1 & 2 recognition
 
@@ -166,9 +166,9 @@ These two letters are **very special** because they have **multiple sounds**:
 - Write words using both groups
 
 ### Day 4:
-- <span dir="ltr">Speed drill:</span> All 20 letters
+- Speed drill: All 20 letters
 - Practice writing 10 words
-- <span dir="ltr">Test yourself without looking!</span>
+- Test yourself without looking!
 
 ---
 
@@ -178,7 +178,7 @@ These two letters are **very special** because they have **multiple sounds**:
 By the end of this chapter, you will
 
 </div>
-✅ <span dir="ltr">Know 20 letters (instead of just 10!</span>)  
+✅ Know 20 letters (instead of just 10!)  
 ✅ Recognize letters instantly in random order  
 ✅ Write simple 3-4 letter words  
 ✅ Understand special letters و and ی  
@@ -188,8 +188,8 @@ By the end of this chapter, you will
 
 ## ➡️ Next Chapter Preview
 
-In **Chapter 3**, <span dir="ltr">you will learn:</span>
-- <span dir="ltr">The remaining 18 Urdu letters (complete alphabet!</span>)
+In **Chapter 3**, you will learn:
+- The remaining 18 Urdu letters (complete alphabet!)
 - Heavy review of all 38 letters
 - 40+ new vocabulary words
 - Speed recognition games
@@ -198,7 +198,7 @@ In **Chapter 3**, <span dir="ltr">you will learn:</span>
 
 ## 🎯 Challenge Yourself!
 
-**<span dir="ltr">Can you write these words from memory?</span>**
+**Can you write these words from memory?**
 
 1. Mother = _____ (ماں)
 2. Pen = _____ (قلم)
@@ -213,7 +213,7 @@ In **Chapter 3**, <span dir="ltr">you will learn:</span>
 **"تھوڑا تھوڑا کر کے بہت کچھ ہو جاتا ہے"**  
 *"Little by little, a lot gets done!"*
 
-<span dir="ltr">You're doing great!</span> <span dir="ltr">Keep practicing!</span> 💪🎉
+You're doing great! Keep practicing! 💪🎉
 
 ---
 

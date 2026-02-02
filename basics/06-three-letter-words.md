@@ -7,7 +7,7 @@
 
 ### 📚 Welcome to Chapter 6!
 
-<span dir="ltr">Great job with 2-letter words!</span> Now let's move to **3-letter words** - <span dir="ltr">the foundation of most Urdu vocabulary!</span>
+Great job with 2-letter words! Now let's move to **3-letter words** - the foundation of most Urdu vocabulary!
 
 **مدت / Duration:** 5-6 days of practice  
 **الفاظ / Words:** 50+ three-letter words  
@@ -17,7 +17,7 @@
 
 <div dir="ltr">
 
-## 🎯 Why 3-Letter Words Matter<span dir="ltr">Most basic Urdu words have 3 letters. Once you master these, you can read 60-70% of simple Urdu text</span>
+## 🎯 Why 3-Letter Words MatterMost basic Urdu words have 3 letters. Once you master these, you can read 60-70% of simple Urdu text
 
 </div>
 
@@ -188,7 +188,7 @@
 
 <div dir="ltr">
 
-### Exercise 1 Word Recognition<span dir="ltr">Read these words quickly (30 seconds)</span>
+### Exercise 1 Word RecognitionRead these words quickly (30 seconds)
 
 </div>
 
@@ -196,7 +196,7 @@
 
 **ماں، باپ، بیٹا، بہن، بھائی، دادا، دادی، نانا، نانی، چچا**
 
-### Exercise 2: Category Sorting<span dir="ltr">Which category do these words belong to?</span>
+### Exercise 2: Category SortingWhich category do these words belong to?
 
 </div>
 
@@ -208,33 +208,33 @@
 4. **آنکھ** → ?
 5. **لال** → ?
 
-**<span dir="ltr">Answers:</span>** <span dir="ltr">1. Animals, 2. Food, 3. Nature, 4. Body, 5. Colors</span>
+**Answers:** 1. Animals, 2. Food, 3. Nature, 4. Body, 5. Colors
 
-### Exercise 3: Fill in the Blanks<span dir="ltr">Complete with the right word:</span>
-
-</div>
-
-<div class="practice-box">
-
-1. آسمان میں _____ چمکتا ہے۔ <span dir="ltr">(The sun shines in the sky)</span>
-   - **<span dir="ltr">Answer:</span>** سورج
-
-2. میں _____ پیتا ہوں۔ <span dir="ltr">(I drink water)</span>
-   - **<span dir="ltr">Answer:</span>** پانی
-
-3. میری _____ بہت پیاری ہے۔ <span dir="ltr">(My mother is very lovely)</span>
-   - **<span dir="ltr">Answer:</span>** ماں
-
-### Exercise 4: Build Sentences<span dir="ltr">Use these words to make simple sentences:</span>
+### Exercise 3: Fill in the BlanksComplete with the right word:
 
 </div>
 
 <div class="practice-box">
 
-**<span dir="ltr">Example:</span>** <span dir="ltr">میں + روٹی + کھاتا ہوں</span>  
-= **میں روٹی کھاتا ہوں۔** <span dir="ltr">(I eat bread)</span>
+1. آسمان میں _____ چمکتا ہے۔ (The sun shines in the sky)
+   - **Answer:** سورج
 
-**<span dir="ltr">Your turn:</span>**
+2. میں _____ پیتا ہوں۔ (I drink water)
+   - **Answer:** پانی
+
+3. میری _____ بہت پیاری ہے۔ (My mother is very lovely)
+   - **Answer:** ماں
+
+### Exercise 4: Build SentencesUse these words to make simple sentences:
+
+</div>
+
+<div class="practice-box">
+
+**Example:** میں + روٹی + کھاتا ہوں  
+= **میں روٹی کھاتا ہوں۔** (I eat bread)
+
+**Your turn:**
 1. بلی + دودھ + پیتی ہے
 2. شیر + جنگل + میں + رہتا ہے
 3. پانی + ٹھنڈا + ہے
@@ -245,7 +245,7 @@
 
 <div dir="ltr">
 
-## 📚 Vowel Combinations### <span dir="ltr">Remember اعراب matter</span>
+## 📚 Vowel Combinations### Remember اعراب matter
 
 Same letters, different vowels = different words
 
@@ -261,7 +261,7 @@ Same letters, different vowels = different words
 
 <div dir="ltr">
 
-## 🎯 Speed Reading Practice### <span dir="ltr">Set 1 Read in 1 minute</span>
+## 🎯 Speed Reading Practice### Set 1 Read in 1 minute
 
 </div>
 **ماں، باپ، بیٹا، بیٹی، بہن، بھائی، دادا، دادی، نانا، نانی، چچا، پھوپھی، ماموں، خالہ**

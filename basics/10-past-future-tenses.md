@@ -27,13 +27,13 @@ future)
 
 </div>
 |-------|------|---------|
-| **Present** (حال) | Now/Always | <span dir="ltr">میں کھاتا ہوں (I eat)</span> |
-| **Past** (ماضی) | Already happened | <span dir="ltr">میں نے کھایا (I ate)</span> |
-| **Future** (مستقبل) | Will happen | <span dir="ltr">میں کھاؤں گا (I will eat)</span> |
+| **Present** (حال) | Now/Always | میں کھاتا ہوں (I eat) |
+| **Past** (ماضی) | Already happened | میں نے کھایا (I ate) |
+| **Future** (مستقبل) | Will happen | میں کھاؤں گا (I will eat) |
 
 <div dir="ltr">
 
-## 📖 Past Tense (ماضی)### <span dir="ltr">Format Subject + **نے** + Object + Verb (past form)</span>
+## 📖 Past Tense (ماضی)### Format Subject + **نے** + Object + Verb (past form)
 
 ### Past Tense Verb Endings| Subject | Masculine | Feminine |
 
@@ -56,7 +56,7 @@ Basic Past Sentences
 
 <div class="practice-box">
 
-**<span dir="ltr">Masculine Subject:</span>**
+**Masculine Subject:**
 
 1. **میں نے کھایا۔**  
 <div dir="ltr">
@@ -82,7 +82,7 @@ Basic Past Sentences
 (We saw)
 
 </div>
-**<span dir="ltr">Feminine Subject:</span>**
+**Feminine Subject:**
 
 1. **میں نے کھایا۔** (male) → **میں نے کھائی۔** (female)  
 <div dir="ltr">
@@ -129,7 +129,7 @@ Basic Past Sentences
 
 </div>
 
-**<span dir="ltr">Daily Activities:</span>**
+**Daily Activities:**
 
 1. **میں نے ناشتہ کیا۔**  
 <div dir="ltr">
@@ -161,7 +161,7 @@ Basic Past Sentences
 (Children played)
 
 </div>
-**<span dir="ltr">Yesterday:</span>**
+**Yesterday:**
 
 1. **کل میں نے فلم دیکھی۔**  
 <div dir="ltr">
@@ -181,7 +181,7 @@ Basic Past Sentences
 
 <div dir="ltr">
 
-## 📖 Future Tense (مستقبل)### <span dir="ltr">Format Subject + Verb (future form) + گا/گی/گے</span>
+## 📖 Future Tense (مستقبل)### Format Subject + Verb (future form) + گا/گی/گے
 
 ### Future Tense Endings| Subject | Masculine | Feminine |
 
@@ -204,7 +204,7 @@ Basic Future Sentences
 
 <div class="practice-box">
 
-**<span dir="ltr">Masculine:</span>**
+**Masculine:**
 
 1. **میں جاؤں گا۔**  
 <div dir="ltr">
@@ -230,7 +230,7 @@ Basic Future Sentences
 (We will see)
 
 </div>
-**<span dir="ltr">Feminine:</span>**
+**Feminine:**
 
 1. **میں جاؤں گی۔**  
 <div dir="ltr">
@@ -275,7 +275,7 @@ Basic Future Sentences
 
 </div>
 
-**<span dir="ltr">Tomorrow:</span>**
+**Tomorrow:**
 
 1. **کل میں سکول جاؤں گا۔**  
 <div dir="ltr">
@@ -295,7 +295,7 @@ Basic Future Sentences
 (Tomorrow it will rain)
 
 </div>
-**<span dir="ltr">Plans:</span>**
+**Plans:**
 
 1. **میں اُردو سیکھوں گا۔**  
 <div dir="ltr">
@@ -383,7 +383,7 @@ Write the same sentence in all three tenses
 
 <div class="practice-box">
 
-**<span dir="ltr">"I go to school"</span>**
+**"I go to school"**
 
 -<div dir="ltr">
 
@@ -487,7 +487,7 @@ You can now express yourself in all three time periods
 
 </div>
 
-**<span dir="ltr">Next:</span>** <div dir="ltr">
+**Next:** <div dir="ltr">
 
 Chapter 11 - Learn to read and understand longer passages
 

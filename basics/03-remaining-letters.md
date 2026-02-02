@@ -7,7 +7,7 @@
 
 ### 📚 Welcome to Chapter 3!
 
-<span dir="ltr">Excellent progress!</span> You've learned 20 essential letters. Now let's complete your alphabet knowledge with the **remaining 18 letters**.
+Excellent progress! You've learned 20 essential letters. Now let's complete your alphabet knowledge with the **remaining 18 letters**.
 
 **مدت / Duration:** 5-6 days of practice  
 **حروف / Letters:** 18 less common but important letters  
@@ -165,7 +165,7 @@ Read these words using ALL three chapters
 
 <div dir="ltr">
 
-### Day 1 First 9 Letters- <span dir="ltr">Learn ٹ، ڈ، ڑ، ث، ح، ذ، ز، ژ، ش</span>
+### Day 1 First 9 Letters- Learn ٹ، ڈ، ڑ، ث، ح، ذ، ز، ژ، ش
 
 </div>
 - Write each 10 times
@@ -173,7 +173,7 @@ Read these words using ALL three chapters
 
 <div dir="ltr">
 
-### Day 2 Next 9 Letters- <span dir="ltr">Learn ص، ض، ط، ظ، ع، غ، ف، گ، ے</span>
+### Day 2 Next 9 Letters- Learn ص، ض، ط، ظ، ع، غ، ف، گ، ے
 
 </div>
 - Write each 10 times
@@ -225,6 +225,6 @@ By the end of this chapter, you should be able to
 You've completed the full Urdu alphabet
 
 </div>
-<span dir="ltr">Next up:</span> **Chapter 4** - <span dir="ltr">Learn how letters join together to form words!</span>
+Next up: **Chapter 4** - Learn how letters join together to form words!
 
 **آگے بڑھیں!** (Keep moving forward!)

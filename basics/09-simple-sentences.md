@@ -7,7 +7,7 @@
 
 ### 📚 Welcome to Phase 3: Sentences & Reading!
 
-<span dir="ltr">Congratulations on reaching the final phase!</span> Now it's time to put everything together and **make complete sentences**!
+Congratulations on reaching the final phase! Now it's time to put everything together and **make complete sentences**!
 
 **مدت / Duration:** 5-6 days of practice  
 **نیا تصور / New Concept:** Sentence structure, word order  
@@ -17,26 +17,26 @@
 
 <div dir="ltr">
 
-## 🎯 Urdu Sentence Structure### <span dir="ltr">Basic Word Order **Subject + Object + Verb**</span>
+## 🎯 Urdu Sentence Structure### Basic Word Order **Subject + Object + Verb**
 
 </div>
 
-**<span dir="ltr">Example:</span>**
-- <span dir="ltr">میں (I) + پانی (water) + پیتا ہوں (drink)</span>  
-- **میں پانی پیتا ہوں۔** <span dir="ltr">(I drink water)</span>
+**Example:**
+- میں (I) + پانی (water) + پیتا ہوں (drink)  
+- **میں پانی پیتا ہوں۔** (I drink water)
 <div dir="ltr">
 
 This is DIFFERENT from English
 
 </div>
-- <span dir="ltr">English: I + drink + water (S-V-O)</span>
-- <span dir="ltr">Urdu: میں + پانی + پیتا ہوں (S-O-V)</span>
+- English: I + drink + water (S-V-O)
+- Urdu: میں + پانی + پیتا ہوں (S-O-V)
 
 ---
 
 <div dir="ltr">
 
-## 📖 Pattern 1 Simple Present Tense### <span dir="ltr">Format Subject + Verb (present form)</span>
+## 📖 Pattern 1 Simple Present Tense### Format Subject + Verb (present form)
 
 </div>
 
@@ -56,7 +56,7 @@ This is DIFFERENT from English
 
 <div dir="ltr">
 
-## 📖 Pattern 2 "To Be" Sentences (ہے / ہیں)### <span dir="ltr">Format Subject + Adjective/Noun + ہے/ہیں</span>
+## 📖 Pattern 2 "To Be" Sentences (ہے / ہیں)### Format Subject + Adjective/Noun + ہے/ہیں
 
 </div>
 
@@ -72,7 +72,7 @@ This is DIFFERENT from English
 
 </div>
 
-**<span dir="ltr">Rule:</span>** 
+**Rule:** 
 - Singular → **ہے** (hai)
 - Plural → **ہیں** (hain)
 
@@ -80,7 +80,7 @@ This is DIFFERENT from English
 
 <div dir="ltr">
 
-## 📖 Pattern 3 Negative Sentences (نہیں)### <span dir="ltr">Format Subject + Object + **نہیں** + Verb</span>
+## 📖 Pattern 3 Negative Sentences (نہیں)### Format Subject + Object + **نہیں** + Verb
 
 </div>
 
@@ -97,13 +97,13 @@ This is DIFFERENT from English
 
 </div>
 
-**<span dir="ltr">Tip:</span>** <span dir="ltr">Just add **نہیں** (nahin) before the verb!</span>
+**Tip:** Just add **نہیں** (nahin) before the verb!
 
 ---
 
 <div dir="ltr">
 
-## 📖 Pattern 4 Question Sentences### <span dir="ltr">Method 1 Add **کیا** at the beginning</span>
+## 📖 Pattern 4 Question Sentences### Method 1 Add **کیا** at the beginning
 
 </div>
 
@@ -122,18 +122,18 @@ This is DIFFERENT from English
 
 | Question Word | Urdu | Example |
 |---------------|------|---------|
-| What | **کیا** | **تم کیا کرتے ہو؟** <span dir="ltr">(What do you do?)</span> |
-| Who | **کون** | **یہ کون ہے؟** <span dir="ltr">(Who is this?)</span> |
-| Where | **کہاں** | **وہ کہاں ہے؟** <span dir="ltr">(Where is he?)</span> |
-| When | **کب** | **تم کب آؤگے؟** <span dir="ltr">(When will you come?)</span> |
-| Why | **کیوں** | **تم کیوں روتے ہو؟** <span dir="ltr">(Why do you cry?)</span> |
-| How | **کیسے** | **یہ کیسے ہوا؟** <span dir="ltr">(How did this happen?)</span> |
+| What | **کیا** | **تم کیا کرتے ہو؟** (What do you do?) |
+| Who | **کون** | **یہ کون ہے؟** (Who is this?) |
+| Where | **کہاں** | **وہ کہاں ہے؟** (Where is he?) |
+| When | **کب** | **تم کب آؤگے؟** (When will you come?) |
+| Why | **کیوں** | **تم کیوں روتے ہو؟** (Why do you cry?) |
+| How | **کیسے** | **یہ کیسے ہوا؟** (How did this happen?) |
 
 ---
 
 <div dir="ltr">
 
-## 📖 Common Sentence Patterns### <span dir="ltr">Pattern 1 Daily Actions</span>
+## 📖 Common Sentence Patterns### Pattern 1 Daily Actions
 
 </div>
 
@@ -278,7 +278,7 @@ This is DIFFERENT from English
    (He goes but I don't go)
 
 3. **تم چائے یا کافی پیتے ہو؟**  
-   (<span dir="ltr">Do you drink tea or coffee?</span>)
+   (Do you drink tea or coffee?)
 
 ---
 
@@ -346,10 +346,10 @@ By the end of this chapter, you should be able to
 
 <div dir="ltr">
 
-## 🎉 Excellent Progress<span dir="ltr">You can now make complete Urdu sentences</span>
+## 🎉 Excellent ProgressYou can now make complete Urdu sentences
 
 </div>
 
-**<span dir="ltr">Next:</span>** <span dir="ltr">Chapter 10 - Expand your sentence skills with more tenses and complex structures!</span>
+**Next:** Chapter 10 - Expand your sentence skills with more tenses and complex structures!
 
 **بہترین!** (Excellent!)

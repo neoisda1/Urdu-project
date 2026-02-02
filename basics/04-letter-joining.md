@@ -7,7 +7,7 @@
 
 ### 📚 Master How Letters Connect!
 
-Now that you know all 38 Urdu letters, it's time to learn **how they join together** <span dir="ltr">to form words!</span>
+Now that you know all 38 Urdu letters, it's time to learn **how they join together** to form words!
 
 In Urdu, most letters connect to each other when forming words. Each letter can have up to **4 different forms**:
 
@@ -55,7 +55,7 @@ In Urdu, most letters connect to each other when forming words. Each letter can 
 
 <div dir="ltr">
 
-## 🎯 Important Non-Connecting Letters**<span dir="ltr">6 letters</span>** do NOT connect to the letter AFTER them
+## 🎯 Important Non-Connecting Letters**6 letters** do NOT connect to the letter AFTER them
 
 </div>
 
@@ -69,11 +69,11 @@ These letters only have **2 forms** isolated and final
 
 </div>
 
-### Example with **د** (Daal):- <span dir="ltr">**Isolated:** د</span>
+### Example with **د** (Daal):- **Isolated:** د
 
 </div>
-- <span dir="ltr">**Final:** ـد</span>
-- **<span dir="ltr">No initial or medial forms!</span>**
+- **Final:** ـد
+- **No initial or medial forms!**
 
 ---
 
@@ -142,11 +142,11 @@ These letters only have **2 forms** isolated and final
 
 <div dir="ltr">
 
-## 💪 Practice Building Words### <span dir="ltr">Exercise 1 Two-Letter Words</span>
+## 💪 Practice Building Words### Exercise 1 Two-Letter Words
 
 </div>
 
-**<span dir="ltr">Combine these letters:</span>**
+**Combine these letters:**
 
 <div class="practice-box">
 
@@ -164,7 +164,7 @@ These letters only have **2 forms** isolated and final
 3. **پ + ا + ن** = **پان** (betel leaf)
 4. **گ + ل** = **گل** (flower)
 
-### Exercise 3: Identify Forms<span dir="ltr">Look at these words and identify which form each letter uses:</span>
+### Exercise 3: Identify FormsLook at these words and identify which form each letter uses:
 
 </div>
 
@@ -189,13 +189,13 @@ These letters only have **2 forms** isolated and final
 
 <div dir="ltr">
 
-### The Laam-Alif Ligature (لا)<span dir="ltr">When **ل** (Laam) and **ا** (Alif) come together, they form a special combined shape</span>
+### The Laam-Alif Ligature (لا)When **ل** (Laam) and **ا** (Alif) come together, they form a special combined shape
 
 </div>
 
-**<span dir="ltr">ل + ا = لا</span>**
+**ل + ا = لا**
 
-**<span dir="ltr">Examples:</span>**
+**Examples:**
 - **لال** (laal) = red
 - **لاہور** (laahore) = Lahore (city)
 - **بلا** (bilaa) = without
@@ -286,7 +286,7 @@ By the end of this chapter, you should be able to
 
 <div dir="ltr">
 
-## 🎉 Phase 1 Complete<span dir="ltr">Congratulations You've finished **PHASE 1 LETTERS**</span>
+## 🎉 Phase 1 CompleteCongratulations You've finished **PHASE 1 LETTERS**
 
 You now know
 
@@ -296,4 +296,4 @@ You now know
 - ✅ How letters connect
 - ✅ How to build words
 
-**<span dir="ltr">Next:</span>** <span dir="ltr">Phase 2 - Word Building! Let's start making real words!</span>
+**Next:** Phase 2 - Word Building! Let's start making real words!

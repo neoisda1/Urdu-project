@@ -76,19 +76,18 @@ These letters appear in almost every Urdu word, so mastering them is essential
 10. **م** → m, m, m, m, m
 
 ### Exercise 3: Match the Letter
+
 **Match the letter with its sound:**
 
-```
-ا → ?    <span dir="ltr">(a, b, p, t)</span>
-ب → ?    <span dir="ltr">(a, b, p, t)</span>
-پ → ?    <span dir="ltr">(a, b, p, t)</span>
-ت → ?    <span dir="ltr">(a, b, p, t)</span>
-```
+- ا → ? (a, b, p, t)
+- ب → ? (a, b, p, t)
+- پ → ? (a, b, p, t)
+- ت → ? (a, b, p, t)
 
 **Answers:** ا→a, ب→b, پ→p, ت→t
 
 ### Exercise 4: Find the Letter
-**<span dir="ltr">Which letter makes these sounds?</span>**
+**Which letter makes these sounds?**
 
 1. "m" sound → **م**
 2. "s" sound → **س**

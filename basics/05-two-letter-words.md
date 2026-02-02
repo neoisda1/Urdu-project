@@ -7,9 +7,9 @@
 
 ### 🎉 Congratulations! You've Completed Phase 1!
 
-You now know **all 38 Urdu letters**! <span dir="ltr">That's amazing!</span> 🎓✨
+You now know **all 38 Urdu letters**! That's amazing! 🎓✨
 
-Now it's time to **build words** <span dir="ltr">and start reading real Urdu!</span> <span dir="ltr">In this chapter, you'll learn:</span>
+Now it's time to **build words** and start reading real Urdu! In this chapter, you'll learn:
 - How vowel marks (اعراب) change letter sounds
 - 30 simple 2-letter words
 - How to pronounce words correctly
@@ -22,7 +22,7 @@ Now it's time to **build words** <span dir="ltr">and start reading real Urdu!</s
 
 <div dir="ltr">
 
-## 🎯 What are Vowel Marks (اعراب)?<span dir="ltr">Vowel marks are **small symbols** written above or below letters to show how to pronounce them. They're like pronunciation guides</span>
+## 🎯 What are Vowel Marks (اعراب)?Vowel marks are **small symbols** written above or below letters to show how to pronounce them. They're like pronunciation guides
 
 ### The 3 Main Vowel Marks| Mark | Name | Sound | Example |
 
@@ -36,7 +36,7 @@ Now it's time to **build words** <span dir="ltr">and start reading real Urdu!</s
 
 <div dir="ltr">
 
-## 📖 Understanding Vowel Marks### <span dir="ltr">Example with letter **ب** (Bay)</span>
+## 📖 Understanding Vowel Marks### Example with letter **ب** (Bay)
 
 Without vowel mark **ب** (just "b" sound)
 
@@ -62,7 +62,7 @@ With vowel marks
 
 <div dir="ltr">
 
-## 📚 30 Essential 2-Letter Words### <span dir="ltr">Group 1 Very Common Words (10 words)</span>
+## 📚 30 Essential 2-Letter Words### Group 1 Very Common Words (10 words)
 
 </div>
 
@@ -119,7 +119,7 @@ With vowel marks
 
 <div dir="ltr">
 
-### Exercise 1 Add the Correct Vowel Mark**<span dir="ltr">Add zabar (َ) to these letters</span>**
+### Exercise 1 Add the Correct Vowel Mark**Add zabar (َ) to these letters**
 
 </div>
 
@@ -131,7 +131,7 @@ With vowel marks
 
 <div dir="ltr">
 
-### Exercise 2 Read These Words**<span dir="ltr">Try to read these words with vowel marks</span>**
+### Exercise 2 Read These Words**Try to read these words with vowel marks**
 
 </div>
 
@@ -155,7 +155,7 @@ With vowel marks
 
 <div dir="ltr">
 
-### Exercise 4 Build Words**<span dir="ltr">Can you form these words using letters?</span>**
+### Exercise 4 Build Words**Can you form these words using letters?**
 
 </div>
 
@@ -176,7 +176,7 @@ With vowel marks
 - **سَب** (sab) = all
 - **کَم** (kam) = less
 
-**<span dir="ltr">Tip:</span>** <span dir="ltr">Keep it short and crisp, like "a" in "cat"</span>
+**Tip:** Keep it short and crisp, like "a" in "cat"
 
 <div dir="ltr">
 
@@ -185,7 +185,7 @@ With vowel marks
 </div>
 - **سِر** (sir) = head
 
-**<span dir="ltr">Tip:</span>** <span dir="ltr">Like "i" in "sit"</span>
+**Tip:** Like "i" in "sit"
 
 <div dir="ltr">
 
@@ -194,13 +194,13 @@ With vowel marks
 </div>
 - **گُل** (gul) = flower
 
-**<span dir="ltr">Tip:</span>** <span dir="ltr">Like "u" in "put"</span>
+**Tip:** Like "u" in "put"
 
 ---
 
 <div dir="ltr">
 
-## 🏆 Common Phrases with 2-Letter Words### <span dir="ltr">Using these words in context</span>
+## 🏆 Common Phrases with 2-Letter Words### Using these words in context
 
 </div>
 
@@ -240,7 +240,7 @@ With vowel marks
 
 <div dir="ltr">
 
-### Day 4- <span dir="ltr">Speed reading drill</span> All 30 words
+### Day 4- Speed reading drill All 30 words
 
 </div>
 - Practice writing words from memory
@@ -251,8 +251,8 @@ With vowel marks
 ### Day 5- Review everything
 
 </div>
-- <span dir="ltr">Test yourself without looking!</span>
-- <span dir="ltr">Prepare for Chapter 6 (3-letter words!</span>)
+- Test yourself without looking!
+- Prepare for Chapter 6 (3-letter words!)
 
 ---
 
@@ -273,25 +273,25 @@ By the end of this chapter, you will
 
 <div dir="ltr">
 
-## ➡️ Next Chapter Preview<span dir="ltr">In **Chapter 6**, you will learn</span>
+## ➡️ Next Chapter PreviewIn **Chapter 6**, you will learn
 
 </div>
-- <span dir="ltr">50 common 3-letter words</span>
-- <span dir="ltr">Family words: ماں، باپ، بیٹا</span>
-- <span dir="ltr">Body parts: سر، آنکھ، ہاتھ</span>
-- <span dir="ltr">Nature words: پانی، آگ، ہوا</span>
-- <span dir="ltr">Special combinations: لا، ال، کی، می</span>
+- 50 common 3-letter words
+- Family words: ماں، باپ، بیٹا
+- Body parts: سر، آنکھ، ہاتھ
+- Nature words: پانی، آگ، ہوا
+- Special combinations: لا، ال، کی، می
 
 ---
 
 <div dir="ltr">
 
-## 🎯 Challenge Create Your Own Words**<span dir="ltr">Try combining these letters with vowel marks</span>**
+## 🎯 Challenge Create Your Own Words**Try combining these letters with vowel marks**
 
 Using ب، ت، د، ل، م، س، ک
 
 </div>
-<span dir="ltr">Can you create 5 two-letter words?</span> ✍️
+Can you create 5 two-letter words? ✍️
 
 ---
 
@@ -300,7 +300,7 @@ Using ب، ت، د، ل، م، س، ک
 **"الفاظ سے جملے بنتے ہیں"**  
 *"Words become sentences"*
 
-<span dir="ltr">You're building the foundation for reading!</span> <span dir="ltr">Every word counts!</span> 📖✨
+You're building the foundation for reading! Every word counts! 📖✨
 
 ---
 

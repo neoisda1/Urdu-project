@@ -7,7 +7,7 @@
 
 ### 📚 Welcome to Chapter 7!
 
-<span dir="ltr">Excellent!</span> You can now read simple 2 and 3-letter words. Time to tackle **longer words** (4+ <span dir="ltr">letters)!</span>
+Excellent! You can now read simple 2 and 3-letter words. Time to tackle **longer words** (4+ letters)!
 
 **مدت / Duration:** 5-6 days of practice  
 **الفاظ / Words:** 60+ words with 4 or more letters  
@@ -17,7 +17,7 @@
 
 <div dir="ltr">
 
-## 🎯 Building Longer Words<span dir="ltr">Longer words are just combinations of the letters and patterns you already know. Don't be intimidated - break them down letter by letter</span>
+## 🎯 Building Longer WordsLonger words are just combinations of the letters and patterns you already know. Don't be intimidated - break them down letter by letter
 
 </div>
 
@@ -222,7 +222,7 @@
 
 <div dir="ltr">
 
-### Exercise 1 Break It Down<span dir="ltr">Break these words into individual letters</span>
+### Exercise 1 Break It DownBreak these words into individual letters
 
 </div>
 
@@ -233,7 +233,7 @@
 3. **مہینہ** = م + ہ + ی + ن + ہ
 4. **استاد** = ا + س + ت + ا + د
 
-### Exercise 2: Match the Categories<span dir="ltr">Which category do these words belong to?</span>
+### Exercise 2: Match the CategoriesWhich category do these words belong to?
 
 </div>
 
@@ -249,14 +249,14 @@
 
 </div>
 
-1. میں _____ جاتا ہوں۔ <span dir="ltr">(I go to school)</span>
-   **<span dir="ltr">Answer:</span>** سکول
+1. میں _____ جاتا ہوں۔ (I go to school)
+   **Answer:** سکول
 
-2. آج _____ ہے۔ <span dir="ltr">(Today is Monday)</span>
-   **<span dir="ltr">Answer:</span>** پیر
+2. آج _____ ہے۔ (Today is Monday)
+   **Answer:** پیر
 
-3. یہ میری _____ ہے۔ <span dir="ltr">(This is my book)</span>
-   **<span dir="ltr">Answer:</span>** کتاب
+3. یہ میری _____ ہے۔ (This is my book)
+   **Answer:** کتاب
 
 </div>
 
@@ -282,7 +282,7 @@ Use these words to make sentences
 
 <div dir="ltr">
 
-## 🎯 Speed Reading Practice### <span dir="ltr">Set 1 Places (1 minute)</span>
+## 🎯 Speed Reading Practice### Set 1 Places (1 minute)
 
 </div>
 **گھر، مکان، سکول، مسجد، ہسپتال، دکان، بازار، باغ، پارک**
@@ -358,10 +358,10 @@ By the end of this chapter, you should be able to
 
 <div dir="ltr">
 
-## 🎉 Fantastic Work<span dir="ltr">You've built a strong vocabulary Over 100 words total now</span>
+## 🎉 Fantastic WorkYou've built a strong vocabulary Over 100 words total now
 
 </div>
 
-**<span dir="ltr">Next:</span>** <span dir="ltr">Chapter 8 - Learn word families and patterns to expand vocabulary even faster!</span>
+**Next:** Chapter 8 - Learn word families and patterns to expand vocabulary even faster!
 
 **بہت اچھا!** (Very good!)
