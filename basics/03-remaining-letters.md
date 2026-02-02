@@ -91,8 +91,8 @@ Group these similar-looking letters
 
 | Group | Letters |
 |-------|---------|
-| **Dots below** | ب، پ، ت، ٹ، ث |
-| **Dots above** | ج، چ، خ، ز، ژ |
+| **Dots below** | ب، پ |
+| **Dots above** | ت، ٹ، ث، ج، چ، خ، ز، ژ |
 | **Heavy letters** | ث، ح، ص، ض، ط، ظ، ع، غ، ق |
 | **Tail letters** | ر، ڑ، ز، ژ، د، ڈ، ذ |
 
