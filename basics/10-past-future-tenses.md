@@ -1,9 +1,19 @@
-# <span dir="ltr">Chapter 10:</span> Past & Future Tenses  
+<div dir="ltr">
+
+# Chapter 10:Past & Future Tenses  
+
+</div>
 ## باب ۱۰: ماضی اور مستقبل
 
-### 📚 Time to Talk About Past and Future!
+### 📚 Time to Talk About Past and Future!<div dir="ltr">
 
-<span dir="ltr">You've mastered present tense!</span> Now learn to talk about what **happened** (past) and what **will happen** (<span dir="ltr">future)!</span>
+You've mastered present tense!
+
+</div> Now learn to talk about what **happened** (past) and what **will happen** (<div dir="ltr">
+
+future)!
+
+</div>
 
 **مدت / Duration:** 5 days of practice  
 **نیا تصور / New Concept:** Past and future tense formation  
@@ -11,52 +21,75 @@
 
 ---
 
-## <span dir="ltr">🎯 The Three Tenses</span>
+<div dir="ltr">
 
-| Tense | When | Example |
+## 🎯 The Three Tenses| Tense | When | Example |
+
+</div>
 |-------|------|---------|
 | **Present** (حال) | Now/Always | <span dir="ltr">میں کھاتا ہوں (I eat)</span> |
 | **Past** (ماضی) | Already happened | <span dir="ltr">میں نے کھایا (I ate)</span> |
 | **Future** (مستقبل) | Will happen | <span dir="ltr">میں کھاؤں گا (I will eat)</span> |
 
-## <span dir="ltr">📖 Past Tense (ماضی)</span>
+<div dir="ltr">
 
-### <span dir="ltr">Format: Subject + **نے** + Object + Verb (past form)</span>
+## 📖 Past Tense (ماضی)### <span dir="ltr">Format: Subject + **نے** + Object + Verb (past form)</span>
 
-### <span dir="ltr">Past Tense Verb Endings:</span>
+### Past Tense Verb Endings:| Subject | Masculine | Feminine |
 
-| Subject | Masculine | Feminine |
+</div>
 |---------|-----------|----------|
 | **I / You / He** | **ـا** (-a) | **ـی** (-i) |
 | **We / You(pl) / They** | **ـے** (-e) | **ـیں** (-in) |
 
 ---
 
-## <span dir="ltr">📖 Past Tense Examples</span>
+<div dir="ltr">
 
-### <span dir="ltr">Basic Past Sentences:</span>
+## 📖 Past Tense Examples###<div dir="ltr">
+
+Basic Past Sentences:
+
+</div>
+
+</div>
 
 <div class="practice-box">
 
 **<span dir="ltr">Masculine Subject:</span>**
 
 1. **میں نے کھایا۔**  
-   <span dir="ltr">(I ate - male speaking)</span>
+<div dir="ltr">
 
+(I ate - male speaking)
+
+</div>
 2. **تم نے پیا۔**  
-   <span dir="ltr">(You drank - male)</span>
+<div dir="ltr">
 
+(You drank - male)
+
+</div>
 3. **اُس نے پڑھا۔**  
-   <span dir="ltr">(He read)</span>
+<div dir="ltr">
 
+(He read)
+
+</div>
 4. **ہم نے دیکھا۔**  
-   <span dir="ltr">(We saw)</span>
+<div dir="ltr">
 
+(We saw)
+
+</div>
 **<span dir="ltr">Feminine Subject:</span>**
 
 1. **میں نے کھایا۔** (male) → **میں نے کھائی۔** (female)  
-   <span dir="ltr">(I ate - female speaking)</span>
+<div dir="ltr">
 
+(I ate - female speaking)
+
+</div>
 2. **وہ گئی۔**  
    (She went)
 
@@ -67,9 +100,11 @@
 
 ---
 
-## <span dir="ltr">📖 Common Past Tense Verbs</span>
+<div dir="ltr">
 
-<div class="practice-box">
+## 📖 Common Past Tense Verbs<div class="practice-box">
+
+</div>
 
 | Infinitive | Past (M) | Past (F) | English |
 |------------|----------|----------|---------|
@@ -88,32 +123,52 @@
 
 ---
 
-## <span dir="ltr">📖 Past Tense Practice Sentences</span>
+<div dir="ltr">
 
-<div class="practice-box">
+## 📖 Past Tense Practice Sentences<div class="practice-box">
+
+</div>
 
 **<span dir="ltr">Daily Activities:</span>**
 
 1. **میں نے ناشتہ کیا۔**  
-   <span dir="ltr">(I had breakfast)</span>
+<div dir="ltr">
 
+(I had breakfast)
+
+</div>
 2. **ہم نے سکول گئے۔**  
-   <span dir="ltr">(We went to school)</span>
+<div dir="ltr">
 
+(We went to school)
+
+</div>
 3. **تم نے کتاب پڑھی۔**  
-   <span dir="ltr">(You read the book)</span>
+<div dir="ltr">
 
+(You read the book)
+
+</div>
 4. **اُس نے پانی پیا۔**  
-   <span dir="ltr">(He/She drank water)</span>
+<div dir="ltr">
 
+(He/She drank water)
+
+</div>
 5. **بچوں نے کھیلا۔**  
-   <span dir="ltr">(Children played)</span>
+<div dir="ltr">
 
+(Children played)
+
+</div>
 **<span dir="ltr">Yesterday:</span>**
 
 1. **کل میں نے فلم دیکھی۔**  
-   <span dir="ltr">(Yesterday I watched a movie)</span>
+<div dir="ltr">
 
+(Yesterday I watched a movie)
+
+</div>
 2. **کل بارش ہوئی۔**  
    (Yesterday it rained)
 
@@ -124,44 +179,65 @@
 
 ---
 
-## <span dir="ltr">📖 Future Tense (مستقبل)</span>
+<div dir="ltr">
 
-### <span dir="ltr">Format: Subject + Verb (future form) + گا/گی/گے</span>
+## 📖 Future Tense (مستقبل)### <span dir="ltr">Format: Subject + Verb (future form) + گا/گی/گے</span>
 
-### <span dir="ltr">Future Tense Endings:</span>
+### Future Tense Endings:| Subject | Masculine | Feminine |
 
-| Subject | Masculine | Feminine |
+</div>
 |---------|-----------|----------|
 | **I / You / He** | **گا** (ga) | **گی** (gi) |
 | **We / You(pl) / They** | **گے** (ge) | **گی** (gi) |
 
 ---
 
-## <span dir="ltr">📖 Future Tense Examples</span>
+<div dir="ltr">
 
-### <span dir="ltr">Basic Future Sentences:</span>
+## 📖 Future Tense Examples###<div dir="ltr">
+
+Basic Future Sentences:
+
+</div>
+
+</div>
 
 <div class="practice-box">
 
 **<span dir="ltr">Masculine:</span>**
 
 1. **میں جاؤں گا۔**  
-   <span dir="ltr">(I will go - male)</span>
+<div dir="ltr">
 
+(I will go - male)
+
+</div>
 2. **تم کھاؤ گے۔**  
-   <span dir="ltr">(You will eat - male)</span>
+<div dir="ltr">
 
+(You will eat - male)
+
+</div>
 3. **وہ پڑھے گا۔**  
-   <span dir="ltr">(He will read)</span>
+<div dir="ltr">
 
+(He will read)
+
+</div>
 4. **ہم دیکھیں گے۔**  
-   <span dir="ltr">(We will see)</span>
+<div dir="ltr">
 
+(We will see)
+
+</div>
 **<span dir="ltr">Feminine:</span>**
 
 1. **میں جاؤں گی۔**  
-   <span dir="ltr">(I will go - female)</span>
+<div dir="ltr">
 
+(I will go - female)
+
+</div>
 2. **وہ کھائے گی۔**  
    (She will eat)
 
@@ -172,9 +248,11 @@
 
 ---
 
-## <span dir="ltr">📖 Common Future Tense Verbs</span>
+<div dir="ltr">
 
-<div class="practice-box">
+## 📖 Common Future Tense Verbs<div class="practice-box">
+
+</div>
 
 | Infinitive | Future (M) | Future (F) | English |
 |------------|------------|------------|---------|
@@ -191,26 +269,40 @@
 
 ---
 
-## <span dir="ltr">📖 Future Tense Practice Sentences</span>
+<div dir="ltr">
 
-<div class="practice-box">
+## 📖 Future Tense Practice Sentences<div class="practice-box">
+
+</div>
 
 **<span dir="ltr">Tomorrow:</span>**
 
 1. **کل میں سکول جاؤں گا۔**  
-   <span dir="ltr">(Tomorrow I will go to school)</span>
+<div dir="ltr">
 
+(Tomorrow I will go to school)
+
+</div>
 2. **کل ہم باہر کھائیں گے۔**  
-   <span dir="ltr">(Tomorrow we will eat out)</span>
+<div dir="ltr">
 
+(Tomorrow we will eat out)
+
+</div>
 3. **کل بارش ہو گی۔**  
-   <span dir="ltr">(Tomorrow it will rain)</span>
+<div dir="ltr">
 
+(Tomorrow it will rain)
+
+</div>
 **<span dir="ltr">Plans:</span>**
 
 1. **میں اُردو سیکھوں گا۔**  
-   <span dir="ltr">(I will learn Urdu)</span>
+<div dir="ltr">
 
+(I will learn Urdu)
+
+</div>
 2. **ہم فلم دیکھیں گے۔**  
    (We will watch a movie)
 
@@ -221,9 +313,11 @@
 
 ---
 
-## <span dir="ltr">📖 Time Words (وقت کے الفاظ)</span>
+<div dir="ltr">
 
-<div class="practice-box">
+## 📖 Time Words (وقت کے الفاظ)<div class="practice-box">
+
+</div>
 
 | Urdu | English | Used With |
 |------|---------|-----------|
@@ -236,11 +330,9 @@
 | **بعد میں** | later | Future |
 | **ابھی** | right now | Present |
 
+### Using Time Words:1. **میں کل گیا تھا۔**  
+
 </div>
-
-### <span dir="ltr">Using Time Words:</span>
-
-1. **میں کل گیا تھا۔**  
    (I went yesterday)
 
 2. **وہ کل آئے گا۔**  
@@ -253,9 +345,11 @@
 
 ## 💪 Practice Exercises
 
-### <span dir="ltr">Exercise 1: Convert to Past Tense</span>
+<div dir="ltr">
 
-<div class="practice-box">
+### Exercise 1: Convert to Past Tense<div class="practice-box">
+
+</div>
 
 1. **میں کھاتا ہوں۔** → **میں نے کھایا۔**  
    (I eat → I ate)
@@ -266,11 +360,9 @@
 3. **ہم پڑھتے ہیں۔** → **ہم نے پڑھا۔**  
    (We read → We read)
 
+### Exercise 2: Convert to Future Tense<div class="practice-box">
+
 </div>
-
-### <span dir="ltr">Exercise 2: Convert to Future Tense</span>
-
-<div class="practice-box">
 
 1. **میں کھاتا ہوں۔** → **میں کھاؤں گا۔**  
    (I eat → I will eat)
@@ -281,25 +373,37 @@
 3. **ہم دیکھتے ہیں۔** → **ہم دیکھیں گے۔**  
    (We see → We will see)
 
+### Exercise 3: Time Travel Sentences<div dir="ltr">
+
+Write the same sentence in all three tenses:
+
 </div>
 
-### <span dir="ltr">Exercise 3: Time Travel Sentences</span>
-
-<span dir="ltr">Write the same sentence in all three tenses:</span>
+</div>
 
 <div class="practice-box">
 
 **<span dir="ltr">"I go to school"</span>**
 
-- <span dir="ltr">Present:</span> **میں سکول جاتا ہوں۔**
-- <span dir="ltr">Past:</span> **میں سکول گیا۔**
-- <span dir="ltr">Future:</span> **میں سکول جاؤں گا۔**
+-<div dir="ltr">
+
+Present:
+
+</div> **میں سکول جاتا ہوں۔**
+-<div dir="ltr">
+
+Past:
+
+</div> **میں سکول گیا۔**
+-<div dir="ltr">
+
+Future:
+
+</div> **میں سکول جاؤں گا۔**
+
+### Exercise 4: Fill in Time Words<div class="practice-box">
 
 </div>
-
-### <span dir="ltr">Exercise 4: Fill in Time Words</span>
-
-<div class="practice-box">
 
 1. **_____ میں نے کھانا کھایا۔** (Yesterday I ate food)  
    **Answer:** کل
@@ -316,36 +420,53 @@
 
 ## 📅 5-Day Practice Schedule
 
-### <span dir="ltr">Day 1: Past Tense Formation</span>
-- Learn past tense endings (ـا، ـی، ـے، ـیں)
+<div dir="ltr">
+
+### Day 1: Past Tense Formation- Learn past tense endings (ـا، ـی، ـے، ـیں)
+
+</div>
 - Practice 10 common verbs in past
 - Exercise 1
 
-### <span dir="ltr">Day 2: Past Tense Sentences</span>
-- Write 20 past tense sentences
+<div dir="ltr">
+
+### Day 2: Past Tense Sentences- Write 20 past tense sentences
+
+</div>
 - Practice with نے
 - Learn gender agreement
 
-### <span dir="ltr">Day 3: Future Tense Formation</span>
-- Learn future tense endings (گا، گی، گے)
+<div dir="ltr">
+
+### Day 3: Future Tense Formation- Learn future tense endings (گا، گی، گے)
+
+</div>
 - Practice 10 common verbs in future
 - Exercise 2
 
-### <span dir="ltr">Day 4: Future Tense Sentences</span>
-- Write 20 future tense sentences
+<div dir="ltr">
+
+### Day 4: Future Tense Sentences- Write 20 future tense sentences
+
+</div>
 - Learn time words
 - Exercise 3 & 4
 
-### <span dir="ltr">Day 5: All Three Tenses</span>
-- Practice converting between tenses
+<div dir="ltr">
+
+### Day 5: All Three Tenses- Practice converting between tenses
+
+</div>
 - Write a paragraph about your day (past, present, future)
 - Complete all exercises
 
 ---
 
-## ✅ Learning Outcomes
+## ✅ Learning Outcomes<div dir="ltr">
 
-<span dir="ltr">By the end of this chapter, you should be able to:</span>
+By the end of this chapter, you should be able to:
+
+</div>
 - ✅ Form past tense sentences with نے
 - ✅ Use correct past tense endings (ـا، ـی، ـے، ـیں)
 - ✅ Form future tense with گا، گی، گے
@@ -356,10 +477,20 @@
 
 ---
 
-## <span dir="ltr">🎉 Amazing Work!</span>
+<div dir="ltr">
 
-<span dir="ltr">You can now express yourself in all three time periods!</span>
+## 🎉 Amazing Work!<div dir="ltr">
 
-**<span dir="ltr">Next:</span>** <span dir="ltr">Chapter 11 - Learn to read and understand longer passages!</span>
+You can now express yourself in all three time periods!
+
+</div>
+
+</div>
+
+**<span dir="ltr">Next:</span>** <div dir="ltr">
+
+Chapter 11 - Learn to read and understand longer passages!
+
+</div>
 
 **واہ!** (Wow!)

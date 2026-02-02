@@ -1,4 +1,8 @@
-# <span dir="ltr">Chapter 11:</span> Reading Comprehension  
+<div dir="ltr">
+
+# Chapter 11:Reading Comprehension  
+
+</div>
 ## باب ۱۱: سمجھ کر پڑھنا
 
 ### 📚 Time to Read Real Urdu!
@@ -11,9 +15,15 @@ You've learned letters, words, and sentences. Now let's put it all together and 
 
 ---
 
-## <span dir="ltr">🎯 Reading Strategy</span>
+<div dir="ltr">
 
-### <span dir="ltr">The 3-Step Method:</span>
+## 🎯 Reading Strategy###<div dir="ltr">
+
+The 3-Step Method:
+
+</div>
+
+</div>
 
 1. **پہلی بار** <span dir="ltr">(First Read): Read slowly, identify all words</span>
 2. **دوسری بار** <span dir="ltr">(Second Read): Read faster, understand meaning</span>
@@ -21,9 +31,11 @@ You've learned letters, words, and sentences. Now let's put it all together and 
 
 ---
 
-## <span dir="ltr">📖 Passage 1: میرا خاندان (My Family)</span>
+<div dir="ltr">
 
-<div class="practice-box">
+## 📖 Passage 1: میرا خاندان (My Family)<div class="practice-box">
+
+</div>
 
 **میرا نام احمد ہے۔ میں دس سال کا ہوں۔ میرے خاندان میں پانچ لوگ ہیں۔**
 
@@ -58,9 +70,11 @@ You've learned letters, words, and sentences. Now let's put it all together and 
 
 ---
 
-## <span dir="ltr">📖 Passage 2: میرا دن (My Day)</span>
+<div dir="ltr">
 
-<div class="practice-box">
+## 📖 Passage 2: میرا دن (My Day)<div class="practice-box">
+
+</div>
 
 **میں ہر روز صبح چھ بجے اٹھتا ہوں۔ پہلے میں منہ دھوتا ہوں اور برش کرتا ہوں۔ پھر میں ورزش کرتا ہوں۔**
 
@@ -95,9 +109,11 @@ You've learned letters, words, and sentences. Now let's put it all together and 
 
 ---
 
-## <span dir="ltr">📖 Passage 3: موسم (Weather & Seasons)</span>
+<div dir="ltr">
 
-<div class="practice-box">
+## 📖 Passage 3: موسم (Weather & Seasons)<div class="practice-box">
+
+</div>
 
 **پاکستان میں چار موسم ہوتے ہیں۔**
 
@@ -134,9 +150,11 @@ You've learned letters, words, and sentences. Now let's put it all together and 
 
 ---
 
-## <span dir="ltr">📖 Passage 4: جانوروں کی کہانی (Animal Story)</span>
+<div dir="ltr">
 
-<div class="practice-box">
+## 📖 Passage 4: جانوروں کی کہانی (Animal Story)<div class="practice-box">
+
+</div>
 
 **ایک دن ایک شیر جنگل میں سو رہا تھا۔ ایک چھوٹا چوہا کھیلتا ہوا شیر کے اوپر چڑھ گیا۔ شیر جاگ گیا اور غصے میں آ گیا۔**
 
@@ -182,31 +200,57 @@ You've learned letters, words, and sentences. Now let's put it all together and 
 
 ## 💪 Practice Exercises
 
-### <span dir="ltr">Exercise 1: Main Idea (مرکزی خیال)</span>
-<span dir="ltr">What is each passage mainly about?</span>
+<div dir="ltr">
 
-<div class="practice-box">
+### Exercise 1: Main Idea (مرکزی خیال)<div dir="ltr">
 
-1. <span dir="ltr">Passage 1:</span> **خاندان کے بارے میں** (About family)
-2. <span dir="ltr">Passage 2:</span> **روز مرہ کے کام** (Daily routine)
-3. <span dir="ltr">Passage 3:</span> **چار موسم** (Four seasons)
-4. <span dir="ltr">Passage 4:</span> **شیر اور چوہے کی دوستی** (Lion and mouse friendship)
+What is each passage mainly about?
 
 </div>
 
-### <span dir="ltr">Exercise 2: True or False</span>
+</div>
 
 <div class="practice-box">
 
-<span dir="ltr">Based on Passage 1:</span>
+1.<div dir="ltr">
+
+Passage 1:
+
+</div> **خاندان کے بارے میں** (About family)
+2.<div dir="ltr">
+
+Passage 2:
+
+</div> **روز مرہ کے کام** (Daily routine)
+3.<div dir="ltr">
+
+Passage 3:
+
+</div> **چار موسم** (Four seasons)
+4.<div dir="ltr">
+
+Passage 4:
+
+</div> **شیر اور چوہے کی دوستی** (Lion and mouse friendship)
+
+### Exercise 2: True or False<div class="practice-box">
+
+</div><div dir="ltr">
+
+Based on Passage 1:
+
+</div>
 1. احمد کے ابو ڈاکٹر ہیں۔ **True**
 2. احمد کے دو بھائی ہیں۔ **False** (ایک بھائی)
 3. فاطمہ سکول میں پڑھتی ہے۔ **False** (یونیورسٹی میں)
 
+### Exercise 3: Sequence (ترتیب)<div dir="ltr">
+
+Put these events from Passage 2 in order:
+
 </div>
 
-### <span dir="ltr">Exercise 3: Sequence (ترتیب)</span>
-<span dir="ltr">Put these events from Passage 2 in order:</span>
+</div>
 
 <div class="practice-box">
 
@@ -222,9 +266,11 @@ You've learned letters, words, and sentences. Now let's put it all together and 
 
 ---
 
-## <span dir="ltr">📚 New Vocabulary from Passages</span>
+<div dir="ltr">
 
-<div class="practice-box">
+## 📚 New Vocabulary from Passages<div class="practice-box">
+
+</div>
 
 | Urdu | English |
 |------|---------|
@@ -280,9 +326,11 @@ You've learned letters, words, and sentences. Now let's put it all together and 
 
 ---
 
-## ✅ Learning Outcomes
+## ✅ Learning Outcomes<div dir="ltr">
 
-<span dir="ltr">By the end of this chapter, you should be able to:</span>
+By the end of this chapter, you should be able to:
+
+</div>
 - ✅ Read complete Urdu paragraphs fluently
 - ✅ Understand main ideas in passages
 - ✅ Answer comprehension questions
@@ -290,14 +338,28 @@ You've learned letters, words, and sentences. Now let's put it all together and 
 - ✅ Learn new words from context
 - ✅ Summarize what you read
 - ✅ Discuss stories and passages
-- ✅ <span dir="ltr">Read for enjoyment!</span>
+- ✅<div dir="ltr">
+
+Read for enjoyment!
+
+</div>
 
 ---
 
-## <span dir="ltr">🎉 Outstanding Achievement!</span>
+<div dir="ltr">
 
-<span dir="ltr">You can now read and understand real Urdu text!</span>
+## 🎉 Outstanding Achievement!<div dir="ltr">
 
-**<span dir="ltr">Next:</span>** <span dir="ltr">Chapter 12 - Final chapter with advanced reading and complete mastery!</span>
+You can now read and understand real Urdu text!
+
+</div>
+
+</div>
+
+**<span dir="ltr">Next:</span>** <div dir="ltr">
+
+Chapter 12 - Final chapter with advanced reading and complete mastery!
+
+</div>
 
 **ماشاءاللہ!** (God has willed it - expression of joy/praise!)
